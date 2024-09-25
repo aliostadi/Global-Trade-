@@ -1,7 +1,7 @@
-Global Trade
-his project aims to provide a comprehensive visual representation of trade flows between different countries and continents.We utilized trade data, encompassing imports and exports of all goods, from 71 countries.This data was sourced from the World Integrated Trade Solution (WITS) by the World Bank. To demonstrate the superiority of our graph and to highlight the limitations of traditional flow maps, we initially created a flow map illustrating the trade balances between these countries.
+Global Trade:
+this project aims to provide a comprehensive visual representation of trade flows between different countries and continents.We utilized trade data, encompassing imports and exports of all goods, from 71 countries.This data was sourced from the World Integrated Trade Solution (WITS) by the World Bank. To demonstrate the superiority of our graph and to highlight the limitations of traditional flow maps, we initially created a flow map illustrating the trade balances between these countries.
 
 By leveraging D3.js, we have created an interactive graph that highlights the import and export relationships,the volume of trade, and the interconnectedness of global economies. Our visualization uses color codes to differentiate between continents, and arrows to indicate the direction of trade.The size of the nodes represents the total trade volume of each country, giving you an immediate sense of the major players in the global market.Also, we have built a selection feature that if you click on a country, the ten countries that have the most total trade with the selected country will be shown.Moreover, by placing a donut chart around each country, we made it possible for each country to compare the amount of export and import. We hope this tool helps you gain a deeper understanding of international trade dynamics.
 
-Usage
+Usage:
 If you wanna see the result just open the VS code, Install the Live Server Extention, right-click on run.html, and click on Open with live server. it is highly recommended to use a powerful system or a server to run the project because it needs powerful computational resources
