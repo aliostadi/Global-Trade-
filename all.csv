@@ -1,0 +1,3601 @@
+Source,Target,Import,Export
+Algeria,Italy,3755.0,5629.48
+Algeria,China,8317.84,691.61
+Algeria,France,4297.51,4431.26
+Algeria,Spain,3130.6,4103.37
+Algeria,United States,1841.54,3467.91
+Algeria,Turkey,2007.92,1837.06
+Algeria,Brazil,1374.14,2127.96
+Algeria,Germany,3223.25,14.05
+Algeria,Netherlands,702.62,1903.44
+Algeria,"Korea, Rep.",1689.71,892.18
+Algeria,United Kingdom,583.74,1606.17
+Algeria,India,983.92,871.52
+Algeria,Belgium,634.0,920.59
+Algeria,Argentina,1518.4,16.86
+Algeria,Portugal,404.79,955.8
+Algeria,Canada,603.42,668.03
+Algeria,Russian Federation,1220.64,6.29
+Algeria,Tunisia,329.59,753.42
+Algeria,"Egypt, Arab Rep.",420.71,456.83
+Algeria,Morocco,261.41,450.37
+Algeria,Japan,437.83,249.45
+Algeria,Romania,623.39,0.02
+Algeria,Ukraine,602.96,10.17
+Algeria,Greece,166.3,427.92
+Algeria,Indonesia,253.31,301.52
+Algeria,New Zealand,542.4,0.03
+Algeria,Saudi Arabia,530.65,3.96
+Algeria,Poland,458.39,21.61
+Algeria,Vietnam,457.33,2.42
+Algeria,Singapore,73.67,331.87
+Algeria,Switzerland,340.27,30.61
+Algeria,Cuba,1.12,353.58
+Algeria,Austria,344.72,0.08
+Algeria,Thailand,125.75,203.45
+Algeria,Sweden,314.21,6.35
+Algeria,United Arab Emirates,219.47,48.2
+Algeria,Malaysia,156.58,103.66
+Algeria,Ireland,246.97,3.33
+Algeria,Estonia,30.15,218.25
+Algeria,Jordan,104.94,132.85
+Algeria,Czech Republic,222.76,0.37
+Algeria,Australia,42.03,168.71
+Algeria,"Other Asia, nes",126.04,52.57
+Algeria,Finland,175.19,0.0
+Algeria,Mexico,139.64,11.01
+Algeria,Bulgaria,143.07,0.72
+Algeria,Denmark,136.64,0.05
+Algeria,Philippines,19.92,107.18
+Algeria,Uruguay,117.27,1.72
+Algeria,Tajikistan,82.72,34.18
+Argentina,Brazil,12391.98,11766.92
+Argentina,China,13525.04,6155.98
+Argentina,United States,5922.12,4995.2
+Argentina,India,1393.78,4293.27
+Argentina,Chile,695.69,4204.88
+Argentina,Vietnam,1184.39,3221.53
+Argentina,Paraguay,2914.63,1292.63
+Argentina,Netherlands,726.76,2984.6
+Argentina,Germany,2527.15,810.67
+Argentina,Spain,1083.5,1848.77
+Argentina,"Korea, Rep.",648.25,1720.17
+Argentina,Italy,1312.01,974.03
+Argentina,Indonesia,378.53,1862.98
+Argentina,Peru,191.69,2007.65
+Argentina,"Egypt, Arab Rep.",575.07,1535.63
+Argentina,Mexico,1403.15,696.17
+Argentina,Thailand,1553.26,432.05
+Argentina,Malaysia,529.11,1426.08
+Argentina,Uruguay,540.89,1334.29
+Argentina,Japan,1140.32,721.94
+Argentina,Unspecified,688.66,1087.1
+Argentina,Bolivia,1054.92,564.62
+Argentina,Algeria,46.7,1467.38
+Argentina,Switzerland,532.26,954.54
+Argentina,Colombia,354.09,1129.88
+Argentina,France,1002.65,431.98
+Argentina,Russian Federation,650.71,679.98
+Argentina,United Kingdom,540.52,760.36
+Argentina,"Iran, Islamic Rep.",2.23,1201.55
+Argentina,Saudi Arabia,317.58,850.45
+Argentina,Canada,423.99,704.96
+Argentina,United Arab Emirates,337.56,773.54
+Argentina,Australia,408.84,620.72
+Argentina,Poland,235.86,788.56
+Argentina,Morocco,326.23,679.27
+Argentina,Ecuador,313.78,616.96
+Argentina,Bangladesh,14.04,875.66
+Argentina,Belgium,467.59,419.76
+Argentina,Turkey,312.98,557.48
+Argentina,"Other Asia, nes",522.73,336.72
+Argentina,Ireland,274.68,437.6
+Argentina,South Africa,212.68,452.81
+Argentina,Israel,152.58,366.42
+Argentina,Qatar,463.01,23.26
+Argentina,Philippines,125.58,348.33
+Argentina,Iraq,0.0,407.04
+Argentina,Dominican Republic,5.26,335.5
+Argentina,Cuba,5.61,328.99
+Argentina,Denmark,146.78,183.42
+Argentina,Portugal,169.35,140.19
+Australia,China,72858.76,116817.97
+Australia,Unspecified,7240.81,62012.33
+Australia,Japan,15778.72,30319.47
+Australia,United States,26614.56,11021.95
+Australia,"Korea, Rep.",9475.16,22592.87
+Australia,India,6369.25,13624.04
+Australia,Singapore,9783.22,6565.16
+Australia,Thailand,11570.04,4226.4
+Australia,Malaysia,10307.55,4210.4
+Australia,"Other Asia, nes",4597.45,9210.68
+Australia,New Zealand,5197.8,8194.25
+Australia,Germany,11185.26,1749.43
+Australia,Vietnam,5373.41,7009.17
+Australia,Indonesia,3755.25,6996.48
+Australia,United Kingdom,5592.65,3418.67
+Australia,Italy,5885.52,730.04
+Australia,France,4632.95,1366.86
+Australia,Netherlands,2844.48,2567.42
+Australia,"Hong Kong, China",661.76,4583.96
+Australia,Switzerland,2751.82,1427.03
+Australia,Belgium,2501.29,963.33
+Australia,Canada,1912.46,1048.21
+Australia,Mexico,2708.79,222.83
+Australia,Papua New Guinea,1708.09,1218.54
+Australia,Spain,2378.72,458.02
+Australia,United Arab Emirates,967.53,1705.82
+Australia,Philippines,614.94,1827.79
+Australia,Brunei,1687.13,371.31
+Australia,Brazil,716.54,1306.9
+Australia,Sweden,1751.89,241.16
+Australia,Bangladesh,934.67,1057.11
+Australia,Saudi Arabia,637.04,1305.78
+Australia,Turkey,942.11,927.31
+Australia,South Africa,941.33,809.53
+Australia,Ireland,1629.25,76.73
+Australia,Poland,1255.23,337.78
+Australia,Austria,1462.03,39.51
+Australia,Finland,1114.14,169.26
+Australia,Denmark,1172.13,109.33
+Australia,Chile,503.72,390.61
+Australia,Pakistan,306.44,575.49
+Australia,Argentina,661.59,157.62
+Australia,Czech Republic,708.9,97.05
+Australia,Israel,648.52,149.85
+Australia,Qatar,450.69,282.53
+Australia,Hungary,648.75,32.99
+Australia,Sri Lanka,258.56,314.23
+Australia,Russian Federation,381.04,183.94
+Australia,Cote d'Ivoire,475.41,35.47
+Australia,"Egypt, Arab Rep.",46.86,404.79
+Austria,Germany,69544.61,58563.81
+Austria,Italy,13646.78,13155.82
+Austria,Switzerland,11969.96,10081.03
+Austria,China,15489.57,5700.38
+Austria,United States,6722.49,12746.47
+Austria,Czech Republic,9148.84,6987.95
+Austria,Poland,6824.39,7686.16
+Austria,Hungary,5537.07,7173.92
+Austria,France,5322.74,7371.76
+Austria,Netherlands,5595.67,3722.64
+Austria,United Kingdom,3280.51,5243.44
+Austria,Slovak Republic,4240.93,3727.48
+Austria,Slovenia,2852.04,4058.59
+Austria,Belgium,3297.9,3399.18
+Austria,Romania,2554.35,3508.05
+Austria,Spain,3043.13,2933.59
+Austria,Special Categories,5037.26,902.36
+Austria,Japan,2642.63,1916.06
+Austria,Turkey,2648.32,1761.31
+Austria,Sweden,1913.94,2085.48
+Austria,Russian Federation,1260.41,2361.22
+Austria,Croatia,1050.48,1767.12
+Austria,"Korea, Rep.",1116.88,1524.31
+Austria,India,1325.16,1217.96
+Austria,Canada,622.91,1702.4
+Austria,"Other Asia, nes",1213.24,924.27
+Austria,Mexico,463.44,1520.19
+Austria,Ukraine,1240.97,733.15
+Austria,"Serbia, FR(Serbia/Montenegro)",844.74,1096.44
+Austria,Denmark,810.87,1065.96
+Austria,Kazakhstan,1622.64,200.71
+Austria,Bulgaria,833.89,984.3
+Austria,South Africa,962.34,710.98
+Austria,Vietnam,1426.21,215.47
+Austria,Finland,726.36,827.61
+Austria,Bosnia and Herzegovina,888.08,593.24
+Austria,Australia,139.38,1307.67
+Austria,Brazil,353.88,902.86
+Austria,Thailand,877.41,359.74
+Austria,Malaysia,646.89,587.52
+Austria,Ireland,734.12,486.6
+Austria,Portugal,665.78,547.74
+Austria,Greece,475.49,677.8
+Austria,Bangladesh,1032.01,106.01
+Austria,Norway,429.95,706.59
+Austria,Singapore,498.19,482.41
+Austria,Libya,892.72,58.51
+Austria,Iraq,801.23,89.13
+Austria,Israel,335.27,540.8
+Austria,Lithuania,398.54,410.9
+Bahrain,Saudi Arabia,966.39,2460.69
+Bahrain,United Arab Emirates,1045.2,1623.38
+Bahrain,Brazil,1997.2,197.36
+Bahrain,China,1840.78,341.13
+Bahrain,United States,738.84,1335.72
+Bahrain,India,733.73,395.38
+Bahrain,Australia,1023.65,99.56
+Bahrain,"Egypt, Arab Rep.",86.61,729.87
+Bahrain,Italy,505.27,226.08
+Bahrain,Oman,102.18,569.73
+Bahrain,Japan,547.79,117.68
+Bahrain,"Korea, Rep.",229.84,418.25
+Bahrain,Germany,476.9,126.15
+Bahrain,Netherlands,125.32,415.13
+Bahrain,United Kingdom,461.71,74.4
+Bahrain,Turkey,200.71,275.16
+Bahrain,Spain,194.27,273.22
+Bahrain,Kuwait,138.3,283.96
+Bahrain,Algeria,0.13,332.38
+Bahrain,Thailand,155.27,154.75
+Bahrain,France,232.15,50.65
+Bahrain,Switzerland,257.87,8.66
+Bahrain,Malaysia,92.65,167.35
+Bahrain,"Other Asia, nes",67.74,162.38
+Bahrain,Canada,177.46,32.09
+Bahrain,Singapore,51.08,154.07
+Bahrain,Morocco,11.55,145.67
+Bahrain,Sweden,143.67,2.91
+Bahrain,Jordan,54.56,91.32
+Bahrain,Pakistan,73.46,63.19
+Bahrain,Indonesia,79.84,41.51
+Bahrain,Poland,66.67,53.69
+Bahrain,South Africa,30.87,87.2
+Bahrain,Philippines,23.61,86.82
+Bahrain,Vietnam,93.09,13.66
+Bahrain,"Hong Kong, China",5.57,100.38
+Bahrain,Belgium,87.21,11.56
+Bahrain,Chile,92.38,0.27
+Bahrain,Mexico,61.99,29.63
+Bahrain,Denmark,84.28,4.01
+Bahrain,Austria,49.96,23.11
+Bahrain,Ireland,62.53,4.33
+Bahrain,Free Zones,38.83,20.07
+Bahrain,New Zealand,45.62,13.21
+Bahrain,Kenya,22.54,34.82
+Bahrain,Libya,0.03,56.12
+Bahrain,Hungary,41.91,9.29
+Bahrain,Czech Republic,37.84,13.18
+Bahrain,Norway,43.2,7.36
+Bahrain,Russian Federation,34.14,10.81
+Belarus,Unspecified,15492.12,16086.97
+Belarus,Russian Federation,11948.93,13972.22
+Belarus,China,3403.42,556.1
+Belarus,Ukraine,1439.0,1214.66
+Belarus,Poland,1063.59,1584.42
+Belarus,Germany,1504.47,790.03
+Belarus,Lithuania,234.4,1185.46
+Belarus,Italy,722.89,126.17
+Belarus,Kazakhstan,77.49,764.95
+Belarus,Turkey,683.92,102.0
+Belarus,Latvia,119.3,467.1
+Belarus,United States,401.46,171.5
+Belarus,Netherlands,220.44,280.31
+Belarus,France,316.23,85.47
+Belarus,United Kingdom,200.55,147.89
+Belarus,Czech Republic,183.13,157.9
+Belarus,Sweden,263.17,37.18
+Belarus,Switzerland,271.91,13.9
+Belarus,Norway,175.45,106.43
+Belarus,Belgium,165.76,114.82
+Belarus,Spain,240.49,25.0
+Belarus,Uzbekistan,52.52,181.64
+Belarus,Austria,171.36,26.57
+Belarus,Moldova,71.81,114.95
+Belarus,Azerbaijan,13.33,172.52
+Belarus,Denmark,95.67,85.9
+Belarus,India,152.37,25.81
+Belarus,Estonia,39.03,132.34
+Belarus,Hungary,117.67,50.65
+Belarus,Romania,44.98,103.07
+Belarus,Israel,42.39,101.15
+Belarus,Japan,126.86,9.06
+Belarus,Finland,112.35,18.74
+Belarus,Vietnam,106.0,23.58
+Belarus,Argentina,119.8,1.5
+Belarus,Slovenia,97.18,22.45
+Belarus,Slovak Republic,82.95,34.67
+Belarus,Bulgaria,42.87,55.18
+Belarus,"Serbia, FR(Serbia/Montenegro)",37.78,56.16
+Belarus,"Korea, Rep.",82.34,10.53
+Belarus,"Other Asia, nes",84.26,1.59
+Belarus,Georgia,39.56,46.03
+Belarus,Armenia,26.44,58.57
+Belarus,Kyrgyz Republic,10.3,71.75
+Belarus,Ireland,52.62,22.11
+Belarus,Morocco,61.75,2.03
+Belarus,Malaysia,56.91,6.38
+Belarus,United Arab Emirates,14.88,44.63
+Belarus,Tunisia,2.3,54.62
+Belarus,Iceland,41.8,14.44
+Belgium,Netherlands,83001.12,47637.74
+Belgium,Germany,63246.18,65823.7
+Belgium,France,40560.5,53115.66
+Belgium,United States,19271.28,26690.62
+Belgium,United Kingdom,11158.76,23950.13
+Belgium,Italy,17202.07,15589.01
+Belgium,Ireland,21998.1,2684.79
+Belgium,China,12492.74,7124.45
+Belgium,Spain,8333.34,10227.52
+Belgium,Japan,8856.04,8260.03
+Belgium,Poland,6436.08,9434.42
+Belgium,Switzerland,8344.18,5034.76
+Belgium,Sweden,6297.59,6153.25
+Belgium,India,4773.37,6897.88
+Belgium,Russian Federation,7488.3,3778.32
+Belgium,Norway,7585.18,2319.12
+Belgium,Luxembourg,1926.71,7153.79
+Belgium,Turkey,3458.4,5196.21
+Belgium,Czech Republic,4311.99,3490.18
+Belgium,Canada,3147.44,3730.82
+Belgium,Austria,2877.41,3377.34
+Belgium,"Korea, Rep.",2676.72,3096.31
+Belgium,United Arab Emirates,1636.62,3829.24
+Belgium,Mexico,3686.63,1334.76
+Belgium,Hungary,2526.8,2224.23
+Belgium,Singapore,3134.64,1604.42
+Belgium,Denmark,1676.13,2845.99
+Belgium,Brazil,1751.52,2491.21
+Belgium,South Africa,2832.54,1398.26
+Belgium,Bunkers,680.17,2866.0
+Belgium,Romania,1380.36,2156.71
+Belgium,Israel,832.68,2572.6
+Belgium,Portugal,1340.48,1990.19
+Belgium,Australia,815.41,2371.05
+Belgium,Finland,1280.34,1839.26
+Belgium,Saudi Arabia,1184.05,1931.44
+Belgium,Nigeria,295.77,2302.9
+Belgium,Slovak Republic,1453.11,1132.75
+Belgium,"Other Asia, nes",1511.92,994.73
+Belgium,Malaysia,1250.96,1060.4
+Belgium,Bulgaria,1246.63,828.99
+Belgium,Thailand,1103.42,968.74
+Belgium,"Egypt, Arab Rep.",176.84,1864.14
+Belgium,Botswana,1267.84,569.12
+Belgium,"Hong Kong, China",377.72,1409.1
+Belgium,Greece,283.45,1476.05
+Belgium,Vietnam,837.11,900.3
+Belgium,Qatar,1243.02,337.36
+Belgium,Lithuania,660.94,844.08
+Belgium,Morocco,500.76,965.65
+Botswana,South Africa,4638.67,681.28
+Botswana,Belgium,1203.72,1754.51
+Botswana,United Arab Emirates,405.88,1914.33
+Botswana,India,403.88,1290.51
+Botswana,Namibia,400.08,143.25
+Botswana,Israel,40.23,450.7
+Botswana,Singapore,9.04,428.31
+Botswana,"Hong Kong, China",32.43,362.53
+Botswana,China,196.91,95.55
+Botswana,Canada,220.31,8.84
+Botswana,United States,61.67,115.81
+Botswana,Russian Federation,173.8,0.01
+Botswana,Switzerland,85.22,32.68
+Botswana,Zambia,62.18,35.2
+Botswana,Japan,74.42,22.45
+Botswana,Zimbabwe,38.25,45.12
+Botswana,France,80.41,0.18
+Botswana,Germany,53.47,4.19
+Botswana,United Kingdom,35.52,3.73
+Botswana,Vietnam,0.47,31.54
+Botswana,Eswatini,27.37,0.16
+Botswana,Brazil,19.58,0.03
+Botswana,Finland,17.64,0.0
+Botswana,"Korea, Rep.",16.44,0.0
+Botswana,Netherlands,14.52,0.88
+Botswana,Australia,13.74,0.59
+Botswana,Cambodia,0.01,13.09
+Botswana,Austria,12.88,0.01
+Botswana,Italy,10.38,1.09
+Botswana,Thailand,10.2,0.12
+Botswana,Mozambique,6.69,3.23
+Botswana,Angola,8.93,0.95
+Botswana,Pakistan,7.12,0.82
+Botswana,Portugal,6.49,0.01
+Botswana,Turkey,6.42,0.04
+Botswana,Norway,0.23,6.16
+Botswana,"Congo, Dem. Rep.",1.14,5.23
+Botswana,Czech Republic,5.74,0.1
+Botswana,Hungary,5.73,0.08
+Botswana,Malaysia,4.86,0.0
+Botswana,Slovak Republic,2.94,1.04
+Botswana,Malawi,1.6,2.19
+Botswana,Kenya,3.21,0.29
+Botswana,Ireland,3.47,0.03
+Botswana,Spain,3.46,0.02
+Botswana,Morocco,2.93,0.02
+Botswana,Romania,2.84,0.0
+Botswana,Cyprus,2.57,0.0
+Botswana,Mexico,2.45,0.1
+Botswana,Poland,2.43,0.01
+Brazil,China,53464.02,87907.89
+Brazil,United States,41502.93,31337.52
+Brazil,Argentina,12412.75,11878.46
+Brazil,Germany,11921.3,5042.73
+Brazil,India,7233.95,4799.02
+Brazil,Chile,4552.26,7018.69
+Brazil,Netherlands,2218.11,9316.02
+Brazil,"Korea, Rep.",5458.64,5670.84
+Brazil,Japan,5427.93,5539.5
+Brazil,Mexico,4770.68,5560.49
+Brazil,Italy,5749.97,3861.45
+Brazil,Spain,3536.98,5433.17
+Brazil,Russian Federation,6228.32,1587.21
+Brazil,Canada,2793.68,4922.33
+Brazil,France,4988.51,2523.97
+Brazil,Paraguay,3663.44,3041.35
+Brazil,Singapore,882.61,5820.71
+Brazil,Malaysia,1861.44,4674.68
+Brazil,Belgium,2562.79,3373.76
+Brazil,United Kingdom,2694.12,3086.76
+Brazil,Vietnam,3015.69,2619.9
+Brazil,Colombia,2171.7,3346.82
+Brazil,St. Lucia,3006.64,2252.88
+Brazil,Thailand,2281.24,2691.69
+Brazil,Turkey,1390.82,3158.21
+Brazil,Switzerland,2298.81,2033.05
+Brazil,Peru,1248.13,3074.36
+Brazil,"Other Asia, nes",2896.07,1366.7
+Brazil,Indonesia,1933.11,2054.93
+Brazil,Uruguay,1863.26,2070.26
+Brazil,Portugal,891.75,2634.65
+Brazil,United Arab Emirates,1031.02,2327.31
+Brazil,Bolivia,1454.48,1522.07
+Brazil,"Hong Kong, China",779.62,2015.21
+Brazil,Algeria,1201.56,1518.39
+Brazil,"Egypt, Arab Rep.",612.97,2013.9
+Brazil,Morocco,2035.84,565.41
+Brazil,Sweden,1778.24,754.89
+Brazil,Oman,727.64,1545.9
+Brazil,South Africa,1029.97,1186.76
+Brazil,Bahrain,292.23,1905.16
+Brazil,"Iran, Islamic Rep.",68.29,1940.97
+Brazil,Nigeria,1052.81,929.68
+Brazil,Bangladesh,130.28,1824.43
+Brazil,Norway,657.27,1206.16
+Brazil,Poland,952.89,902.53
+Brazil,Australia,1272.01,560.62
+Brazil,Israel,1219.17,597.93
+Brazil,Philippines,322.31,1372.55
+Brazil,Pakistan,104.43,1209.28
+Bulgaria,Germany,5674.96,6127.79
+Bulgaria,Romania,3497.74,4150.87
+Bulgaria,Turkey,3635.17,2543.84
+Bulgaria,Italy,3059.16,3100.8
+Bulgaria,Greece,2545.24,2868.59
+Bulgaria,Russian Federation,3523.95,516.29
+Bulgaria,China,2508.32,1329.48
+Bulgaria,Netherlands,1966.74,1029.89
+Bulgaria,France,1219.36,1498.58
+Bulgaria,Poland,1655.65,1037.52
+Bulgaria,Hungary,1696.62,755.64
+Bulgaria,Belgium,895.68,1337.1
+Bulgaria,Czech Republic,1143.06,900.31
+Bulgaria,Spain,875.91,1125.13
+Bulgaria,Austria,1128.11,813.6
+Bulgaria,"Serbia, FR(Serbia/Montenegro)",931.59,988.98
+Bulgaria,Unspecified,569.65,1346.48
+Bulgaria,Ukraine,988.35,479.95
+Bulgaria,United States,337.56,1027.01
+Bulgaria,North Macedonia,440.19,680.04
+Bulgaria,Slovak Republic,579.62,342.18
+Bulgaria,Georgia,437.87,229.78
+Bulgaria,Switzerland,339.86,277.57
+Bulgaria,Sweden,293.31,322.3
+Bulgaria,Croatia,224.2,384.87
+Bulgaria,Denmark,210.88,390.02
+Bulgaria,Slovenia,345.05,253.9
+Bulgaria,"Egypt, Arab Rep.",310.66,281.7
+Bulgaria,Israel,203.34,229.41
+Bulgaria,"Korea, Rep.",167.59,254.82
+Bulgaria,India,237.34,167.84
+Bulgaria,Peru,373.22,5.46
+Bulgaria,Ireland,300.89,77.41
+Bulgaria,Chile,326.18,19.64
+Bulgaria,Saudi Arabia,79.16,233.4
+Bulgaria,Japan,242.31,64.19
+Bulgaria,Portugal,145.26,151.79
+Bulgaria,Tunisia,23.48,258.39
+Bulgaria,"Hong Kong, China",167.82,106.59
+Bulgaria,Brazil,215.64,55.31
+Bulgaria,Cyprus,90.45,165.97
+Bulgaria,"Other Asia, nes",201.09,45.27
+Bulgaria,Canada,146.85,85.03
+Bulgaria,Vietnam,115.45,115.01
+Bulgaria,Morocco,102.58,114.66
+Bulgaria,Lithuania,106.45,103.28
+Bulgaria,Libya,61.52,138.63
+Bulgaria,Finland,100.48,91.73
+Bulgaria,Mexico,70.07,120.99
+Bulgaria,Albania,47.81,134.59
+Canada,United States,239020.89,377983.78
+Canada,China,68559.62,22404.74
+Canada,Mexico,26994.86,6541.05
+Canada,Japan,12324.0,11569.59
+Canada,Germany,15139.53,5250.26
+Canada,United Kingdom,6267.86,13155.17
+Canada,"Korea, Rep.",8302.08,5041.29
+Canada,Italy,8348.7,2130.6
+Canada,France,5666.43,3231.28
+Canada,Vietnam,7844.79,526.73
+Canada,"Other Asia, nes",6244.36,1951.3
+Canada,Brazil,5963.58,1816.56
+Canada,India,4811.34,2387.7
+Canada,Belgium,3881.27,3156.62
+Canada,Switzerland,4541.06,2422.98
+Canada,Netherlands,3121.58,3835.85
+Canada,Spain,3039.37,1857.51
+Canada,Peru,3170.62,869.8
+Canada,Thailand,3286.02,696.48
+Canada,Malaysia,3032.25,815.57
+Canada,Saudi Arabia,1902.97,1745.36
+Canada,Australia,1778.62,1855.9
+Canada,Indonesia,1577.83,1790.59
+Canada,Norway,781.48,2497.67
+Canada,"Hong Kong, China",340.41,2822.64
+Canada,Turkey,2222.97,918.38
+Canada,Ireland,2293.87,621.08
+Canada,Poland,1788.27,666.95
+Canada,Chile,1438.69,974.18
+Canada,Bangladesh,1504.68,792.92
+Canada,Sweden,1933.55,350.15
+Canada,Russian Federation,1707.99,523.79
+Canada,Philippines,1119.27,1097.23
+Canada,Nigeria,1647.05,483.08
+Canada,Austria,1842.95,271.97
+Canada,United Arab Emirates,438.33,1568.52
+Canada,Colombia,1038.75,802.5
+Canada,Singapore,822.26,965.14
+Canada,Finland,1103.61,551.44
+Canada,South Africa,1336.28,307.39
+Canada,"Egypt, Arab Rep.",1021.8,501.66
+Canada,Cambodia,1423.15,30.67
+Canada,Israel,1048.91,383.67
+Canada,Denmark,1195.43,197.85
+Canada,Argentina,772.21,283.79
+Canada,New Zealand,613.55,348.29
+Canada,Pakistan,433.82,526.75
+Canada,Morocco,510.2,399.91
+Canada,Algeria,46.01,862.9
+Canada,Czech Republic,679.72,182.05
+Chile,China,27515.17,36523.64
+Chile,United States,16027.01,14932.95
+Chile,Brazil,7735.61,4582.09
+Chile,Japan,2140.25,7238.28
+Chile,"Korea, Rep.",1877.7,4826.18
+Chile,Argentina,4913.58,787.34
+Chile,Germany,2947.11,1075.68
+Chile,Mexico,2530.69,1390.89
+Chile,Spain,2127.55,1554.04
+Chile,Peru,1802.07,1655.86
+Chile,France,1216.04,1596.4
+Chile,India,1282.33,1287.94
+Chile,"Other Asia, nes",350.77,2073.16
+Chile,Canada,1160.89,1165.43
+Chile,Italy,1483.85,766.76
+Chile,Netherlands,579.56,1535.23
+Chile,Colombia,1393.14,695.52
+Chile,Unspecified,1801.2,267.82
+Chile,Ecuador,1176.42,503.59
+Chile,Vietnam,1321.37,281.05
+Chile,Paraguay,1080.92,455.52
+Chile,Thailand,753.97,517.18
+Chile,Switzerland,319.74,914.29
+Chile,United Kingdom,629.83,577.47
+Chile,Bolivia,241.02,908.99
+Chile,Belgium,534.68,472.96
+Chile,Turkey,650.21,301.42
+Chile,Russian Federation,198.69,616.98
+Chile,Australia,430.94,339.48
+Chile,Sweden,491.27,143.91
+Chile,Finland,308.9,265.61
+Chile,Angola,537.82,0.52
+Chile,Malaysia,322.47,213.07
+Chile,Austria,375.32,138.55
+Chile,Indonesia,294.35,144.05
+Chile,Bulgaria,27.39,369.0
+Chile,Denmark,212.7,137.07
+Chile,Poland,226.03,116.14
+Chile,Philippines,52.08,284.03
+Chile,Panama,94.27,232.88
+Chile,Uruguay,195.54,131.0
+Chile,Trinidad and Tobago,290.55,22.55
+Chile,Costa Rica,50.14,243.65
+Chile,South Africa,79.36,210.13
+Chile,United Arab Emirates,69.0,214.68
+Chile,Ireland,179.79,55.82
+Chile,Guatemala,96.5,137.79
+Chile,Norway,172.83,57.28
+Chile,Israel,131.24,94.68
+Chile,New Zealand,154.9,58.98
+China,United States,180971.93,577125.5
+China,Japan,205523.71,165822.96
+China,"Korea, Rep.",213445.08,148847.03
+China,"Hong Kong, China",9700.21,349442.32
+China,"Other Asia, nes",249876.61,78490.65
+China,Germany,119920.07,115181.92
+China,Vietnam,92315.97,137904.87
+China,Australia,163729.74,66383.68
+China,Malaysia,98192.54,78697.73
+China,Brazil,109877.88,53612.22
+China,Russian Federation,78970.61,67550.05
+China,Thailand,61818.24,69355.43
+China,India,28137.34,97510.66
+China,Indonesia,63886.55,60649.44
+China,Netherlands,14005.02,102433.41
+China,United Kingdom,25652.94,87029.78
+China,Singapore,38803.06,55215.27
+China,Saudi Arabia,56961.58,30321.53
+China,Mexico,19142.59,67440.74
+China,France,39126.64,46388.2
+China,Philippines,24759.92,57308.18
+China,Canada,30450.11,51510.53
+China,Italy,30322.55,43630.02
+China,United Arab Emirates,28567.89,43818.21
+China,Chile,39458.63,26292.8
+China,South Africa,32973.97,21115.3
+China,Spain,12290.11,36127.93
+China,Switzerland,38068.6,6304.57
+China,Poland,5541.77,36578.29
+China,Belgium,8572.17,30381.73
+China,Peru,24184.66,13302.12
+China,Iraq,26647.23,10689.81
+China,Turkey,5049.49,29153.87
+China,Oman,28587.51,3565.16
+China,Pakistan,3584.87,24240.97
+China,Nigeria,3034.65,22636.16
+China,Kazakhstan,11391.71,13960.38
+China,Bangladesh,1046.91,24094.59
+China,New Zealand,16155.34,8560.94
+China,Angola,20908.23,2491.55
+China,Ireland,17626.34,5321.33
+China,Israel,7535.18,15298.22
+China,Kuwait,17755.28,4368.47
+China,Czech Republic,6053.56,15108.15
+China,Sweden,9871.91,11034.89
+China,"Egypt, Arab Rep.",1704.41,18264.73
+China,Colombia,5614.11,14354.66
+China,Ukraine,9841.41,9404.59
+China,Myanmar,8381.02,10527.48
+China,Denmark,6976.1,10871.71
+Colombia,United States,14191.68,11624.29
+Colombia,China,14795.95,3660.97
+Colombia,Brazil,3502.32,2049.08
+Colombia,Mexico,3800.48,1202.67
+Colombia,India,1378.4,2238.8
+Colombia,Germany,2065.12,723.35
+Colombia,Ecuador,830.28,1757.98
+Colombia,Panama,40.58,2384.74
+Colombia,Spain,1289.32,710.05
+Colombia,Peru,856.25,1081.43
+Colombia,Chile,751.67,1089.95
+Colombia,Italy,898.76,877.38
+Colombia,Japan,1268.94,467.83
+Colombia,Turkey,463.44,1270.05
+Colombia,Canada,976.72,701.79
+Colombia,France,1474.85,190.26
+Colombia,Argentina,1300.39,295.33
+Colombia,"Korea, Rep.",968.89,585.78
+Colombia,Netherlands,488.71,981.1
+Colombia,Free Zones,824.89,609.73
+Colombia,Belgium,434.78,562.2
+Colombia,United Kingdom,511.39,451.05
+Colombia,Vietnam,916.17,20.9
+Colombia,Russian Federation,533.62,139.62
+Colombia,Bolivia,523.87,127.18
+Colombia,"Other Asia, nes",519.33,86.82
+Colombia,Switzerland,423.36,169.41
+Colombia,Dominican Republic,48.4,436.58
+Colombia,"Hong Kong, China",56.94,409.19
+Colombia,Israel,111.01,319.26
+Colombia,Guatemala,58.93,364.39
+Colombia,Venezuela,69.38,331.17
+Colombia,Thailand,373.07,26.79
+Colombia,Indonesia,361.84,18.52
+Colombia,Costa Rica,101.8,261.17
+Colombia,Malaysia,255.26,76.17
+Colombia,Unspecified,325.26,4.84
+Colombia,Trinidad and Tobago,269.05,50.41
+Colombia,Ukraine,232.63,32.03
+Colombia,Singapore,147.08,111.69
+Colombia,Australia,37.8,210.71
+Colombia,Finland,138.54,95.48
+Colombia,Sweden,188.16,43.4
+Colombia,United Arab Emirates,59.12,161.98
+Colombia,Poland,110.05,110.17
+Colombia,Ireland,206.39,13.61
+Colombia,El Salvador,7.53,199.79
+Colombia,"Bahamas, The",0.0,179.72
+Colombia,Honduras,43.91,124.91
+Colombia,Hungary,162.92,2.13
+"Congo, Rep.",China,460.29,1081.06
+"Congo, Rep.",France,293.0,40.14
+"Congo, Rep.",Belgium,211.33,44.44
+"Congo, Rep.",Cote d'Ivoire,12.7,202.16
+"Congo, Rep.",Togo,19.43,177.82
+"Congo, Rep.",Cameroon,27.84,127.01
+"Congo, Rep.",India,77.09,74.0
+"Congo, Rep.",Gabon,51.66,94.17
+"Congo, Rep.",United Arab Emirates,66.88,73.79
+"Congo, Rep.",United States,97.63,15.22
+"Congo, Rep.",Russian Federation,104.48,0.07
+"Congo, Rep.",Namibia,86.58,3.22
+"Congo, Rep.",Angola,29.7,50.83
+"Congo, Rep.",Brazil,76.36,0.05
+"Congo, Rep.",Italy,51.71,21.85
+"Congo, Rep.",South Africa,39.22,30.64
+"Congo, Rep.",Australia,0.63,68.93
+"Congo, Rep.","Congo, Dem. Rep.",59.9,9.35
+"Congo, Rep.",Singapore,9.46,54.11
+"Congo, Rep.",Turkey,55.41,4.04
+"Congo, Rep.",Netherlands,39.79,16.15
+"Congo, Rep.",United Kingdom,19.09,33.43
+"Congo, Rep.",Indonesia,49.06,1.73
+"Congo, Rep.",Germany,42.27,4.79
+"Congo, Rep.",Malaysia,20.15,15.62
+"Congo, Rep.",Spain,24.06,10.69
+"Congo, Rep.",Norway,19.86,13.94
+"Congo, Rep.",Argentina,29.51,0.01
+"Congo, Rep.",Mozambique,26.77,0.96
+"Congo, Rep.",Nigeria,24.39,0.37
+"Congo, Rep.",Senegal,18.16,3.96
+"Congo, Rep.",Vietnam,2.92,19.11
+"Congo, Rep.",Morocco,17.36,2.52
+"Congo, Rep.",Thailand,14.31,3.65
+"Congo, Rep.",Portugal,12.76,3.44
+"Congo, Rep.","Egypt, Arab Rep.",13.91,0.01
+"Congo, Rep.","Korea, Rep.",6.22,7.52
+"Congo, Rep.",Mauritania,11.65,0.02
+"Congo, Rep.",Ukraine,11.01,0.01
+"Congo, Rep.",Central African Republic,0.73,9.44
+"Congo, Rep.",Ireland,8.76,0.79
+"Congo, Rep.",Lebanon,8.62,0.24
+"Congo, Rep.",Tunisia,8.19,0.02
+"Congo, Rep.",Japan,1.45,6.18
+"Congo, Rep.",Pakistan,0.87,5.71
+"Congo, Rep.",Ghana,2.08,4.16
+"Congo, Rep.",New Zealand,5.5,0.15
+"Congo, Rep.",Lithuania,5.47,0.1
+"Congo, Rep.",Denmark,3.09,2.24
+"Congo, Rep.",Greece,2.62,2.53
+Costa Rica,United States,6957.32,6269.77
+Costa Rica,China,2937.92,308.63
+Costa Rica,Mexico,1183.22,355.29
+Costa Rica,Guatemala,500.4,701.07
+Costa Rica,Netherlands,113.34,1036.72
+Costa Rica,Belgium,119.1,748.49
+Costa Rica,Panama,221.11,582.8
+Costa Rica,Nicaragua,179.24,579.91
+Costa Rica,Honduras,155.79,478.31
+Costa Rica,Japan,369.05,258.32
+Costa Rica,El Salvador,240.21,366.92
+Costa Rica,Spain,353.55,211.24
+Costa Rica,Germany,417.41,143.75
+Costa Rica,Brazil,408.69,43.92
+Costa Rica,Colombia,342.33,91.75
+Costa Rica,Italy,217.94,177.38
+Costa Rica,Dominican Republic,52.73,313.84
+Costa Rica,United Kingdom,119.56,230.51
+Costa Rica,Chile,274.17,47.86
+Costa Rica,"Korea, Rep.",225.83,87.64
+Costa Rica,Canada,198.63,98.61
+Costa Rica,India,193.37,34.36
+Costa Rica,France,136.46,70.77
+Costa Rica,"Hong Kong, China",151.07,41.4
+Costa Rica,Vietnam,179.37,12.72
+Costa Rica,Ukraine,176.41,15.46
+Costa Rica,"Other Asia, nes",141.01,36.45
+Costa Rica,Switzerland,163.85,6.03
+Costa Rica,Ireland,73.19,87.26
+Costa Rica,Peru,66.22,90.53
+Costa Rica,Turkey,106.95,45.73
+Costa Rica,Thailand,108.92,35.18
+Costa Rica,Argentina,124.77,14.67
+Costa Rica,Malaysia,110.65,19.51
+Costa Rica,Russian Federation,83.31,36.74
+Costa Rica,Singapore,76.1,26.93
+Costa Rica,Trinidad and Tobago,13.3,61.09
+Costa Rica,Ecuador,24.79,48.95
+Costa Rica,Portugal,17.78,55.02
+Costa Rica,Hungary,50.52,15.27
+Costa Rica,Jamaica,1.12,62.55
+Costa Rica,Sweden,54.23,6.39
+Costa Rica,Curaçao,44.39,5.6
+Costa Rica,Denmark,41.74,4.89
+Costa Rica,Indonesia,43.19,1.92
+Costa Rica,Poland,27.02,16.45
+Costa Rica,Uruguay,39.47,3.28
+Costa Rica,Saudi Arabia,14.53,27.49
+Costa Rica,Finland,17.15,23.92
+Costa Rica,Norway,18.46,22.37
+Cyprus,Greece,2455.72,307.73
+Cyprus,Italy,1045.21,51.0
+Cyprus,Germany,637.5,120.32
+Cyprus,United Kingdom,377.43,250.35
+Cyprus,Netherlands,527.15,64.88
+Cyprus,Israel,476.44,105.82
+Cyprus,China,509.87,61.15
+Cyprus,Spain,351.43,19.76
+Cyprus,Lebanon,27.42,337.66
+Cyprus,Marshall Islands,53.25,297.14
+Cyprus,Belgium,308.2,13.21
+Cyprus,British Virgin Islands,44.25,238.36
+Cyprus,Liberia,76.94,191.45
+Cyprus,"Korea, Rep.",223.6,8.28
+Cyprus,United States,139.15,89.4
+Cyprus,France,172.9,50.7
+Cyprus,Libya,3.83,213.72
+Cyprus,Russian Federation,102.09,90.61
+Cyprus,Romania,160.97,27.93
+Cyprus,Cayman Islands,180.78,0.04
+Cyprus,Poland,154.83,22.42
+Cyprus,Unspecified,122.06,39.9
+Cyprus,Bulgaria,126.46,27.82
+Cyprus,Malta,111.29,39.13
+Cyprus,Ireland,121.44,15.03
+Cyprus,Turkey,131.41,3.64
+Cyprus,Sweden,49.05,85.77
+Cyprus,Norway,10.81,114.25
+Cyprus,India,98.14,21.98
+Cyprus,Japan,110.54,1.57
+Cyprus,"Hong Kong, China",49.6,59.55
+Cyprus,United Arab Emirates,68.58,24.33
+Cyprus,Singapore,40.92,45.88
+Cyprus,Austria,62.68,22.21
+Cyprus,Switzerland,67.55,15.9
+Cyprus,Czech Republic,53.61,29.7
+Cyprus,Kenya,3.48,78.68
+Cyprus,Saudi Arabia,48.15,25.56
+Cyprus,"Egypt, Arab Rep.",45.81,26.98
+Cyprus,Denmark,47.24,18.6
+Cyprus,Vietnam,43.19,21.89
+Cyprus,Hungary,49.97,3.61
+Cyprus,Argentina,50.79,0.99
+Cyprus,Thailand,30.32,18.94
+Cyprus,Slovenia,23.24,24.77
+Cyprus,Croatia,35.72,6.27
+Cyprus,Bermuda,1.87,38.43
+Cyprus,Slovak Republic,25.95,13.78
+Cyprus,Portugal,34.21,4.92
+Cyprus,"Serbia, FR(Serbia/Montenegro)",28.29,9.27
+Czech Republic,Germany,46932.18,73620.76
+Czech Republic,China,35084.74,2997.8
+Czech Republic,Poland,17308.25,15288.85
+Czech Republic,Slovak Republic,9430.85,18298.0
+Czech Republic,Italy,8969.6,8767.25
+Czech Republic,France,6065.4,10469.08
+Czech Republic,Austria,5934.47,10136.05
+Czech Republic,Netherlands,5469.16,8352.37
+Czech Republic,Hungary,5386.14,7497.27
+Czech Republic,United Kingdom,3274.01,8713.23
+Czech Republic,Russian Federation,6998.96,4320.79
+Czech Republic,United States,5201.78,5368.66
+Czech Republic,Spain,3763.93,5683.7
+Czech Republic,Belgium,3560.84,4989.32
+Czech Republic,Romania,2845.05,3419.06
+Czech Republic,Japan,4259.32,1425.41
+Czech Republic,"Korea, Rep.",5014.92,560.17
+Czech Republic,Switzerland,2154.75,3326.36
+Czech Republic,Sweden,1645.44,3828.64
+Czech Republic,Turkey,2423.39,2356.88
+Czech Republic,Denmark,1477.19,2214.59
+Czech Republic,Ukraine,1839.26,1604.83
+Czech Republic,Malaysia,2309.8,193.84
+Czech Republic,Ireland,947.5,1525.44
+Czech Republic,India,1217.66,890.94
+Czech Republic,Vietnam,1988.78,92.64
+Czech Republic,Bulgaria,806.92,1221.71
+Czech Republic,Slovenia,857.19,1143.18
+Czech Republic,"Serbia, FR(Serbia/Montenegro)",922.83,982.16
+Czech Republic,Finland,638.83,1208.98
+Czech Republic,Mexico,1045.37,775.04
+Czech Republic,"Other Asia, nes",1525.3,291.55
+Czech Republic,Thailand,1614.83,190.37
+Czech Republic,Norway,449.67,1065.28
+Czech Republic,South Africa,906.38,565.2
+Czech Republic,Portugal,652.94,807.64
+Czech Republic,Lithuania,488.05,868.28
+Czech Republic,Israel,274.51,1051.67
+Czech Republic,Unspecified,1227.01,64.32
+Czech Republic,Croatia,239.81,778.27
+Czech Republic,Kazakhstan,781.47,229.83
+Czech Republic,Greece,367.86,594.59
+Czech Republic,Singapore,404.77,486.83
+Czech Republic,Morocco,290.87,546.72
+Czech Republic,Bangladesh,782.18,48.13
+Czech Republic,Canada,462.59,358.44
+Czech Republic,"Egypt, Arab Rep.",114.11,689.57
+Czech Republic,United Arab Emirates,89.92,682.08
+Czech Republic,Australia,134.93,606.31
+Czech Republic,Azerbaijan,612.6,88.12
+Denmark,Germany,25133.19,16167.69
+Denmark,Sweden,15384.76,11630.39
+Denmark,Special Categories,2036.47,22800.44
+Denmark,Netherlands,10029.83,5873.94
+Denmark,China,9802.67,4366.83
+Denmark,Norway,4666.78,7165.78
+Denmark,United States,4411.52,5921.06
+Denmark,Poland,5338.77,4199.37
+Denmark,United Kingdom,2675.59,6285.19
+Denmark,France,3597.53,3750.07
+Denmark,Italy,4116.04,2743.4
+Denmark,Belgium,3914.77,1949.31
+Denmark,Spain,2200.26,2001.29
+Denmark,Finland,1578.04,2420.71
+Denmark,Russian Federation,2243.94,970.34
+Denmark,Unspecified,1685.91,1282.28
+Denmark,Czech Republic,1889.83,827.73
+Denmark,Turkey,1332.65,1101.41
+Denmark,Japan,471.08,1505.91
+Denmark,Austria,1145.9,778.58
+Denmark,Switzerland,793.01,1099.79
+Denmark,"Other Asia, nes",622.35,1105.11
+Denmark,Ireland,802.18,786.29
+Denmark,India,996.49,581.17
+Denmark,"Korea, Rep.",737.36,836.17
+Denmark,Lithuania,949.35,545.3
+Denmark,Hungary,823.76,599.99
+Denmark,Greenland,723.78,608.01
+Denmark,Latvia,812.92,428.13
+Denmark,Australia,199.06,1003.42
+Denmark,Singapore,145.89,1052.54
+Denmark,Bangladesh,991.59,103.4
+Denmark,Faeroe Islands,271.26,654.55
+Denmark,Thailand,468.97,416.83
+Denmark,Iceland,138.11,744.27
+Denmark,Canada,267.43,578.63
+Denmark,Estonia,477.37,358.28
+Denmark,Slovak Republic,508.72,314.72
+Denmark,Portugal,419.44,350.39
+Denmark,Brazil,281.66,443.62
+Denmark,Ukraine,324.86,390.17
+Denmark,Greece,282.05,425.08
+Denmark,Vietnam,464.54,237.42
+Denmark,Romania,350.37,344.94
+Denmark,Malaysia,366.95,308.77
+Denmark,Marshall Islands,489.59,184.36
+Denmark,Slovenia,467.3,135.07
+Denmark,"Hong Kong, China",239.23,352.56
+Denmark,Mexico,142.47,402.62
+Denmark,Saudi Arabia,28.03,456.33
+"Egypt, Arab Rep.",China,10009.61,1288.01
+"Egypt, Arab Rep.",Unspecified,7627.7,2714.7
+"Egypt, Arab Rep.",Saudi Arabia,6251.34,1999.11
+"Egypt, Arab Rep.",United States,5105.39,2159.15
+"Egypt, Arab Rep.",Turkey,3131.22,2647.32
+"Egypt, Arab Rep.",Italy,2380.66,2579.54
+"Egypt, Arab Rep.",India,2470.39,2327.32
+"Egypt, Arab Rep.",Germany,3297.07,821.73
+"Egypt, Arab Rep.",United Arab Emirates,1934.81,1196.51
+"Egypt, Arab Rep.",Spain,1400.34,1693.77
+"Egypt, Arab Rep.",Russian Federation,2481.82,402.3
+"Egypt, Arab Rep.",France,1438.28,928.46
+"Egypt, Arab Rep.",United Kingdom,1195.21,1056.96
+"Egypt, Arab Rep.","Korea, Rep.",1387.3,587.46
+"Egypt, Arab Rep.",Brazil,1612.36,356.51
+"Egypt, Arab Rep.",Belgium,1549.33,405.98
+"Egypt, Arab Rep.",Greece,312.61,1407.09
+"Egypt, Arab Rep.",Malta,66.24,1632.24
+"Egypt, Arab Rep.",Netherlands,1025.13,629.88
+"Egypt, Arab Rep.",Argentina,1305.41,296.99
+"Egypt, Arab Rep.",Ukraine,1397.58,114.33
+"Egypt, Arab Rep.",Kuwait,1216.01,248.88
+"Egypt, Arab Rep.",Japan,745.93,545.22
+"Egypt, Arab Rep.",Indonesia,1179.6,105.03
+"Egypt, Arab Rep.",Canada,263.66,785.4
+"Egypt, Arab Rep.",Switzerland,913.35,23.33
+"Egypt, Arab Rep.",Sudan,177.85,716.04
+"Egypt, Arab Rep.",Morocco,193.56,683.86
+"Egypt, Arab Rep.",Romania,623.12,239.25
+"Egypt, Arab Rep.",Libya,63.74,796.17
+"Egypt, Arab Rep.",Thailand,768.07,37.41
+"Egypt, Arab Rep.",Iraq,322.81,460.78
+"Egypt, Arab Rep.",Jordan,138.56,631.78
+"Egypt, Arab Rep.",Vietnam,737.09,32.91
+"Egypt, Arab Rep.",Sweden,718.63,39.29
+"Egypt, Arab Rep.",Singapore,172.58,505.41
+"Egypt, Arab Rep.",Slovak Republic,245.47,397.06
+"Egypt, Arab Rep.","Other Asia, nes",370.73,228.05
+"Egypt, Arab Rep.",Poland,412.69,175.87
+"Egypt, Arab Rep.",Czech Republic,515.59,56.55
+"Egypt, Arab Rep.",Algeria,59.54,507.15
+"Egypt, Arab Rep.",Malaysia,446.6,106.18
+"Egypt, Arab Rep.",Bahrain,319.93,225.69
+"Egypt, Arab Rep.",Finland,513.37,32.05
+"Egypt, Arab Rep.",Australia,447.21,91.77
+"Egypt, Arab Rep.",Kenya,198.51,339.41
+"Egypt, Arab Rep.",Lebanon,195.31,331.31
+"Egypt, Arab Rep.",Bunkers,0.57,488.6
+"Egypt, Arab Rep.",Oman,269.62,140.91
+"Egypt, Arab Rep.",Pakistan,53.89,350.41
+Estonia,Finland,2053.52,3090.11
+Estonia,Russian Federation,2773.26,1425.93
+Estonia,Germany,2255.87,1337.65
+Estonia,Latvia,1067.92,2157.83
+Estonia,Sweden,1089.81,1972.94
+Estonia,Lithuania,1327.03,1237.86
+Estonia,United States,464.79,1993.7
+Estonia,China,2108.42,231.61
+Estonia,Netherlands,606.0,1312.22
+Estonia,Unspecified,1711.15,198.34
+Estonia,Poland,1226.54,637.33
+Estonia,United Kingdom,398.47,783.16
+Estonia,France,554.4,417.93
+Estonia,Denmark,287.86,674.59
+Estonia,Belarus,824.07,114.91
+Estonia,Italy,640.85,248.5
+Estonia,Norway,164.3,663.57
+Estonia,Belgium,355.26,277.93
+Estonia,Switzerland,326.13,227.67
+Estonia,Spain,345.08,166.39
+Estonia,Japan,352.25,137.77
+Estonia,Czech Republic,306.77,150.3
+Estonia,Turkey,215.66,210.93
+Estonia,Ukraine,155.68,194.77
+Estonia,Austria,187.36,99.65
+Estonia,Indonesia,242.41,6.64
+Estonia,Hungary,156.73,59.24
+Estonia,Canada,40.29,171.06
+Estonia,Singapore,15.34,193.94
+Estonia,India,88.09,117.29
+Estonia,Slovak Republic,151.19,43.21
+Estonia,"Other Asia, nes",151.13,25.41
+Estonia,"Korea, Rep.",115.06,59.84
+Estonia,Kazakhstan,127.82,33.07
+Estonia,Saudi Arabia,40.45,113.08
+Estonia,Malaysia,134.51,13.41
+Estonia,Vietnam,114.14,11.92
+Estonia,Romania,68.39,51.77
+Estonia,Uzbekistan,9.51,108.66
+Estonia,Bulgaria,27.91,87.85
+Estonia,Australia,8.28,86.96
+Estonia,Ireland,49.89,38.65
+Estonia,Brazil,44.52,41.72
+Estonia,United Arab Emirates,6.34,73.2
+Estonia,Thailand,58.39,19.97
+Estonia,Slovenia,43.37,30.08
+Estonia,Mexico,36.81,35.86
+Estonia,Portugal,36.86,34.79
+Estonia,Greece,23.22,47.7
+Estonia,Israel,17.18,51.7
+Finland,Germany,12540.3,10755.51
+Finland,Sweden,9869.99,8353.45
+Finland,Russian Federation,10051.97,4361.44
+Finland,China,7794.66,4234.89
+Finland,Netherlands,3856.89,4968.81
+Finland,United States,2743.9,5408.13
+Finland,Italy,2382.09,3458.52
+Finland,Estonia,2738.23,2821.93
+Finland,Poland,2624.48,2355.14
+Finland,Unspecified,2997.69,1732.44
+Finland,United Kingdom,1632.93,2978.47
+Finland,France,2091.63,2436.67
+Finland,Belgium,1713.18,2563.84
+Finland,Norway,1964.07,2045.33
+Finland,Denmark,2028.22,1451.93
+Finland,Spain,1843.61,1188.28
+Finland,Japan,924.25,1434.01
+Finland,Switzerland,722.93,1428.0
+Finland,Turkey,860.06,1114.69
+Finland,Czech Republic,1194.41,508.08
+Finland,Ireland,798.54,830.16
+Finland,"Korea, Rep.",808.74,793.98
+Finland,Lithuania,654.9,919.0
+Finland,Canada,592.1,955.71
+Finland,Austria,921.35,583.28
+Finland,Latvia,362.57,772.56
+Finland,India,489.53,637.35
+Finland,Brazil,502.55,601.39
+Finland,Australia,247.69,808.19
+Finland,"Other Asia, nes",583.14,354.53
+Finland,Vietnam,643.33,258.28
+Finland,Mexico,407.2,385.19
+Finland,Hungary,527.55,261.85
+Finland,Portugal,560.96,227.83
+Finland,Malaysia,573.84,151.34
+Finland,South Africa,223.57,430.79
+Finland,Thailand,371.48,271.42
+Finland,Chile,352.63,252.85
+Finland,Slovak Republic,394.03,195.64
+Finland,Romania,363.81,195.66
+Finland,"Egypt, Arab Rep.",46.35,476.19
+Finland,Singapore,294.07,212.68
+Finland,Indonesia,225.38,271.89
+Finland,Philippines,188.98,211.96
+Finland,Ukraine,115.62,279.9
+Finland,Saudi Arabia,35.37,350.57
+Finland,Uruguay,22.42,334.87
+Finland,Greece,126.37,205.3
+Finland,Ecuador,241.1,66.13
+Finland,Israel,77.06,226.91
+France,Germany,119891.0,81694.5
+France,Belgium,76280.9,44709.3
+France,Italy,59444.24,46408.99
+France,Spain,55979.33,43452.93
+France,Netherlands,63547.98,23637.5
+France,China,48193.67,28338.75
+France,United States,31088.7,41245.87
+France,United Kingdom,23397.92,33291.81
+France,Switzerland,18950.9,20067.52
+France,Poland,17348.52,14178.07
+France,Russian Federation,11394.54,7554.51
+France,Turkey,9364.68,8753.51
+France,Sweden,8776.1,6910.27
+France,Czech Republic,9518.96,5933.83
+France,Ireland,9873.21,5334.88
+France,Portugal,8269.88,6402.16
+France,Japan,6901.96,7727.3
+France,India,6527.85,6946.36
+France,Austria,7232.37,5382.36
+France,Morocco,6667.87,5375.32
+France,"Korea, Rep.",5440.74,5621.53
+France,Singapore,1946.81,8455.71
+France,Romania,5021.01,5029.45
+France,Slovak Republic,6325.81,3508.35
+France,Hungary,4919.02,4571.31
+France,Algeria,5106.52,4381.42
+France,Special Categories,1137.41,8158.21
+France,Denmark,4829.09,4201.58
+France,Tunisia,4822.51,3611.79
+France,Canada,3842.15,4008.58
+France,Unspecified,2544.3,4837.18
+France,Saudi Arabia,3812.48,3229.51
+France,Brazil,2920.91,3913.24
+France,"Hong Kong, China",698.29,5934.98
+France,United Arab Emirates,1719.44,4807.59
+France,Luxembourg,3103.84,3326.52
+France,Mexico,1712.39,3939.78
+France,Vietnam,4076.31,1469.06
+France,"Other Asia, nes",3319.35,2193.35
+France,Greece,1967.46,3139.39
+France,Finland,2719.47,2098.14
+France,Australia,904.68,3444.09
+France,Nigeria,3408.84,722.6
+France,Thailand,2415.35,1635.58
+France,Norway,1870.99,1763.87
+France,Slovenia,2151.74,1461.97
+France,Malaysia,2619.18,885.4
+France,Israel,1265.43,1983.31
+France,"Egypt, Arab Rep.",862.44,2189.07
+France,Kazakhstan,2379.65,549.31
+Germany,China,170640.08,123585.27
+Germany,United States,86799.0,144604.03
+Germany,Netherlands,106763.47,108856.28
+Germany,France,73091.4,121000.35
+Germany,Poland,81518.31,92311.11
+Germany,Italy,77221.25,88749.0
+Germany,Austria,52956.01,81496.96
+Germany,Switzerland,60655.54,73725.39
+Germany,Belgium,57692.46,60548.25
+Germany,United Kingdom,38093.47,77393.31
+Germany,Czech Republic,58582.49,54599.8
+Germany,Spain,40359.75,51850.77
+Germany,Hungary,34785.46,33896.75
+Germany,Special Categories,51286.86,17121.75
+Germany,Russian Federation,27369.77,32147.44
+Germany,Sweden,19892.31,31448.78
+Germany,Japan,28260.36,21754.52
+Germany,Turkey,21914.94,25242.63
+Germany,Denmark,14789.68,24464.66
+Germany,Romania,17320.32,21622.29
+Germany,Slovak Republic,20106.29,17949.06
+Germany,"Korea, Rep.",14917.38,22224.29
+Germany,Ireland,25005.81,9222.74
+Germany,India,13092.32,14787.26
+Germany,"Other Asia, nes",14524.58,11165.83
+Germany,Mexico,9348.37,15641.21
+Germany,Finland,9920.01,14175.59
+Germany,South Africa,13300.32,9613.42
+Germany,Brazil,8786.29,12443.15
+Germany,Portugal,8372.94,11834.61
+Germany,Norway,8417.8,11507.22
+Germany,Canada,6712.64,11994.97
+Germany,Malaysia,11831.1,6119.47
+Germany,Vietnam,12532.52,4450.75
+Germany,Slovenia,7793.88,7237.38
+Germany,Australia,3164.86,11787.77
+Germany,Thailand,8348.11,5879.32
+Germany,Singapore,5022.3,8633.04
+Germany,Greece,3296.29,8407.86
+Germany,Luxembourg,3922.54,7762.05
+Germany,Bulgaria,6215.99,5424.72
+Germany,Ukraine,3677.12,6471.89
+Germany,United Arab Emirates,1030.53,8562.8
+Germany,Bangladesh,8485.41,915.67
+Germany,Israel,2798.89,6417.42
+Germany,Lithuania,3332.42,5188.34
+Germany,"Hong Kong, China",1694.21,6590.99
+Germany,"Serbia, FR(Serbia/Montenegro)",3348.37,4671.46
+Germany,Saudi Arabia,1307.69,6661.0
+Germany,Indonesia,4861.31,2957.8
+Greece,Germany,16232.67,6767.88
+Greece,Italy,12174.89,9294.33
+Greece,China,11849.32,1692.36
+Greece,Turkey,5905.59,4869.22
+Greece,Russian Federation,10177.28,488.73
+Greece,France,6114.84,4382.96
+Greece,Netherlands,8301.66,2094.27
+Greece,Iraq,9791.99,513.18
+Greece,Bulgaria,4631.01,4437.75
+Greece,Spain,5246.98,2784.99
+Greece,United States,3387.16,3842.74
+Greece,Unspecified,5478.65,1335.95
+Greece,Cyprus,1027.44,5558.15
+Greece,Belgium,4789.2,1097.92
+Greece,Kazakhstan,5254.22,29.47
+Greece,Romania,1949.0,3196.36
+Greece,United Kingdom,1581.0,3098.01
+Greece,Libya,2046.48,2379.64
+Greece,Poland,2490.82,1719.89
+Greece,"Egypt, Arab Rep.",3044.2,1038.17
+Greece,Ireland,2715.08,437.03
+Greece,Saudi Arabia,1679.25,1452.1
+Greece,Lebanon,218.07,2775.68
+Greece,"Korea, Rep.",768.34,2171.19
+Greece,North Macedonia,675.6,2064.21
+Greece,Austria,1513.14,947.68
+Greece,Israel,929.84,1298.13
+Greece,Hungary,1311.27,790.57
+Greece,Albania,446.46,1619.26
+Greece,India,1653.99,317.66
+Greece,Czech Republic,1131.06,763.83
+Greece,"Serbia, FR(Serbia/Montenegro)",608.47,1038.3
+Greece,Denmark,1114.43,514.51
+Greece,Sweden,1066.38,541.8
+Greece,Algeria,1421.95,167.48
+Greece,Norway,1383.47,190.41
+Greece,Slovenia,504.73,954.53
+Greece,Tunisia,191.39,1186.98
+Greece,Azerbaijan,1316.82,28.08
+Greece,Switzerland,870.98,437.94
+Greece,Ukraine,469.24,801.33
+Greece,United Arab Emirates,370.98,864.92
+Greece,Gibraltar,0.1,1233.34
+Greece,Japan,397.87,586.46
+Greece,Singapore,95.28,840.7
+Greece,Portugal,314.17,600.85
+Greece,Canada,439.03,467.11
+Greece,Malta,102.75,761.72
+Greece,Slovak Republic,474.35,388.19
+Greece,Croatia,212.25,632.61
+"Hong Kong, China",China,315903.02,401691.81
+"Hong Kong, China","Other Asia, nes",70952.54,19021.96
+"Hong Kong, China",United States,29944.58,39950.19
+"Hong Kong, China",Singapore,54187.98,10442.64
+"Hong Kong, China",Japan,37187.23,15302.77
+"Hong Kong, China","Korea, Rep.",41986.9,10113.33
+"Hong Kong, China",Vietnam,15138.77,13400.31
+"Hong Kong, China",India,10481.67,17478.84
+"Hong Kong, China",Malaysia,21484.17,5079.37
+"Hong Kong, China",Thailand,13672.87,9763.46
+"Hong Kong, China",United Arab Emirates,10250.22,9915.92
+"Hong Kong, China",Switzerland,13389.94,6197.43
+"Hong Kong, China",United Kingdom,8647.83,10032.1
+"Hong Kong, China",Philippines,12125.95,4612.33
+"Hong Kong, China",Germany,7161.51,9466.51
+"Hong Kong, China",Netherlands,2162.87,10216.28
+"Hong Kong, China",France,5406.32,4790.89
+"Hong Kong, China",Australia,4854.52,4721.58
+"Hong Kong, China",Macao,1070.68,8330.52
+"Hong Kong, China",Italy,5422.36,3653.91
+"Hong Kong, China",Indonesia,2455.02,4081.29
+"Hong Kong, China",Russian Federation,1400.98,4973.33
+"Hong Kong, China",Mexico,808.9,5339.06
+"Hong Kong, China",Canada,3029.42,2407.1
+"Hong Kong, China",Belgium,2375.47,2190.39
+"Hong Kong, China",Brazil,1956.63,2503.44
+"Hong Kong, China",South Africa,2814.09,988.8
+"Hong Kong, China",Israel,1565.54,1706.25
+"Hong Kong, China",Spain,861.25,2025.67
+"Hong Kong, China",Chile,1905.7,779.16
+"Hong Kong, China",Poland,290.27,2272.22
+"Hong Kong, China",Turkey,1176.64,1250.05
+"Hong Kong, China",Hungary,304.73,1839.04
+"Hong Kong, China",Bangladesh,146.28,1678.07
+"Hong Kong, China",Czech Republic,344.31,1433.61
+"Hong Kong, China",Austria,349.84,1332.01
+"Hong Kong, China",Saudi Arabia,373.48,1289.33
+"Hong Kong, China","Egypt, Arab Rep.",88.6,1369.58
+"Hong Kong, China",Cambodia,247.48,1081.91
+"Hong Kong, China",Costa Rica,1183.55,76.04
+"Hong Kong, China",New Zealand,703.53,543.49
+"Hong Kong, China",Qatar,666.63,482.6
+"Hong Kong, China",Ireland,737.41,360.23
+"Hong Kong, China",Sweden,244.06,807.35
+"Hong Kong, China",Colombia,397.22,633.08
+"Hong Kong, China",Peru,299.99,609.67
+"Hong Kong, China",Argentina,181.26,668.79
+"Hong Kong, China",Nigeria,12.81,812.4
+"Hong Kong, China",Denmark,258.6,523.33
+"Hong Kong, China",Luxembourg,594.0,172.91
+Hungary,Germany,33018.77,37602.91
+Hungary,Slovak Republic,8156.64,7312.64
+Hungary,Austria,8485.76,6403.97
+Hungary,Italy,6171.85,8243.0
+Hungary,Poland,7942.38,6047.03
+Hungary,Czech Republic,6722.78,5852.27
+Hungary,China,9825.4,2475.92
+Hungary,Netherlands,6914.73,4677.31
+Hungary,Romania,3945.15,7454.36
+Hungary,France,4379.9,5905.25
+Hungary,United States,2942.95,4143.67
+Hungary,Russian Federation,4269.44,2067.58
+Hungary,Belgium,3275.5,2928.25
+Hungary,Spain,2105.28,3696.87
+Hungary,United Kingdom,1337.33,4423.53
+Hungary,Ukraine,2137.77,3259.62
+Hungary,"Korea, Rep.",4352.8,599.25
+Hungary,"Serbia, FR(Serbia/Montenegro)",1842.56,2744.39
+Hungary,Croatia,1893.3,2570.2
+Hungary,Turkey,1420.71,2463.79
+Hungary,Slovenia,1826.01,1598.03
+Hungary,Sweden,977.02,2114.2
+Hungary,Japan,1657.1,825.31
+Hungary,Bulgaria,793.71,1581.6
+Hungary,Switzerland,828.74,1427.18
+Hungary,"Hong Kong, China",1601.05,387.58
+Hungary,Denmark,751.41,845.55
+Hungary,Mexico,385.21,865.58
+Hungary,"Other Asia, nes",976.85,179.55
+Hungary,Ireland,712.09,417.11
+Hungary,Vietnam,973.44,102.14
+Hungary,Portugal,319.45,703.71
+Hungary,India,582.53,379.45
+Hungary,Singapore,615.53,288.99
+Hungary,Greece,223.84,664.57
+Hungary,North Macedonia,385.18,490.84
+Hungary,Malaysia,674.34,172.58
+Hungary,Finland,251.63,513.57
+Hungary,Thailand,499.55,158.66
+Hungary,Israel,225.6,398.71
+Hungary,Bosnia and Herzegovina,145.08,457.46
+Hungary,Australia,78.22,488.76
+Hungary,Lithuania,227.49,296.56
+Hungary,Kazakhstan,269.31,151.87
+Hungary,"Egypt, Arab Rep.",102.39,291.66
+Hungary,United Arab Emirates,94.54,297.28
+Hungary,Canada,89.19,285.64
+Hungary,Brazil,101.23,254.29
+Hungary,Latvia,97.68,245.95
+Hungary,Luxembourg,171.27,163.25
+Iceland,Netherlands,526.29,1625.41
+Iceland,United States,645.26,463.89
+Iceland,Germany,669.45,360.44
+Iceland,United Kingdom,444.69,572.25
+Iceland,Norway,760.94,194.02
+Iceland,Spain,152.21,705.78
+Iceland,China,694.91,129.55
+Iceland,Denmark,596.23,146.03
+Iceland,France,184.16,479.99
+Iceland,Brazil,385.41,13.16
+Iceland,Sweden,338.39,39.28
+Iceland,Poland,186.19,123.13
+Iceland,Italy,225.91,37.3
+Iceland,Belgium,148.81,90.63
+Iceland,Japan,123.54,101.96
+Iceland,Canada,69.88,111.41
+Iceland,Lithuania,92.81,51.4
+Iceland,Portugal,25.58,112.14
+Iceland,Ireland,87.3,49.89
+Iceland,Australia,104.33,19.69
+Iceland,Czech Republic,119.82,2.71
+Iceland,"Korea, Rep.",83.4,17.61
+Iceland,Switzerland,75.57,22.39
+Iceland,Russian Federation,50.27,36.81
+Iceland,Finland,70.24,16.64
+Iceland,Latvia,72.35,8.2
+Iceland,Malaysia,74.04,0.79
+Iceland,Turkey,60.11,14.29
+Iceland,Hungary,25.58,42.71
+Iceland,Nigeria,0.03,66.18
+Iceland,Estonia,63.53,2.45
+Iceland,"Other Asia, nes",33.2,28.94
+Iceland,Vietnam,59.44,0.81
+Iceland,Ukraine,4.34,51.72
+Iceland,Faeroe Islands,9.45,46.36
+Iceland,Slovak Republic,43.26,10.0
+Iceland,Austria,47.7,2.3
+Iceland,Thailand,31.83,16.99
+Iceland,India,34.63,9.38
+Iceland,Indonesia,32.55,8.76
+Iceland,Jamaica,38.95,0.0
+Iceland,Singapore,36.6,1.17
+Iceland,Greenland,19.08,18.08
+Iceland,Belarus,2.93,32.72
+Iceland,Peru,29.2,0.22
+Iceland,"Egypt, Arab Rep.",7.69,19.59
+Iceland,"Hong Kong, China",17.16,7.02
+Iceland,Mexico,21.57,1.77
+Iceland,Bangladesh,19.75,0.23
+Iceland,Romania,15.74,1.26
+India,United States,41386.82,71510.5
+India,China,87535.14,23036.6
+India,United Arab Emirates,43070.34,25446.64
+India,Saudi Arabia,27689.35,8245.42
+India,Switzerland,29492.0,1290.29
+India,"Hong Kong, China",18201.55,11290.06
+India,Singapore,18201.53,10650.09
+India,Iraq,26566.07,2032.42
+India,Indonesia,16724.83,8089.42
+India,"Korea, Rep.",17076.15,7103.45
+India,Germany,12965.24,9513.61
+India,Australia,15103.01,6917.33
+India,Japan,14412.24,6077.16
+India,Malaysia,12089.77,6704.32
+India,Belgium,9561.02,9055.7
+India,United Kingdom,6745.0,10374.4
+India,South Africa,11070.73,5989.46
+India,Bangladesh,1764.1,14092.75
+India,Netherlands,4350.28,10284.46
+India,Thailand,8668.9,5515.88
+India,Vietnam,7075.31,6638.39
+India,Nigeria,9157.91,4523.06
+India,Qatar,11544.87,1714.91
+India,Italy,4819.65,7703.6
+India,Russian Federation,8695.04,3334.26
+India,Brazil,4928.5,6262.21
+India,Kuwait,9482.19,1230.32
+India,Nepal,1317.72,9189.86
+India,France,3890.0,6130.38
+India,Turkey,1966.71,7264.96
+India,"Other Asia, nes",5765.05,2581.48
+India,Oman,5827.73,2493.25
+India,Mexico,4142.58,4161.54
+India,Israel,2754.57,4377.88
+India,Spain,1992.42,4393.86
+India,Canada,2715.58,3557.18
+India,"Egypt, Arab Rep.",2992.45,3279.67
+India,Sri Lanka,979.82,4799.76
+India,Argentina,3975.18,1186.97
+India,Guinea,3446.69,596.01
+India,Colombia,2705.94,1317.62
+India,Tanzania,1885.1,1689.02
+India,Poland,1044.45,2519.19
+India,Peru,2614.23,916.92
+India,Togo,355.77,2919.84
+India,Mozambique,1436.7,1835.72
+India,Ukraine,2599.67,509.94
+India,Morocco,1964.05,783.79
+India,Angola,2315.95,408.73
+India,Philippines,730.58,1982.75
+Ireland,United States,21436.0,62173.54
+Ireland,United Kingdom,23070.67,21505.05
+Ireland,Germany,8630.41,21021.66
+Ireland,China,9996.88,13243.44
+Ireland,Belgium,2629.09,16001.98
+Ireland,France,12200.18,6325.22
+Ireland,Netherlands,5320.6,11101.8
+Ireland,Switzerland,6082.51,3327.14
+Ireland,Italy,2593.44,5163.49
+Ireland,Japan,1692.45,3211.04
+Ireland,Spain,2090.12,2750.32
+Ireland,Israel,2884.36,971.59
+Ireland,Mexico,520.38,2385.81
+Ireland,Poland,1046.18,1657.7
+Ireland,"Korea, Rep.",1773.08,807.86
+Ireland,Malaysia,2179.17,272.78
+Ireland,Unspecified,1522.1,926.24
+Ireland,Canada,784.57,1562.53
+Ireland,Turkey,1222.04,848.67
+Ireland,Sweden,959.39,1022.04
+Ireland,Czech Republic,1174.86,762.52
+Ireland,Norway,929.55,917.86
+Ireland,India,994.64,618.64
+Ireland,Russian Federation,709.86,741.55
+Ireland,Greece,126.39,1302.4
+Ireland,Denmark,742.27,652.48
+Ireland,"Other Asia, nes",956.76,411.25
+Ireland,Singapore,589.92,590.38
+Ireland,Portugal,360.34,766.66
+Ireland,Australia,125.84,989.39
+Ireland,"Hong Kong, China",120.62,940.32
+Ireland,Vietnam,776.24,139.76
+Ireland,Finland,535.98,376.38
+Ireland,Saudi Arabia,84.88,808.21
+Ireland,Thailand,626.4,261.25
+Ireland,Brazil,414.25,422.69
+Ireland,Malta,14.12,803.97
+Ireland,United Arab Emirates,210.63,596.82
+Ireland,Romania,142.14,659.14
+Ireland,Austria,369.88,408.68
+Ireland,Hungary,323.65,401.67
+Ireland,South Africa,193.15,449.13
+Ireland,Philippines,296.03,190.48
+Ireland,Argentina,370.74,96.47
+Ireland,"Egypt, Arab Rep.",94.23,304.78
+Ireland,Bangladesh,347.02,44.83
+Ireland,Nigeria,4.29,351.37
+Ireland,Indonesia,249.67,75.02
+Ireland,Slovenia,57.09,240.22
+Ireland,Morocco,80.08,213.92
+Israel,United States,8638.15,16322.52
+Israel,China,10728.05,4398.39
+Israel,Unspecified,9014.52,5042.39
+Israel,Germany,6560.51,1792.35
+Israel,Switzerland,6618.13,742.76
+Israel,Turkey,4764.34,1919.0
+Israel,Belgium,4621.22,1974.82
+Israel,Netherlands,3711.49,2233.84
+Israel,India,2629.87,2735.1
+Israel,United Kingdom,2990.23,2057.55
+Israel,Italy,3366.27,1378.26
+Israel,"Hong Kong, China",2920.3,1384.91
+Israel,France,2369.96,1416.86
+Israel,Ireland,1975.76,1435.56
+Israel,"Korea, Rep.",2251.04,1153.61
+Israel,Spain,2032.67,1120.79
+Israel,"Other Asia, nes",1120.82,1374.26
+Israel,Japan,1451.03,989.03
+Israel,Singapore,1735.58,693.78
+Israel,Brazil,297.34,1259.8
+Israel,Russian Federation,704.65,794.25
+Israel,United Arab Emirates,836.9,384.51
+Israel,Czech Republic,826.23,154.78
+Israel,Greece,506.48,472.02
+Israel,Canada,334.47,612.05
+Israel,Sweden,782.37,148.43
+Israel,Thailand,569.2,300.32
+Israel,Poland,628.96,223.79
+Israel,Cyprus,269.98,574.94
+Israel,Austria,664.67,107.78
+Israel,Australia,212.83,555.59
+Israel,Romania,482.76,169.87
+Israel,Denmark,413.03,101.12
+Israel,Vietnam,337.47,158.88
+Israel,Mexico,106.48,385.0
+Israel,Portugal,405.96,79.36
+Israel,Finland,424.26,55.91
+Israel,Hungary,313.53,153.26
+Israel,Slovenia,92.31,366.24
+Israel,Jordan,391.48,64.18
+Israel,Ukraine,184.48,199.1
+Israel,Malta,99.4,273.23
+Israel,Norway,274.09,66.05
+Israel,Argentina,188.95,137.07
+Israel,South Africa,60.04,224.88
+Israel,Slovak Republic,242.6,22.64
+Israel,"Egypt, Arab Rep.",126.77,121.3
+Israel,Philippines,64.29,175.7
+Israel,Uruguay,220.48,13.39
+Israel,Chile,95.98,118.0
+Italy,Germany,91042.4,79761.13
+Italy,France,46207.86,63223.82
+Italy,United States,18692.04,58372.63
+Italy,China,45626.71,18518.37
+Italy,Spain,30110.94,30989.53
+Italy,Netherlands,33147.09,18023.08
+Italy,Belgium,24847.91,21367.5
+Italy,Switzerland,13224.19,32226.69
+Italy,United Kingdom,9545.77,27694.25
+Italy,Poland,14802.48,19448.54
+Italy,Russian Federation,22052.57,9072.3
+Italy,Austria,13168.45,13719.08
+Italy,Turkey,11647.88,11263.7
+Italy,Romania,8387.09,10065.73
+Italy,Czech Republic,9000.04,8602.15
+Italy,Japan,5268.13,8929.58
+Italy,Hungary,7508.79,6425.85
+Italy,India,7805.05,4587.38
+Italy,Sweden,5667.44,6576.86
+Italy,"Korea, Rep.",5003.64,6237.13
+Italy,Azerbaijan,10899.38,310.05
+Italy,Greece,3847.99,6822.68
+Italy,Brazil,5057.7,5409.6
+Italy,Slovenia,4989.54,5444.47
+Italy,Saudi Arabia,5739.89,3947.85
+Italy,Unspecified,2572.2,6937.06
+Italy,Ireland,6249.63,3161.67
+Italy,Algeria,7316.88,2083.32
+Italy,Libya,7470.06,1434.19
+Italy,Slovak Republic,4390.54,4111.98
+Italy,Portugal,3090.93,5232.4
+Italy,United Arab Emirates,2451.19,5690.12
+Italy,Canada,2049.69,5716.24
+Italy,Denmark,3389.7,4061.35
+Italy,Croatia,2525.69,4346.88
+Italy,"Egypt, Arab Rep.",2378.0,4489.82
+Italy,Tunisia,3095.77,3371.24
+Italy,Bulgaria,3332.49,3075.19
+Italy,Ukraine,3889.21,2495.26
+Italy,"Hong Kong, China",348.73,5686.75
+Italy,Mexico,1260.85,4559.98
+Italy,Finland,3499.87,2317.97
+Italy,Australia,720.39,5097.44
+Italy,Vietnam,4168.79,1398.89
+Italy,South Africa,2182.45,2658.88
+Italy,Qatar,2423.55,2370.95
+Italy,Iraq,3973.32,773.89
+Italy,Israel,1076.47,3652.92
+Italy,"Other Asia, nes",2784.31,1911.48
+Italy,"Serbia, FR(Serbia/Montenegro)",1746.67,2437.4
+Japan,China,185664.48,163860.27
+Japan,United States,82966.49,135975.91
+Japan,"Other Asia, nes",33546.03,54558.93
+Japan,"Korea, Rep.",32082.17,52567.99
+Japan,Australia,52241.21,15257.07
+Japan,Thailand,26351.56,33024.68
+Japan,Germany,23647.9,20764.84
+Japan,Vietnam,23001.58,19104.54
+Japan,"Hong Kong, China",1094.94,35446.49
+Japan,Malaysia,19722.21,15613.74
+Japan,United Arab Emirates,27129.49,7031.0
+Japan,Indonesia,19629.08,13351.66
+Japan,Saudi Arabia,27509.89,4454.84
+Japan,Singapore,8855.97,20050.56
+Japan,Canada,13655.57,8354.14
+Japan,Philippines,10862.67,11112.73
+Japan,Russian Federation,14112.13,7857.2
+Japan,India,6146.56,12856.58
+Japan,France,11623.02,6681.06
+Japan,United Kingdom,6889.75,10366.33
+Japan,Mexico,5775.74,10838.29
+Japan,Italy,11583.54,5004.04
+Japan,Netherlands,3249.77,12589.5
+Japan,Brazil,9885.35,4187.69
+Japan,Belgium,6380.9,7194.88
+Japan,Switzerland,8287.68,4405.86
+Japan,Qatar,11634.5,921.55
+Japan,South Africa,10111.94,2362.28
+Japan,Chile,7747.76,1850.3
+Japan,Kuwait,6625.75,1474.64
+Japan,Spain,5384.72,2423.22
+Japan,Ireland,6795.83,1010.68
+Japan,Panama,902.24,4807.68
+Japan,New Zealand,2764.5,2923.22
+Japan,Poland,1169.1,3355.44
+Japan,Sweden,3150.94,1324.5
+Japan,Turkey,806.05,3180.04
+Japan,Czech Republic,1649.04,2179.71
+Japan,Bangladesh,1447.8,2348.69
+Japan,Peru,2864.37,703.26
+Japan,Austria,2255.25,1240.92
+Japan,Papua New Guinea,3032.95,185.11
+Japan,Israel,1295.23,1716.89
+Japan,Denmark,2398.15,571.73
+Japan,Hungary,1183.47,1740.48
+Japan,Norway,1686.26,1009.46
+Japan,Oman,1419.61,1174.69
+Japan,Brunei,2345.67,233.13
+Japan,Pakistan,268.31,2304.66
+Japan,Finland,1967.97,472.76
+Kazakhstan,Russian Federation,17605.5,7018.75
+Kazakhstan,China,8228.46,9772.51
+Kazakhstan,Italy,786.3,8889.1
+Kazakhstan,Netherlands,227.63,4384.19
+Kazakhstan,Turkey,1146.38,2964.67
+Kazakhstan,Uzbekistan,1057.04,2776.87
+Kazakhstan,France,664.8,2394.66
+Kazakhstan,"Korea, Rep.",766.11,1877.23
+Kazakhstan,United States,1361.59,872.15
+Kazakhstan,Germany,1814.83,398.54
+Kazakhstan,India,377.84,1625.71
+Kazakhstan,Spain,195.0,1633.86
+Kazakhstan,Romania,48.41,1521.13
+Kazakhstan,Greece,24.81,1321.6
+Kazakhstan,Switzerland,219.4,1078.05
+Kazakhstan,United Kingdom,308.93,855.07
+Kazakhstan,Tajikistan,363.52,800.26
+Kazakhstan,Singapore,46.87,1116.29
+Kazakhstan,Japan,559.85,557.26
+Kazakhstan,Kyrgyz Republic,375.78,674.76
+Kazakhstan,Ukraine,450.91,575.24
+Kazakhstan,Belarus,780.73,110.3
+Kazakhstan,Poland,371.3,386.59
+Kazakhstan,United Arab Emirates,75.14,633.9
+Kazakhstan,Croatia,19.14,661.84
+Kazakhstan,Canada,85.82,409.78
+Kazakhstan,Afghanistan,4.96,469.38
+Kazakhstan,Lithuania,97.57,356.27
+Kazakhstan,"Iran, Islamic Rep.",165.56,275.29
+Kazakhstan,Vietnam,345.17,81.02
+Kazakhstan,Belgium,155.5,262.81
+Kazakhstan,Bulgaria,35.88,354.48
+Kazakhstan,Azerbaijan,44.36,287.89
+Kazakhstan,Finland,145.46,158.45
+Kazakhstan,Malta,0.36,293.75
+Kazakhstan,Israel,40.68,223.74
+Kazakhstan,Turkmenistan,42.85,211.36
+Kazakhstan,Czech Republic,165.47,87.23
+Kazakhstan,Sweden,172.36,57.73
+Kazakhstan,Indonesia,39.98,135.37
+Kazakhstan,Mexico,151.94,19.19
+Kazakhstan,Brazil,96.7,72.62
+Kazakhstan,Austria,159.83,3.28
+Kazakhstan,Thailand,126.52,17.58
+Kazakhstan,Ireland,139.37,0.0
+Kazakhstan,Hungary,123.26,15.35
+Kazakhstan,Morocco,11.64,117.42
+Kazakhstan,Denmark,99.26,18.43
+Kazakhstan,Algeria,0.33,108.99
+Kazakhstan,Malaysia,102.19,1.23
+Kenya,China,4025.66,199.62
+Kenya,India,2106.72,94.93
+Kenya,United Arab Emirates,1628.4,315.21
+Kenya,United States,801.8,543.27
+Kenya,Uganda,305.16,831.92
+Kenya,Saudi Arabia,1045.98,70.23
+Kenya,Netherlands,427.0,562.45
+Kenya,Japan,892.27,61.26
+Kenya,Tanzania,489.84,409.76
+Kenya,Malaysia,855.1,16.77
+Kenya,United Kingdom,302.34,450.58
+Kenya,Pakistan,173.22,484.99
+Kenya,"Egypt, Arab Rep.",445.91,193.14
+Kenya,"Korea, Rep.",494.52,35.71
+Kenya,Germany,392.15,130.14
+Kenya,Russian Federation,343.5,95.46
+Kenya,South Africa,402.03,36.09
+Kenya,Indonesia,405.11,8.32
+Kenya,Rwanda,29.77,278.37
+Kenya,France,205.2,90.94
+Kenya,Belgium,219.69,72.26
+Kenya,Australia,236.21,23.48
+Kenya,"Congo, Dem. Rep.",32.98,223.05
+Kenya,Italy,225.4,29.74
+Kenya,Turkey,223.87,17.23
+Kenya,Oman,200.83,19.31
+Kenya,Kuwait,190.83,10.14
+Kenya,Thailand,179.86,21.07
+Kenya,Spain,129.01,57.12
+Kenya,Ukraine,175.98,9.78
+Kenya,"Other Asia, nes",147.88,28.95
+Kenya,South Sudan,0.63,155.44
+Kenya,Argentina,136.45,0.01
+Kenya,Zambia,56.03,73.1
+Kenya,Somalia,0.9,122.53
+Kenya,Switzerland,73.26,43.97
+Kenya,Eswatini,112.79,1.43
+Kenya,Ethiopia(excludes Eritrea),8.09,106.11
+Kenya,"Hong Kong, China",95.25,16.8
+Kenya,Vietnam,90.39,20.97
+Kenya,Singapore,96.28,5.94
+Kenya,Canada,79.34,20.02
+Kenya,Qatar,55.87,28.28
+Kenya,Sweden,57.13,25.72
+Kenya,Poland,55.28,21.91
+Kenya,Burundi,4.55,68.69
+Kenya,Finland,61.76,9.97
+Kenya,Sudan,3.86,65.98
+Kenya,Mauritius,58.17,11.29
+Kenya,Brazil,65.91,0.47
+"Korea, Rep.",China,138627.46,162912.97
+"Korea, Rep.",United States,73659.01,96299.35
+"Korea, Rep.",Japan,54641.47,30061.77
+"Korea, Rep.",Vietnam,23965.71,56728.53
+"Korea, Rep.","Other Asia, nes",23485.81,24285.26
+"Korea, Rep.",Australia,32916.49,9750.47
+"Korea, Rep.","Hong Kong, China",2244.58,37465.02
+"Korea, Rep.",Germany,21993.89,11105.53
+"Korea, Rep.",Saudi Arabia,24271.35,3324.69
+"Korea, Rep.",Russian Federation,17355.16,9979.54
+"Korea, Rep.",Singapore,10691.04,14148.49
+"Korea, Rep.",India,8056.03,15603.26
+"Korea, Rep.",Malaysia,10456.18,10107.33
+"Korea, Rep.",Indonesia,10725.1,8550.34
+"Korea, Rep.",Mexico,7888.5,11290.25
+"Korea, Rep.",Thailand,7014.7,8524.21
+"Korea, Rep.",Netherlands,9162.95,5810.77
+"Korea, Rep.",Philippines,3893.74,9659.07
+"Korea, Rep.",Canada,6367.8,6714.46
+"Korea, Rep.",Italy,8005.73,4597.17
+"Korea, Rep.",Qatar,11611.07,420.15
+"Korea, Rep.",United Kingdom,5807.97,5962.13
+"Korea, Rep.",France,6643.59,4660.8
+"Korea, Rep.",Brazil,6621.72,4666.44
+"Korea, Rep.",United Arab Emirates,7318.74,3963.32
+"Korea, Rep.",Kuwait,8253.95,348.91
+"Korea, Rep.",Turkey,1237.09,7025.98
+"Korea, Rep.",Belgium,3424.16,4437.68
+"Korea, Rep.",Poland,1101.17,6595.8
+"Korea, Rep.",Chile,4859.46,1574.18
+"Korea, Rep.",Iraq,5331.34,986.3
+"Korea, Rep.",Spain,2407.22,2846.42
+"Korea, Rep.",Hungary,749.6,4051.51
+"Korea, Rep.",Switzerland,3375.54,869.88
+"Korea, Rep.",Peru,3450.1,793.8
+"Korea, Rep.",Czech Republic,1094.2,2953.83
+"Korea, Rep.",Marshall Islands,292.76,3458.08
+"Korea, Rep.",Norway,2918.61,813.96
+"Korea, Rep.",South Africa,2620.96,988.62
+"Korea, Rep.",Unspecified,3445.41,126.4
+"Korea, Rep.",Sweden,2047.24,1520.46
+"Korea, Rep.",Slovak Republic,664.18,2836.05
+"Korea, Rep.",New Zealand,1541.0,1924.02
+"Korea, Rep.",Israel,1600.02,1822.16
+"Korea, Rep.",Oman,3000.55,387.62
+"Korea, Rep.",Greece,1308.79,2029.9
+"Korea, Rep.",Austria,1963.59,1300.63
+"Korea, Rep.",Kazakhstan,2442.3,769.07
+"Korea, Rep.",Malta,97.37,3027.6
+"Korea, Rep.",Mozambique,230.46,2593.09
+Kuwait,Unspecified,28.91,57826.31
+Kuwait,China,5733.26,712.81
+Kuwait,United Arab Emirates,3789.75,804.7
+Kuwait,United States,2547.17,40.09
+Kuwait,Saudi Arabia,1696.29,727.99
+Kuwait,India,1672.5,701.85
+Kuwait,Japan,1836.71,1.13
+Kuwait,Germany,1405.62,7.26
+Kuwait,Italy,1214.41,20.53
+Kuwait,Turkey,753.3,66.14
+Kuwait,United Kingdom,754.69,23.98
+Kuwait,France,721.17,7.82
+Kuwait,Switzerland,714.05,13.04
+Kuwait,Pakistan,238.17,312.41
+Kuwait,Bahrain,459.36,57.37
+Kuwait,Iraq,2.13,505.2
+Kuwait,Thailand,425.48,42.86
+Kuwait,Australia,447.19,2.92
+Kuwait,"Korea, Rep.",420.01,22.57
+Kuwait,"Iran, Islamic Rep.",407.77,18.22
+Kuwait,Vietnam,394.83,24.77
+Kuwait,"Egypt, Arab Rep.",325.74,78.0
+Kuwait,Netherlands,364.4,34.9
+Kuwait,Spain,376.13,9.75
+Kuwait,Qatar,95.13,279.54
+Kuwait,Oman,204.54,145.92
+Kuwait,Belgium,279.0,36.33
+Kuwait,Jordan,181.19,129.69
+Kuwait,Mexico,295.84,0.53
+Kuwait,Malaysia,229.55,56.71
+Kuwait,Poland,273.69,3.57
+Kuwait,Indonesia,210.83,5.63
+Kuwait,Brazil,205.45,1.29
+Kuwait,Ireland,197.33,2.39
+Kuwait,Canada,187.15,3.02
+Kuwait,"Other Asia, nes",176.65,13.22
+Kuwait,Singapore,104.12,84.71
+Kuwait,Lebanon,167.5,20.01
+Kuwait,Austria,183.03,0.06
+Kuwait,Denmark,179.19,0.19
+Kuwait,Portugal,78.97,70.02
+Kuwait,South Africa,136.41,3.36
+Kuwait,Slovak Republic,137.34,0.0
+Kuwait,Bangladesh,116.12,4.84
+Kuwait,Sweden,111.65,2.7
+Kuwait,Czech Republic,99.4,0.23
+Kuwait,Romania,99.12,0.47
+Kuwait,"Hong Kong, China",68.51,28.07
+Kuwait,Russian Federation,87.57,1.55
+Kuwait,Hungary,70.39,0.44
+Lebanon,United Arab Emirates,766.64,1029.83
+Lebanon,Turkey,1519.11,113.18
+Lebanon,Greece,1368.58,94.79
+Lebanon,China,1269.75,17.25
+Lebanon,United States,769.17,153.97
+Lebanon,Switzerland,327.88,428.71
+Lebanon,Italy,648.33,48.55
+Lebanon,Germany,619.86,38.54
+Lebanon,Russian Federation,608.68,12.11
+Lebanon,"Egypt, Arab Rep.",363.77,174.99
+Lebanon,France,346.28,63.26
+Lebanon,Cyprus,341.06,32.47
+Lebanon,United Kingdom,333.51,30.7
+Lebanon,Spain,290.84,57.12
+Lebanon,Ukraine,345.3,2.01
+Lebanon,Saudi Arabia,173.38,128.31
+Lebanon,Cameroon,1.4,282.71
+Lebanon,Belgium,254.23,29.23
+Lebanon,India,263.61,13.37
+Lebanon,Syrian Arab Republic,126.75,107.85
+Lebanon,Qatar,7.39,203.2
+Lebanon,"Korea, Rep.",102.93,90.21
+Lebanon,Kuwait,97.88,90.26
+Lebanon,Netherlands,143.52,34.49
+Lebanon,Japan,169.38,1.94
+Lebanon,Brazil,141.81,18.79
+Lebanon,Canada,128.01,31.66
+Lebanon,Venezuela,142.87,7.1
+Lebanon,Jordan,53.54,87.03
+Lebanon,Romania,132.59,4.58
+Lebanon,Iraq,5.36,125.03
+Lebanon,Libya,98.97,18.62
+Lebanon,Argentina,112.63,0.38
+Lebanon,Algeria,99.12,10.33
+Lebanon,Sweden,85.07,14.53
+Lebanon,Ireland,92.69,2.64
+Lebanon,Liberia,63.03,27.59
+Lebanon,Thailand,87.22,1.41
+Lebanon,Denmark,74.1,4.55
+Lebanon,Poland,66.3,7.97
+Lebanon,Cote d'Ivoire,3.41,63.67
+Lebanon,Unspecified,54.05,8.32
+Lebanon,Guinea,38.65,21.31
+Lebanon,Malaysia,54.79,2.89
+Lebanon,Bulgaria,27.62,29.1
+Lebanon,Indonesia,54.16,1.95
+Lebanon,Mexico,47.42,7.74
+Lebanon,Austria,48.04,2.09
+Lebanon,Colombia,48.89,0.79
+Lebanon,"Iran, Islamic Rep.",44.36,4.63
+Malaysia,China,55269.89,46351.72
+Malaysia,Singapore,22618.59,41847.31
+Malaysia,United States,18079.87,34366.25
+Malaysia,Japan,17790.65,18166.72
+Malaysia,"Other Asia, nes",18150.48,9784.22
+Malaysia,Thailand,10999.68,12646.13
+Malaysia,Indonesia,13487.96,9465.14
+Malaysia,"Hong Kong, China",4254.24,18494.04
+Malaysia,"Korea, Rep.",12073.75,9087.3
+Malaysia,India,5920.42,10905.26
+Malaysia,Vietnam,5735.38,10982.1
+Malaysia,Australia,5444.83,8482.35
+Malaysia,Germany,6152.12,6868.19
+Malaysia,Netherlands,1167.57,7524.33
+Malaysia,Philippines,2391.23,5459.82
+Malaysia,United Arab Emirates,2823.69,2555.26
+Malaysia,Saudi Arabia,3017.57,1220.39
+Malaysia,United Kingdom,1784.43,2360.79
+Malaysia,Turkey,686.63,3409.11
+Malaysia,Brazil,2794.39,1035.69
+Malaysia,Italy,1850.72,1724.22
+Malaysia,Mexico,556.08,2797.18
+Malaysia,Ireland,3039.67,261.72
+Malaysia,France,1678.18,1394.98
+Malaysia,Bangladesh,313.77,2258.67
+Malaysia,Belgium,1025.86,1545.96
+Malaysia,Canada,859.63,1534.26
+Malaysia,Switzerland,1864.29,472.4
+Malaysia,Russian Federation,1188.98,930.37
+Malaysia,Brunei,544.67,1394.11
+Malaysia,Pakistan,458.44,1446.69
+Malaysia,Argentina,1661.89,199.46
+Malaysia,New Zealand,752.99,1066.46
+Malaysia,Spain,543.14,1133.98
+Malaysia,South Africa,470.02,835.59
+Malaysia,Nigeria,364.94,909.22
+Malaysia,Kenya,29.06,1126.44
+Malaysia,Costa Rica,185.39,938.91
+Malaysia,Czech Republic,293.47,793.83
+Malaysia,Oman,783.76,290.66
+Malaysia,Ghana,465.53,570.2
+Malaysia,Poland,268.81,742.58
+Malaysia,Cote d'Ivoire,883.89,120.97
+Malaysia,Sweden,535.48,467.65
+Malaysia,Myanmar,282.1,654.0
+Malaysia,"Egypt, Arab Rep.",222.52,688.27
+Malaysia,Iraq,458.55,449.8
+Malaysia,Sri Lanka,77.62,729.79
+Malaysia,Austria,663.16,129.5
+Malaysia,Hungary,186.2,543.91
+Mexico,United States,221311.74,386086.72
+Mexico,China,101020.78,9078.87
+Mexico,Unspecified,3898.74,22905.04
+Mexico,Germany,17214.36,7427.42
+Mexico,Canada,11224.33,12895.26
+Mexico,"Korea, Rep.",18963.16,3308.5
+Mexico,Japan,17078.97,3977.21
+Mexico,"Other Asia, nes",11776.69,7489.94
+Mexico,Malaysia,12390.98,233.38
+Mexico,Brazil,8718.42,3473.0
+Mexico,Vietnam,8608.26,126.68
+Mexico,Italy,6101.62,903.81
+Mexico,Thailand,6491.41,294.73
+Mexico,India,5918.28,675.26
+Mexico,Spain,4580.05,1426.4
+Mexico,France,4113.48,1313.97
+Mexico,United Kingdom,2089.46,2991.73
+Mexico,Colombia,1380.67,3365.58
+Mexico,Netherlands,2607.08,2124.85
+Mexico,Chile,2004.71,1932.22
+Mexico,Philippines,3242.57,66.5
+Mexico,Guatemala,620.02,2422.93
+Mexico,Switzerland,1759.9,1212.81
+Mexico,Russian Federation,2205.77,475.11
+Mexico,Poland,2304.84,322.9
+Mexico,Singapore,1938.72,646.96
+Mexico,Belgium,1311.22,1226.67
+Mexico,Ireland,1992.95,335.15
+Mexico,Peru,627.75,1516.32
+Mexico,Austria,1894.98,135.55
+Mexico,Indonesia,1896.78,79.77
+Mexico,Hungary,1468.64,415.08
+Mexico,Argentina,910.47,877.91
+Mexico,Costa Rica,812.68,958.08
+Mexico,Nicaragua,774.06,941.28
+Mexico,Czech Republic,1466.55,245.4
+Mexico,El Salvador,287.79,1394.25
+Mexico,Honduras,564.77,997.01
+Mexico,Turkey,1242.54,269.78
+Mexico,Panama,27.58,1328.19
+Mexico,Australia,317.05,974.38
+Mexico,"Hong Kong, China",463.25,814.16
+Mexico,Sweden,1055.18,54.5
+Mexico,Israel,783.78,233.0
+Mexico,Denmark,843.65,137.97
+Mexico,Dominican Republic,202.22,691.52
+Mexico,United Arab Emirates,537.96,336.6
+Mexico,South Africa,622.55,198.89
+Mexico,Ecuador,149.76,585.32
+Mexico,Finland,557.24,120.99
+Morocco,Spain,9229.66,7866.41
+Morocco,France,6190.09,7517.4
+Morocco,China,6871.7,362.53
+Morocco,United States,3746.28,1103.46
+Morocco,Italy,2972.4,1560.07
+Morocco,Turkey,3382.46,800.19
+Morocco,Germany,2574.98,1075.2
+Morocco,Brazil,849.03,2029.67
+Morocco,India,1070.27,1807.05
+Morocco,Russian Federation,2015.89,188.54
+Morocco,Portugal,1639.16,512.59
+Morocco,United Kingdom,727.7,1197.29
+Morocco,Saudi Arabia,1815.29,85.45
+Morocco,Netherlands,906.2,926.8
+Morocco,Belgium,1055.94,552.81
+Morocco,United Arab Emirates,1023.42,132.13
+Morocco,Argentina,828.29,302.88
+Morocco,Poland,691.81,351.83
+Morocco,Romania,758.79,251.96
+Morocco,"Egypt, Arab Rep.",819.68,83.09
+Morocco,Canada,572.38,216.37
+Morocco,Algeria,649.31,114.86
+Morocco,Czech Republic,516.96,156.62
+Morocco,Ukraine,578.59,84.46
+Morocco,Bangladesh,62.81,585.7
+Morocco,Japan,434.11,194.45
+Morocco,Pakistan,43.06,545.72
+Morocco,Switzerland,317.27,271.36
+Morocco,Unspecified,91.47,461.07
+Morocco,Austria,287.52,193.76
+Morocco,Sweden,345.12,130.83
+Morocco,"Korea, Rep.",416.73,57.84
+Morocco,Mexico,161.02,305.86
+Morocco,Tunisia,253.66,144.18
+Morocco,Cote d'Ivoire,27.01,358.51
+Morocco,Hungary,295.63,69.26
+Morocco,Vietnam,333.89,11.53
+Morocco,Senegal,15.68,311.11
+Morocco,Slovak Republic,246.48,69.27
+Morocco,Singapore,148.7,155.65
+Morocco,Australia,34.76,256.93
+Morocco,Trinidad and Tobago,283.58,3.94
+Morocco,Ireland,169.82,95.71
+Morocco,Mauritania,0.42,262.03
+Morocco,Greece,174.76,86.83
+Morocco,Djibouti,0.0,257.35
+Morocco,Bulgaria,187.68,60.0
+Morocco,Kazakhstan,215.85,0.14
+Morocco,Denmark,134.85,77.19
+Morocco,Finland,182.1,29.27
+Mozambique,South Africa,2252.49,855.24
+Mozambique,India,739.75,803.16
+Mozambique,China,946.36,489.43
+Mozambique,United Arab Emirates,716.75,73.18
+Mozambique,Singapore,532.43,150.54
+Mozambique,Netherlands,54.7,561.58
+Mozambique,United Kingdom,147.3,372.26
+Mozambique,United States,240.86,102.34
+Mozambique,Portugal,302.88,27.0
+Mozambique,Japan,230.3,91.7
+Mozambique,Malaysia,250.25,35.65
+Mozambique,"Korea, Rep.",45.36,193.3
+Mozambique,Zimbabwe,26.37,211.11
+Mozambique,France,205.93,13.85
+Mozambique,Italy,68.65,134.88
+Mozambique,"Hong Kong, China",82.33,74.85
+Mozambique,Pakistan,105.71,43.46
+Mozambique,Thailand,105.56,40.86
+Mozambique,Spain,36.16,105.63
+Mozambique,Poland,32.56,100.21
+Mozambique,Belgium,50.49,80.06
+Mozambique,Vietnam,71.41,45.58
+Mozambique,Saudi Arabia,99.11,2.44
+Mozambique,Australia,94.47,0.9
+Mozambique,Canada,55.08,38.08
+Mozambique,Argentina,92.0,0.0
+Mozambique,Germany,67.26,23.84
+Mozambique,Turkey,76.9,10.75
+Mozambique,Eswatini,56.78,25.27
+Mozambique,Malawi,33.26,46.23
+Mozambique,Zambia,24.61,53.77
+Mozambique,Bahrain,56.84,21.43
+Mozambique,Oman,75.28,2.19
+Mozambique,Indonesia,70.76,4.37
+Mozambique,Russian Federation,52.52,13.24
+Mozambique,Mauritius,39.5,21.12
+Mozambique,Switzerland,21.78,37.14
+Mozambique,Namibia,54.45,0.17
+Mozambique,Tanzania,48.51,4.25
+Mozambique,Norway,42.98,0.15
+Mozambique,Kuwait,35.12,4.13
+Mozambique,Kenya,11.35,27.08
+Mozambique,Brazil,32.32,1.31
+Mozambique,Croatia,0.33,31.81
+Mozambique,Slovenia,0.25,29.97
+Mozambique,Mexico,9.5,19.48
+Mozambique,Denmark,20.04,1.11
+Mozambique,Ukraine,14.26,5.42
+Mozambique,Luxembourg,14.36,5.11
+Mozambique,Togo,0.01,16.52
+Nepal,India,9583.63,1333.73
+Nepal,China,2383.29,8.41
+Nepal,Argentina,451.69,0.02
+Nepal,United States,297.84,132.61
+Nepal,United Arab Emirates,415.53,3.45
+Nepal,Indonesia,366.1,0.24
+Nepal,Australia,227.98,9.4
+Nepal,Ukraine,198.27,0.02
+Nepal,Malaysia,138.26,0.83
+Nepal,"Korea, Rep.",134.24,2.01
+Nepal,Bangladesh,128.8,5.94
+Nepal,Turkey,98.23,21.68
+Nepal,Canada,107.09,8.01
+Nepal,Thailand,96.75,0.84
+Nepal,Germany,55.26,29.86
+Nepal,Vietnam,77.55,1.21
+Nepal,Saudi Arabia,75.24,0.0
+Nepal,Switzerland,70.91,3.73
+Nepal,South Africa,72.97,0.33
+Nepal,Japan,58.97,7.78
+Nepal,Brazil,62.89,0.43
+Nepal,France,45.28,12.55
+Nepal,Singapore,54.67,1.25
+Nepal,United Kingdom,30.34,23.54
+Nepal,Russian Federation,48.99,1.74
+Nepal,"Hong Kong, China",46.1,3.05
+Nepal,Netherlands,38.58,5.63
+Nepal,Myanmar,40.51,0.41
+Nepal,"Other Asia, nes",36.7,1.19
+Nepal,Belgium,32.75,3.24
+Nepal,Italy,22.04,8.02
+Nepal,Oman,19.0,0.0
+Nepal,Bhutan,12.35,6.5
+Nepal,Israel,16.73,0.13
+Nepal,"Egypt, Arab Rep.",14.66,0.05
+Nepal,New Zealand,12.93,1.26
+Nepal,Denmark,6.57,5.21
+Nepal,Spain,8.33,1.73
+Nepal,Poland,9.07,0.91
+Nepal,Qatar,7.73,0.58
+Nepal,Ireland,7.31,0.94
+Nepal,Czech Republic,6.44,1.4
+Nepal,Bahrain,7.53,0.05
+Nepal,Sri Lanka,6.44,0.74
+Nepal,Pakistan,5.42,1.13
+Nepal,Austria,4.02,2.12
+Nepal,Lithuania,5.47,0.31
+Nepal,Philippines,5.39,0.16
+Nepal,Mexico,4.85,0.19
+Nepal,Finland,4.43,0.51
+Netherlands,Germany,108104.45,160431.58
+Netherlands,Belgium,61614.52,74138.08
+Netherlands,United States,47590.03,33382.28
+Netherlands,China,63542.65,16690.57
+Netherlands,France,22031.37,56096.61
+Netherlands,United Kingdom,31334.75,45084.22
+Netherlands,Italy,17271.71,30115.91
+Netherlands,Poland,12960.81,21760.05
+Netherlands,Spain,12656.81,21805.48
+Netherlands,Russian Federation,21904.16,7826.0
+Netherlands,Norway,17862.49,6018.47
+Netherlands,Sweden,9668.27,14203.37
+Netherlands,Ireland,11839.8,7229.76
+Netherlands,"Other Asia, nes",7120.34,11523.72
+Netherlands,Czech Republic,6755.31,10680.65
+Netherlands,"Korea, Rep.",6305.84,10191.6
+Netherlands,Denmark,6366.95,9367.21
+Netherlands,Switzerland,5128.88,10255.78
+Netherlands,Japan,9394.92,5076.66
+Netherlands,Austria,3994.08,8685.71
+Netherlands,Turkey,5260.13,7407.76
+Netherlands,Finland,5359.62,6494.42
+Netherlands,Unspecified,4895.58,5387.75
+Netherlands,Brazil,6335.81,3495.68
+Netherlands,Hungary,4142.41,5515.2
+Netherlands,Malaysia,8013.01,1195.78
+Netherlands,Singapore,5045.51,3688.97
+Netherlands,Vietnam,7300.8,1129.84
+Netherlands,"Hong Kong, China",6142.78,2238.43
+Netherlands,India,5284.69,2849.6
+Netherlands,Nigeria,2892.84,4514.32
+Netherlands,Portugal,2834.6,4572.27
+Netherlands,Canada,2898.44,4383.87
+Netherlands,Australia,2093.04,4035.98
+Netherlands,Saudi Arabia,2639.08,3362.19
+Netherlands,Romania,2197.88,3716.97
+Netherlands,Bunkers,15.28,5798.96
+Netherlands,Thailand,4355.06,1237.21
+Netherlands,Cayman Islands,1934.33,3324.86
+Netherlands,Mexico,1731.99,3159.76
+Netherlands,Indonesia,3809.4,1021.76
+Netherlands,South Africa,2072.84,2675.05
+Netherlands,United Arab Emirates,1405.76,3240.08
+Netherlands,Israel,1699.87,2565.9
+Netherlands,Greece,987.15,3212.06
+Netherlands,Lithuania,2148.46,1873.5
+Netherlands,Ukraine,2420.56,1472.54
+Netherlands,Argentina,2607.45,1176.08
+Netherlands,Slovak Republic,1565.14,2116.79
+Netherlands,Luxembourg,1416.62,1855.01
+New Zealand,China,11774.05,13932.47
+New Zealand,Australia,5544.21,5558.26
+New Zealand,United States,4257.55,4717.26
+New Zealand,Japan,3122.59,2499.37
+New Zealand,"Korea, Rep.",2168.31,1394.39
+New Zealand,Thailand,2242.41,768.18
+New Zealand,Germany,2410.2,572.81
+New Zealand,United Arab Emirates,1809.06,612.16
+New Zealand,United Kingdom,1151.99,988.31
+New Zealand,Malaysia,1289.93,725.25
+New Zealand,Singapore,1168.94,804.42
+New Zealand,"Other Asia, nes",819.41,965.6
+New Zealand,Indonesia,825.57,918.36
+New Zealand,Vietnam,913.61,596.38
+New Zealand,Italy,1121.03,170.98
+New Zealand,France,934.21,309.26
+New Zealand,Netherlands,467.42,560.61
+New Zealand,India,703.12,319.98
+New Zealand,Canada,486.15,510.03
+New Zealand,"Hong Kong, China",80.81,771.1
+New Zealand,Belgium,560.99,133.94
+New Zealand,Saudi Arabia,207.27,452.51
+New Zealand,Mexico,354.12,268.37
+New Zealand,Philippines,111.99,483.19
+New Zealand,Spain,352.74,102.27
+New Zealand,Bangladesh,136.28,303.52
+New Zealand,Switzerland,342.83,91.19
+New Zealand,Sweden,291.55,51.09
+New Zealand,Fiji,55.14,272.47
+New Zealand,Poland,235.02,76.66
+New Zealand,Sri Lanka,46.27,257.5
+New Zealand,Austria,267.29,24.03
+New Zealand,Denmark,192.11,82.62
+New Zealand,Russian Federation,69.88,170.36
+New Zealand,"Egypt, Arab Rep.",12.48,223.44
+New Zealand,Algeria,33.72,195.4
+New Zealand,Ireland,167.56,59.52
+New Zealand,Brazil,154.79,69.24
+New Zealand,South Africa,97.23,126.45
+New Zealand,Chile,74.42,142.13
+New Zealand,Argentina,192.88,20.44
+New Zealand,Turkey,175.64,23.7
+New Zealand,Czech Republic,173.01,21.35
+New Zealand,Nigeria,0.06,166.68
+New Zealand,Finland,134.78,10.09
+New Zealand,Papua New Guinea,12.37,121.09
+New Zealand,Israel,110.45,17.19
+New Zealand,French Polynesia,1.67,124.17
+New Zealand,Hungary,113.8,3.09
+New Zealand,Pakistan,65.32,45.88
+Norway,Germany,10975.63,35548.04
+Norway,United Kingdom,4596.13,37878.59
+Norway,Sweden,11114.97,12600.42
+Norway,China,13121.71,9652.12
+Norway,Netherlands,3571.68,12844.24
+Norway,France,2840.35,13160.33
+Norway,Belgium,1872.27,10744.86
+Norway,United States,6275.9,4427.7
+Norway,Denmark,4589.53,4736.76
+Norway,Poland,3364.08,3383.84
+Norway,Italy,2958.79,2147.29
+Norway,Spain,2327.93,2555.83
+Norway,Finland,2079.96,1777.08
+Norway,Canada,2781.36,978.59
+Norway,"Korea, Rep.",1022.75,2527.07
+Norway,Turkey,1359.7,1648.97
+Norway,Russian Federation,2549.74,446.29
+Norway,Japan,1763.84,1101.77
+Norway,Brazil,1567.95,720.41
+Norway,India,753.74,1382.58
+Norway,Lithuania,1234.29,621.78
+Norway,Czech Republic,1278.16,290.13
+Norway,Ireland,660.6,857.49
+Norway,Switzerland,980.37,422.52
+Norway,Nigeria,22.19,1311.85
+Norway,Thailand,819.69,430.27
+Norway,Vietnam,962.05,282.8
+Norway,Austria,788.65,396.05
+Norway,Portugal,436.18,632.97
+Norway,"Other Asia, nes",679.82,334.08
+Norway,Singapore,537.64,423.96
+Norway,Iceland,211.67,734.86
+Norway,Mexico,736.64,199.89
+Norway,Estonia,703.29,210.14
+Norway,Greece,115.77,787.82
+Norway,Romania,533.89,129.73
+Norway,Hungary,568.49,85.91
+Norway,Latvia,440.71,207.78
+Norway,Malaysia,411.83,175.95
+Norway,Bermuda,0.04,569.55
+Norway,Australia,237.55,296.23
+Norway,Slovak Republic,387.89,76.99
+Norway,Indonesia,240.73,201.85
+Norway,"Hong Kong, China",152.35,267.92
+Norway,South Africa,337.49,81.74
+Norway,Belarus,275.6,138.3
+Norway,Ukraine,77.05,319.18
+Norway,Israel,137.09,241.09
+Norway,Chile,239.33,134.74
+Norway,Bangladesh,353.22,16.48
+Oman,United Arab Emirates,11022.88,3843.46
+Oman,India,2034.14,1326.42
+Oman,Saudi Arabia,1459.93,1728.64
+Oman,China,2164.59,1022.94
+Oman,Qatar,1989.45,993.35
+Oman,United States,715.65,1702.17
+Oman,Brazil,1506.13,297.17
+Oman,Japan,1232.11,35.62
+Oman,Yemen,172.39,780.97
+Oman,Bahrain,724.06,116.92
+Oman,Turkey,481.2,326.12
+Oman,Singapore,291.61,428.27
+Oman,Thailand,534.89,183.42
+Oman,"Iran, Islamic Rep.",256.85,404.63
+Oman,Kuwait,299.0,321.51
+Oman,"Egypt, Arab Rep.",156.64,411.69
+Oman,Malaysia,396.07,163.96
+Oman,Pakistan,387.19,156.39
+Oman,Germany,449.9,74.92
+Oman,"Korea, Rep.",276.27,233.7
+Oman,Netherlands,262.81,227.92
+Oman,Australia,355.48,133.22
+Oman,Belgium,362.44,112.65
+Oman,Somalia,186.93,263.6
+Oman,Italy,360.63,65.28
+Oman,Indonesia,239.04,171.09
+Oman,United Kingdom,249.53,159.81
+Oman,South Africa,58.03,309.13
+Oman,Iraq,211.57,119.06
+Oman,"Other Asia, nes",148.12,144.43
+Oman,Russian Federation,271.48,8.57
+Oman,Spain,173.04,76.37
+Oman,France,152.13,73.94
+Oman,Luxembourg,222.09,0.01
+Oman,Vietnam,37.96,148.97
+Oman,"Hong Kong, China",18.21,152.28
+Oman,Jordan,92.09,68.78
+Oman,Ukraine,131.33,14.21
+Oman,Argentina,91.45,51.55
+Oman,Tanzania,24.77,104.51
+Oman,Algeria,1.15,118.58
+Oman,Kenya,18.0,92.91
+Oman,Denmark,105.97,3.14
+Oman,Maldives,3.12,105.19
+Oman,Bangladesh,11.51,93.02
+Oman,Canada,48.91,54.8
+Oman,Slovenia,78.38,13.32
+Oman,Sri Lanka,40.76,49.59
+Oman,Lebanon,63.71,12.32
+Oman,Free Zones,28.06,45.07
+Panama,United States,3395.26,151.33
+Panama,Free Zones,3051.96,62.65
+Panama,China,1578.19,1199.25
+Panama,Japan,237.62,497.32
+Panama,Mexico,649.68,35.31
+Panama,Spain,275.2,328.22
+Panama,Costa Rica,536.73,41.07
+Panama,"Korea, Rep.",155.57,386.71
+Panama,Colombia,426.7,16.0
+Panama,Germany,213.84,183.79
+Panama,Brazil,229.16,90.24
+Panama,India,126.96,191.55
+Panama,Guatemala,273.79,19.95
+Panama,Netherlands,59.38,134.75
+Panama,Argentina,164.58,0.01
+Panama,Italy,149.27,10.71
+Panama,El Salvador,121.69,11.46
+Panama,Canada,82.94,49.72
+Panama,Thailand,99.72,32.44
+Panama,Turkey,125.17,3.92
+Panama,France,123.43,2.67
+Panama,Bulgaria,1.77,117.09
+Panama,Chile,107.21,3.28
+Panama,Peru,98.77,1.04
+Panama,"Other Asia, nes",56.86,39.81
+Panama,United Kingdom,59.36,27.34
+Panama,Belgium,64.07,4.22
+Panama,Ecuador,59.35,8.48
+Panama,Switzerland,48.73,11.51
+Panama,Honduras,42.27,13.47
+Panama,Denmark,44.49,10.93
+Panama,Russian Federation,49.89,2.29
+Panama,Vietnam,48.04,3.93
+Panama,Indonesia,50.53,0.01
+Panama,Sweden,42.75,0.09
+Panama,Nicaragua,22.5,17.05
+Panama,Dominican Republic,34.76,3.36
+Panama,Ireland,35.49,0.01
+Panama,"Hong Kong, China",31.59,3.71
+Panama,Trinidad and Tobago,30.3,2.54
+Panama,Australia,29.09,1.05
+Panama,New Zealand,25.54,0.61
+Panama,Poland,26.13,0.0
+Panama,South Africa,24.52,0.54
+Panama,Malaysia,23.82,0.75
+Panama,Philippines,1.38,21.45
+Panama,Uruguay,18.75,0.22
+Panama,Portugal,17.64,0.99
+Panama,Austria,18.52,0.0
+Panama,Singapore,17.85,0.31
+Peru,China,14611.64,17994.76
+Peru,United States,9562.26,7192.89
+Peru,Brazil,3430.91,1068.31
+Peru,Japan,1024.39,2780.24
+Peru,"Korea, Rep.",971.92,2799.18
+Peru,Canada,980.96,2740.34
+Peru,India,1111.31,2509.16
+Peru,Chile,1318.31,1710.96
+Peru,Argentina,2313.8,163.17
+Peru,Mexico,1891.3,555.46
+Peru,Spain,861.92,1482.1
+Peru,Germany,1186.65,1088.74
+Peru,Netherlands,238.93,1891.7
+Peru,Switzerland,134.0,1934.65
+Peru,Colombia,1193.52,853.19
+Peru,Bolivia,925.43,699.82
+Peru,Ecuador,686.74,927.31
+Peru,United Kingdom,235.66,1298.38
+Peru,Italy,750.17,655.37
+Peru,United Arab Emirates,106.19,816.06
+Peru,Vietnam,838.74,67.25
+Peru,Russian Federation,642.43,192.38
+Peru,Belgium,243.28,570.2
+Peru,Turkey,630.84,50.1
+Peru,"Other Asia, nes",407.1,268.53
+Peru,Thailand,497.34,120.86
+Peru,Panama,56.07,553.33
+Peru,France,325.75,234.42
+Peru,Indonesia,408.74,71.55
+Peru,Malaysia,276.12,98.63
+Peru,"Hong Kong, China",21.13,329.31
+Peru,Sweden,257.89,85.97
+Peru,Poland,119.27,178.9
+Peru,Philippines,57.8,227.93
+Peru,Nigeria,273.09,11.96
+Peru,Australia,154.72,124.56
+Peru,Bulgaria,11.8,247.59
+Peru,Unspecified,51.33,177.68
+Peru,Paraguay,207.26,16.67
+Peru,Saudi Arabia,178.53,9.79
+Peru,Denmark,84.3,95.8
+Peru,Costa Rica,101.19,71.42
+Peru,Uruguay,140.67,30.79
+Peru,Finland,94.7,68.99
+Peru,Ukraine,153.09,8.46
+Peru,Guatemala,54.01,106.03
+Peru,Dominican Republic,13.71,121.59
+Peru,Singapore,94.28,33.46
+Peru,Namibia,0.01,127.23
+Peru,South Africa,41.55,81.12
+Poland,Germany,70635.85,91052.4
+Poland,China,49662.97,3320.1
+Poland,Italy,16740.65,14089.02
+Poland,Czech Republic,10725.39,19029.9
+Poland,France,11240.22,18108.96
+Poland,Russian Federation,20114.28,8789.39
+Poland,Netherlands,13714.26,13801.3
+Poland,United Kingdom,5401.03,16137.56
+Poland,United States,10371.6,8682.72
+Poland,Belgium,7036.83,8015.42
+Poland,Spain,7258.3,7776.77
+Poland,Slovak Republic,6342.91,8085.89
+Poland,Sweden,5538.26,8754.66
+Poland,Hungary,5098.01,7993.46
+Poland,Austria,5349.17,7223.34
+Poland,Ukraine,5041.75,7054.56
+Poland,Romania,3225.11,6401.92
+Poland,Turkey,6157.2,2929.41
+Poland,"Korea, Rep.",7651.28,863.66
+Poland,Denmark,3285.25,5168.61
+Poland,Lithuania,2352.53,5311.79
+Poland,Norway,3307.96,3266.67
+Poland,Japan,5076.93,830.17
+Poland,Switzerland,2317.88,3209.61
+Poland,Finland,2387.18,2606.37
+Poland,Vietnam,4073.7,480.37
+Poland,India,3176.54,1089.43
+Poland,Unspecified,1636.08,2111.06
+Poland,Belarus,1683.67,1946.16
+Poland,Saudi Arabia,2524.62,882.88
+Poland,Ireland,1756.9,1607.99
+Poland,Portugal,1144.39,1895.85
+Poland,Bangladesh,2945.57,72.72
+Poland,Mexico,822.61,1844.8
+Poland,Slovenia,1191.7,1469.52
+Poland,Latvia,624.33,2015.43
+Poland,Bulgaria,943.82,1639.03
+Poland,"Other Asia, nes",2405.09,167.54
+Poland,Brazil,1669.13,627.18
+Poland,Greece,788.58,1362.63
+Poland,Estonia,449.98,1642.83
+Poland,"Serbia, FR(Serbia/Montenegro)",837.36,1187.35
+Poland,Canada,591.5,1378.86
+Poland,Malaysia,1632.92,236.18
+Poland,Kazakhstan,957.74,789.43
+Poland,Australia,555.09,1067.87
+Poland,Croatia,298.15,1323.04
+Poland,Thailand,1217.04,335.32
+Poland,Morocco,869.02,611.47
+Poland,Israel,415.99,967.1
+Portugal,Spain,32288.59,20125.65
+Portugal,Germany,12210.78,8292.67
+Portugal,France,6593.86,9867.97
+Portugal,Italy,5063.56,3408.38
+Portugal,Netherlands,5245.02,2942.08
+Portugal,United States,2368.07,4195.25
+Portugal,China,4664.98,807.73
+Portugal,United Kingdom,1173.68,3910.49
+Portugal,Belgium,3054.59,1887.28
+Portugal,Brazil,3014.6,836.28
+Portugal,Poland,1786.76,1083.36
+Portugal,Turkey,1391.67,733.45
+Portugal,Sweden,994.81,894.51
+Portugal,Nigeria,1681.7,49.24
+Portugal,Russian Federation,1263.02,210.51
+Portugal,Ireland,948.93,488.17
+Portugal,Morocco,314.44,1026.54
+Portugal,Czech Republic,689.26,561.18
+Portugal,India,1071.32,168.47
+Portugal,Angola,95.32,1125.53
+Portugal,Switzerland,444.14,752.56
+Portugal,Hungary,674.48,453.84
+Portugal,Denmark,515.42,605.95
+Portugal,Japan,712.13,351.59
+Portugal,Austria,538.88,434.4
+Portugal,Romania,390.06,519.26
+Portugal,"Korea, Rep.",632.24,194.71
+Portugal,Finland,273.44,511.97
+Portugal,Slovak Republic,254.13,460.95
+Portugal,"Other Asia, nes",556.11,158.41
+Portugal,Azerbaijan,629.71,4.59
+Portugal,Canada,213.11,415.83
+Portugal,Vietnam,530.61,82.69
+Portugal,Algeria,321.93,241.29
+Portugal,Saudi Arabia,397.12,126.4
+Portugal,Israel,98.56,411.1
+Portugal,Gibraltar,0.05,483.83
+Portugal,Mexico,79.07,381.9
+Portugal,South Africa,198.6,259.66
+Portugal,Norway,143.65,290.61
+Portugal,Greece,199.92,234.17
+Portugal,"Egypt, Arab Rep.",195.69,205.64
+Portugal,Ukraine,350.75,42.14
+Portugal,Cape Verde,9.88,355.01
+Portugal,United Arab Emirates,185.03,171.6
+Portugal,Singapore,208.56,129.35
+Portugal,"Hong Kong, China",126.55,179.72
+Portugal,Bulgaria,149.23,147.32
+Portugal,Australia,32.84,259.68
+Portugal,Thailand,253.95,36.79
+Qatar,China,4550.06,13472.96
+Qatar,India,1777.13,11196.94
+Qatar,Japan,909.52,11843.72
+Qatar,"Korea, Rep.",397.06,11191.93
+Qatar,Singapore,523.78,5346.41
+Qatar,United States,3312.15,1689.71
+Qatar,United Kingdom,1581.46,2923.07
+Qatar,Italy,1404.63,2452.32
+Qatar,United Arab Emirates,61.87,3473.8
+Qatar,Thailand,352.15,2716.19
+Qatar,Germany,1617.59,1416.43
+Qatar,Pakistan,170.76,2610.37
+Qatar,"Other Asia, nes",131.03,2263.91
+Qatar,Kuwait,225.5,1701.87
+Qatar,Turkey,1093.45,757.49
+Qatar,France,745.13,938.13
+Qatar,Bangladesh,75.48,1422.17
+Qatar,Unspecified,893.25,602.71
+Qatar,Switzerland,1051.89,316.46
+Qatar,Poland,198.61,1058.58
+Qatar,Oman,610.3,614.72
+Qatar,Spain,479.26,695.92
+Qatar,Brazil,205.84,816.87
+Qatar,Australia,527.65,431.77
+Qatar,Indonesia,354.64,517.08
+Qatar,Belgium,344.09,462.05
+Qatar,Malaysia,301.85,336.56
+Qatar,Netherlands,308.01,299.52
+Qatar,Argentina,30.24,427.58
+Qatar,Vietnam,229.68,179.65
+Qatar,Sweden,343.07,10.22
+Qatar,South Africa,101.43,238.25
+Qatar,"Hong Kong, China",84.16,253.35
+Qatar,Philippines,71.57,229.9
+Qatar,Russian Federation,281.83,8.49
+Qatar,Myanmar,12.96,273.63
+Qatar,Greece,70.27,171.71
+Qatar,Mexico,200.19,28.98
+Qatar,"Iran, Islamic Rep.",175.37,32.18
+Qatar,Morocco,60.86,140.38
+Qatar,Lebanon,169.28,30.92
+Qatar,Portugal,67.29,127.08
+Qatar,Saudi Arabia,24.19,159.19
+Qatar,Austria,146.6,30.2
+Qatar,Ukraine,148.39,18.49
+Qatar,Jordan,119.64,43.07
+Qatar,Canada,152.31,7.47
+Qatar,Czech Republic,142.16,13.34
+Qatar,Iraq,31.13,113.93
+Qatar,Ireland,122.33,20.37
+Romania,Germany,23473.83,18153.09
+Romania,Italy,10345.4,9233.13
+Romania,Hungary,7991.18,5011.87
+Romania,Poland,7270.51,3522.32
+Romania,France,4901.95,5647.36
+Romania,Turkey,5754.0,3103.65
+Romania,Bulgaria,4951.21,3459.54
+Romania,China,6378.6,1341.39
+Romania,Netherlands,4619.16,3032.01
+Romania,Russian Federation,5623.56,1210.18
+Romania,Czech Republic,3325.26,2765.96
+Romania,Austria,3706.52,2230.86
+Romania,Spain,2927.0,2635.06
+Romania,Belgium,2876.55,1878.48
+Romania,Slovak Republic,2339.68,1885.71
+Romania,United Kingdom,1226.64,2552.86
+Romania,United States,1035.46,1851.39
+Romania,Greece,1647.55,1047.44
+Romania,Ukraine,1621.81,839.25
+Romania,Moldova,878.18,1545.56
+Romania,"Serbia, FR(Serbia/Montenegro)",1083.43,1219.31
+Romania,Switzerland,1584.87,666.84
+Romania,Slovenia,927.48,509.96
+Romania,Sweden,602.44,738.89
+Romania,"Egypt, Arab Rep.",289.71,918.81
+Romania,Morocco,322.61,687.85
+Romania,"Korea, Rep.",550.67,438.86
+Romania,Portugal,494.14,423.24
+Romania,Denmark,506.98,398.84
+Romania,Israel,211.13,682.74
+Romania,India,563.38,272.29
+Romania,Japan,324.24,465.6
+Romania,"Hong Kong, China",689.0,76.03
+Romania,Ireland,558.02,196.41
+Romania,Norway,98.63,634.56
+Romania,Croatia,343.1,353.01
+Romania,Brazil,381.92,178.73
+Romania,Tunisia,198.35,298.78
+Romania,Jordan,2.48,477.61
+Romania,"Iran, Islamic Rep.",72.5,403.51
+Romania,Finland,191.67,252.17
+Romania,Canada,133.2,307.28
+Romania,North Macedonia,127.05,285.98
+Romania,Lithuania,203.21,200.11
+Romania,Saudi Arabia,14.3,362.72
+Romania,United Arab Emirates,78.96,296.51
+Romania,"Other Asia, nes",310.21,56.89
+Romania,Vietnam,227.25,114.94
+Romania,Thailand,255.4,84.71
+Romania,Georgia,155.03,180.74
+Russian Federation,China,72693.02,68679.25
+Russian Federation,Germany,27350.55,29645.65
+Russian Federation,Netherlands,4284.26,42145.03
+Russian Federation,Belarus,15635.53,23130.38
+Russian Federation,United States,17265.49,17747.76
+Russian Federation,Turkey,6514.51,26426.3
+Russian Federation,Italy,12033.62,19284.24
+Russian Federation,"Korea, Rep.",12986.92,16894.81
+Russian Federation,United Kingdom,4466.79,22274.62
+Russian Federation,Kazakhstan,7132.35,18493.81
+Russian Federation,Poland,5808.05,16722.43
+Russian Federation,France,12211.45,9910.3
+Russian Federation,Japan,9127.29,10726.01
+Russian Federation,India,4427.71,9128.11
+Russian Federation,Finland,3565.55,9655.81
+Russian Federation,Ukraine,4155.33,8128.98
+Russian Federation,Belgium,2523.05,8671.67
+Russian Federation,Czech Republic,3622.12,4016.63
+Russian Federation,Brazil,2222.83,5261.22
+Russian Federation,Spain,3506.09,3844.11
+Russian Federation,Vietnam,4893.32,2238.52
+Russian Federation,Slovak Republic,1949.78,5101.15
+Russian Federation,Uzbekistan,1705.45,5203.92
+Russian Federation,Switzerland,3395.15,2821.57
+Russian Federation,Hungary,2268.16,3719.45
+Russian Federation,"Other Asia, nes",2392.3,3517.72
+Russian Federation,Austria,2657.59,3228.87
+Russian Federation,United Arab Emirates,276.3,5081.6
+Russian Federation,Lithuania,653.28,4577.37
+Russian Federation,Romania,1590.33,3343.1
+Russian Federation,Latvia,496.65,4295.66
+Russian Federation,Mexico,1380.36,3402.93
+Russian Federation,"Egypt, Arab Rep.",591.96,4177.31
+Russian Federation,Estonia,473.84,4131.26
+Russian Federation,Greece,298.7,4194.87
+Russian Federation,Denmark,1251.11,2984.39
+Russian Federation,"Iran, Islamic Rep.",972.35,3068.19
+Russian Federation,Sweden,2490.81,1071.6
+Russian Federation,Azerbaijan,1031.98,2323.84
+Russian Federation,Indonesia,2625.28,680.98
+Russian Federation,Malaysia,1822.46,1429.73
+Russian Federation,Bulgaria,570.49,2669.63
+Russian Federation,Algeria,18.27,2989.45
+Russian Federation,Bangladesh,1273.26,1721.24
+Russian Federation,Norway,903.14,1814.79
+Russian Federation,Armenia,711.56,1892.69
+Russian Federation,Israel,846.95,1736.22
+Russian Federation,Ireland,2100.56,464.58
+Russian Federation,Kyrgyz Republic,348.1,2156.02
+Russian Federation,Malta,25.16,2359.79
+Saudi Arabia,Unspecified,132.72,171443.23
+Saudi Arabia,China,30234.8,10957.81
+Saudi Arabia,United Arab Emirates,12471.46,14750.08
+Saudi Arabia,United States,16216.55,4954.29
+Saudi Arabia,India,8073.8,9133.48
+Saudi Arabia,"Egypt, Arab Rep.",4208.33,7782.66
+Saudi Arabia,Japan,6061.96,2076.77
+Saudi Arabia,Germany,7491.4,429.11
+Saudi Arabia,"Korea, Rep.",3439.68,3378.33
+Saudi Arabia,France,4255.11,2521.02
+Saudi Arabia,Italy,4598.5,2038.72
+Saudi Arabia,United Kingdom,3526.34,2298.38
+Saudi Arabia,Belgium,1929.46,3879.49
+Saudi Arabia,Singapore,948.72,4716.55
+Saudi Arabia,Bahrain,2599.23,2283.62
+Saudi Arabia,Netherlands,2099.91,2722.18
+Saudi Arabia,Brazil,2459.69,1418.95
+Saudi Arabia,Turkey,129.69,3456.87
+Saudi Arabia,Indonesia,1934.53,1593.43
+Saudi Arabia,Jordan,1336.12,2140.24
+Saudi Arabia,Spain,2368.12,1060.09
+Saudi Arabia,Thailand,2335.06,1057.95
+Saudi Arabia,Switzerland,2202.98,913.05
+Saudi Arabia,Malaysia,1449.77,1650.46
+Saudi Arabia,South Africa,839.12,2255.41
+Saudi Arabia,Oman,1788.9,1182.45
+Saudi Arabia,Kuwait,566.55,1960.47
+Saudi Arabia,Yemen,226.32,2077.09
+Saudi Arabia,Australia,1579.11,687.39
+Saudi Arabia,Vietnam,1434.54,754.37
+Saudi Arabia,Canada,2037.41,64.44
+Saudi Arabia,"Other Asia, nes",1217.84,872.35
+Saudi Arabia,Djibouti,21.52,1802.58
+Saudi Arabia,Pakistan,551.74,1260.33
+Saudi Arabia,Poland,1418.04,309.65
+Saudi Arabia,"Hong Kong, China",1336.59,368.3
+Saudi Arabia,Bangladesh,493.26,1133.24
+Saudi Arabia,Sweden,1446.42,110.75
+Saudi Arabia,Kenya,88.16,1439.29
+Saudi Arabia,Russian Federation,1437.48,81.04
+Saudi Arabia,Sudan,341.12,1172.85
+Saudi Arabia,Morocco,181.68,1172.1
+Saudi Arabia,Ireland,1211.6,23.87
+Saudi Arabia,Tanzania,13.53,1218.9
+Saudi Arabia,Argentina,1025.06,82.44
+Saudi Arabia,Iraq,18.49,1021.24
+Saudi Arabia,Ukraine,850.58,125.68
+Saudi Arabia,Mexico,883.23,68.39
+Saudi Arabia,Greece,581.24,220.09
+Saudi Arabia,Denmark,743.71,33.09
+Singapore,China,54610.68,67746.76
+Singapore,Malaysia,53729.37,42130.41
+Singapore,United States,40573.14,39316.82
+Singapore,"Other Asia, nes",51118.63,23307.74
+Singapore,"Hong Kong, China",3248.62,60147.38
+Singapore,Indonesia,15212.69,28801.07
+Singapore,"Korea, Rep.",22194.93,19700.44
+Singapore,Japan,21803.98,18355.09
+Singapore,Thailand,9805.08,15622.19
+Singapore,Australia,7239.99,13038.5
+Singapore,Vietnam,4383.81,15670.8
+Singapore,India,7362.82,12624.31
+Singapore,Germany,10292.81,7105.74
+Singapore,Philippines,8113.62,9166.86
+Singapore,United Arab Emirates,12546.69,4018.26
+Singapore,France,11521.91,3869.64
+Singapore,Netherlands,3119.16,9735.56
+Singapore,Switzerland,8252.28,3427.18
+Singapore,United Kingdom,6862.18,3705.48
+Singapore,Saudi Arabia,6172.84,950.83
+Singapore,Cambodia,233.18,6618.6
+Singapore,Belgium,1365.58,5403.19
+Singapore,Italy,4945.44,881.74
+Singapore,Qatar,5007.43,754.24
+Singapore,Brazil,4080.64,1612.32
+Singapore,Panama,3.95,4302.32
+Singapore,Mexico,2489.1,1626.53
+Singapore,Bangladesh,174.3,3625.13
+Singapore,Russian Federation,3263.38,488.0
+Singapore,Marshall Islands,8.33,3588.0
+Singapore,Liberia,0.93,3351.64
+Singapore,New Zealand,655.59,2230.82
+Singapore,Myanmar,84.34,2617.06
+Singapore,Ireland,1960.67,566.57
+Singapore,Canada,1488.75,752.4
+Singapore,Brunei,1269.19,746.38
+Singapore,Malta,547.12,1404.6
+Singapore,Spain,1322.2,423.88
+Singapore,Israel,757.42,979.78
+Singapore,Turkey,860.18,855.34
+Singapore,Sweden,1514.11,139.87
+Singapore,Iraq,1396.38,90.43
+Singapore,Pakistan,71.11,1294.65
+Singapore,Nigeria,877.49,408.66
+Singapore,Sri Lanka,110.13,1172.46
+Singapore,Czech Republic,687.29,579.77
+Singapore,Greece,295.56,931.76
+Singapore,Algeria,1160.74,41.9
+Singapore,Austria,868.67,298.72
+Singapore,South Africa,690.86,413.64
+Slovak Republic,Germany,20073.86,22734.0
+Slovak Republic,Czech Republic,10267.7,12128.23
+Slovak Republic,Poland,5837.45,8702.18
+Slovak Republic,Hungary,3790.64,7582.9
+Slovak Republic,France,3711.55,6740.38
+Slovak Republic,China,7656.04,2664.7
+Slovak Republic,Unspecified,9263.62,79.23
+Slovak Republic,Austria,2794.78,5770.98
+Slovak Republic,Italy,3584.9,4872.7
+Slovak Republic,Russian Federation,6587.11,1582.58
+Slovak Republic,"Korea, Rep.",5697.82,320.62
+Slovak Republic,United Kingdom,1330.29,4130.32
+Slovak Republic,Vietnam,4766.11,31.59
+Slovak Republic,United States,1108.55,3307.15
+Slovak Republic,Romania,1664.05,2558.39
+Slovak Republic,Spain,1569.12,2391.35
+Slovak Republic,Netherlands,1257.42,2117.38
+Slovak Republic,Belgium,1039.5,1276.39
+Slovak Republic,Switzerland,635.29,1512.31
+Slovak Republic,Sweden,619.22,1433.42
+Slovak Republic,Ukraine,927.77,976.48
+Slovak Republic,Turkey,892.77,930.72
+Slovak Republic,Slovenia,413.73,926.72
+Slovak Republic,Denmark,337.33,791.01
+Slovak Republic,"Serbia, FR(Serbia/Montenegro)",510.04,576.2
+Slovak Republic,Bulgaria,301.47,712.23
+Slovak Republic,Malaysia,922.08,19.89
+Slovak Republic,Japan,596.96,306.88
+Slovak Republic,Croatia,138.0,744.54
+Slovak Republic,"Egypt, Arab Rep.",332.4,363.19
+Slovak Republic,Portugal,373.85,293.38
+Slovak Republic,"Other Asia, nes",577.8,84.38
+Slovak Republic,India,434.51,164.98
+Slovak Republic,Finland,229.22,331.32
+Slovak Republic,Ireland,320.24,219.49
+Slovak Republic,Canada,141.96,338.66
+Slovak Republic,Greece,156.44,322.43
+Slovak Republic,Mexico,150.33,285.05
+Slovak Republic,Lithuania,131.51,278.88
+Slovak Republic,Bangladesh,377.2,10.1
+Slovak Republic,Morocco,138.35,237.85
+Slovak Republic,Thailand,347.62,25.92
+Slovak Republic,Israel,64.58,304.67
+Slovak Republic,Australia,27.53,323.42
+Slovak Republic,Norway,104.4,245.66
+Slovak Republic,Brazil,101.81,170.63
+Slovak Republic,South Africa,97.04,174.3
+Slovak Republic,United Arab Emirates,25.87,226.84
+Slovak Republic,Tunisia,171.89,75.38
+Slovak Republic,Bosnia and Herzegovina,86.45,155.37
+South Africa,China,19226.8,13571.17
+South Africa,United States,6576.14,12974.21
+South Africa,Germany,7544.99,9374.09
+South Africa,Japan,2600.4,8227.26
+South Africa,United Kingdom,1871.16,8177.22
+South Africa,India,5347.78,4155.53
+South Africa,Unspecified,485.34,7400.59
+South Africa,Netherlands,1605.48,4164.81
+South Africa,Mozambique,784.44,4327.02
+South Africa,Botswana,570.36,4362.59
+South Africa,Belgium,1369.84,3534.91
+South Africa,Saudi Arabia,4102.14,375.09
+South Africa,Namibia,988.49,3435.33
+South Africa,United Arab Emirates,1882.15,2257.03
+South Africa,Italy,2584.61,1178.15
+South Africa,Thailand,2977.91,510.42
+South Africa,"Korea, Rep.",1105.83,2164.82
+South Africa,Zimbabwe,186.63,2914.7
+South Africa,Spain,1575.31,1362.62
+South Africa,Eswatini,1382.94,1507.86
+South Africa,France,1965.82,827.32
+South Africa,Nigeria,2239.83,517.94
+South Africa,Zambia,242.81,2326.95
+South Africa,"Hong Kong, China",141.63,2389.22
+South Africa,Australia,1103.5,837.43
+South Africa,Oman,1880.39,54.52
+South Africa,Switzerland,1094.37,838.01
+South Africa,Brazil,1299.87,473.44
+South Africa,Lesotho,324.95,1390.21
+South Africa,Indonesia,991.19,720.12
+South Africa,"Other Asia, nes",731.36,795.09
+South Africa,Vietnam,1062.94,406.01
+South Africa,Malaysia,1010.77,421.74
+South Africa,Turkey,941.23,470.3
+South Africa,Pakistan,192.8,1181.29
+South Africa,Czech Republic,692.15,594.2
+South Africa,Poland,935.92,243.36
+South Africa,"Congo, Dem. Rep.",77.23,1074.66
+South Africa,Sweden,926.47,160.71
+South Africa,Russian Federation,622.92,410.78
+South Africa,Ghana,545.66,413.31
+South Africa,Singapore,347.92,535.64
+South Africa,Canada,422.8,371.57
+South Africa,Mexico,528.81,227.46
+South Africa,Angola,361.85,330.1
+South Africa,Austria,604.04,76.55
+South Africa,Argentina,481.51,195.84
+South Africa,Ireland,441.98,180.39
+South Africa,Mauritius,225.8,350.17
+South Africa,Malawi,56.31,469.21
+Spain,France,40390.84,59692.08
+Spain,Germany,45267.77,38320.46
+Spain,Italy,26751.95,31421.64
+Spain,China,41200.35,10243.47
+Spain,Portugal,16084.65,29415.99
+Spain,Unspecified,25277.07,17937.9
+Spain,United States,20212.99,17468.71
+Spain,Netherlands,19757.4,13530.26
+Spain,United Kingdom,10207.78,21704.47
+Spain,Belgium,10996.17,17037.98
+Spain,Morocco,8635.05,11235.68
+Spain,Switzerland,10139.77,6794.13
+Spain,Poland,7603.82,8965.69
+Spain,Turkey,9847.21,6493.88
+Spain,Mexico,5515.33,4871.07
+Spain,Russian Federation,7136.22,2617.72
+Spain,Brazil,5477.71,3066.91
+Spain,Czech Republic,4949.87,3486.23
+Spain,Algeria,5639.44,2232.96
+Spain,Sweden,3760.0,3466.72
+Spain,Nigeria,6692.71,498.96
+Spain,Japan,3511.44,3473.1
+Spain,India,4967.63,1770.0
+Spain,Bunkers,0.09,6082.27
+Spain,Ireland,3368.32,2411.41
+Spain,Saudi Arabia,3517.34,2255.68
+Spain,Austria,2738.76,2879.75
+Spain,"Korea, Rep.",3250.28,2289.51
+Spain,Hungary,3133.59,2059.38
+Spain,Denmark,2501.42,2541.52
+Spain,Romania,2547.44,2452.26
+Spain,Canada,2368.5,2398.46
+Spain,Greece,999.81,3115.42
+Spain,Vietnam,3316.05,546.01
+Spain,Bangladesh,3604.79,232.39
+Spain,Libya,3427.18,366.73
+Spain,Slovak Republic,2158.13,1581.58
+Spain,Chile,1536.73,2071.45
+Spain,Argentina,2474.92,1083.78
+Spain,Indonesia,2910.59,462.06
+Spain,"Egypt, Arab Rep.",1408.74,1884.08
+Spain,Norway,1525.84,1752.6
+Spain,Israel,968.03,2135.9
+Spain,United Arab Emirates,961.18,2024.17
+Spain,South Africa,1355.66,1541.5
+Spain,Finland,1375.06,1505.99
+Spain,"Other Asia, nes",1970.2,825.14
+Spain,Australia,728.45,1914.4
+Spain,Ukraine,1830.56,806.37
+Spain,Peru,1676.18,801.46
+Sweden,Germany,31739.72,19422.65
+Sweden,Norway,19043.84,20254.23
+Sweden,Netherlands,18835.28,9555.51
+Sweden,Denmark,12960.3,14664.11
+Sweden,Finland,8292.62,13411.32
+Sweden,China,12908.67,7830.59
+Sweden,United States,5272.62,15301.71
+Sweden,United Kingdom,5711.05,10460.67
+Sweden,Poland,8842.31,7214.56
+Sweden,Belgium,8257.57,6848.46
+Sweden,France,7109.67,7622.16
+Sweden,Italy,6594.61,5399.62
+Sweden,Spain,3122.0,3665.06
+Sweden,Russian Federation,2503.97,2492.75
+Sweden,Unspecified,598.77,4334.08
+Sweden,Czech Republic,2951.5,1677.72
+Sweden,Japan,1399.41,2770.31
+Sweden,Austria,2167.78,1679.54
+Sweden,Turkey,1555.02,1722.77
+Sweden,Estonia,1740.18,1534.07
+Sweden,"Korea, Rep.",1518.36,1687.71
+Sweden,Lithuania,1731.61,1450.89
+Sweden,Switzerland,1391.59,1722.44
+Sweden,Ireland,2259.7,852.82
+Sweden,Hungary,2058.52,875.04
+Sweden,India,992.34,1289.26
+Sweden,Brazil,754.91,1152.6
+Sweden,Australia,283.94,1537.45
+Sweden,Canada,603.56,1184.77
+Sweden,Vietnam,1540.65,247.09
+Sweden,Portugal,796.65,932.24
+Sweden,Slovak Republic,1167.76,503.42
+Sweden,"Other Asia, nes",966.22,678.73
+Sweden,Latvia,1036.76,561.6
+Sweden,Singapore,136.64,1260.45
+Sweden,Saudi Arabia,96.43,1193.41
+Sweden,Thailand,553.21,613.76
+Sweden,Romania,579.67,501.24
+Sweden,Malaysia,600.39,389.56
+Sweden,South Africa,192.86,779.73
+Sweden,"Egypt, Arab Rep.",43.23,884.57
+Sweden,Mexico,158.03,748.66
+Sweden,United Arab Emirates,98.61,763.73
+Sweden,Bunkers,0.06,758.45
+Sweden,Slovenia,449.24,245.42
+Sweden,Greece,210.15,483.62
+Sweden,Bangladesh,629.75,62.87
+Sweden,Ukraine,110.79,560.41
+Sweden,Indonesia,332.02,333.35
+Sweden,"Hong Kong, China",301.71,336.01
+Switzerland,Germany,62360.16,55240.47
+Switzerland,United States,24292.92,62673.98
+Switzerland,China,19791.19,33066.49
+Switzerland,United Kingdom,36389.87,14027.38
+Switzerland,Italy,24049.74,20196.86
+Switzerland,France,18842.36,19252.87
+Switzerland,India,2333.82,31409.24
+Switzerland,Spain,9063.78,13815.87
+Switzerland,Austria,10141.2,10255.17
+Switzerland,"Hong Kong, China",4646.57,10191.52
+Switzerland,Japan,5353.98,8441.84
+Switzerland,United Arab Emirates,8715.14,4611.77
+Switzerland,Netherlands,5917.81,7355.97
+Switzerland,Singapore,5056.1,8100.65
+Switzerland,Slovenia,2296.63,8745.71
+Switzerland,Belgium,4408.82,5059.22
+Switzerland,Canada,3448.86,4140.12
+Switzerland,Poland,3064.98,3270.74
+Switzerland,Thailand,1916.89,4289.5
+Switzerland,"Korea, Rep.",2252.03,3644.38
+Switzerland,Ireland,4214.54,1305.49
+Switzerland,Czech Republic,2959.4,2250.18
+Switzerland,Russian Federation,1498.58,3688.92
+Switzerland,Turkey,2185.59,2813.77
+Switzerland,South Africa,4240.34,641.84
+Switzerland,"Other Asia, nes",1751.11,2672.9
+Switzerland,Brazil,1753.59,2369.82
+Switzerland,Australia,1644.42,2427.55
+Switzerland,Sweden,1649.78,2036.43
+Switzerland,Saudi Arabia,928.57,2500.69
+Switzerland,Burkina Faso,3380.12,3.61
+Switzerland,Mexico,1623.13,1532.65
+Switzerland,Hungary,1659.25,1277.01
+Switzerland,Romania,973.51,1737.73
+Switzerland,Portugal,1211.66,1274.21
+Switzerland,Ghana,2451.04,33.56
+Switzerland,Uzbekistan,2390.73,92.53
+Switzerland,Peru,2283.88,137.82
+Switzerland,Vietnam,1878.36,529.31
+Switzerland,Malaysia,897.25,1475.72
+Switzerland,Finland,1605.28,682.53
+Switzerland,Denmark,1040.21,1231.15
+Switzerland,Indonesia,1701.77,360.6
+Switzerland,Slovak Republic,1193.95,748.4
+Switzerland,Israel,551.72,1192.43
+Switzerland,Argentina,993.97,684.97
+Switzerland,"Egypt, Arab Rep.",84.76,1339.23
+Switzerland,Mali,1356.5,8.94
+Switzerland,Chile,934.73,354.11
+Switzerland,Norway,513.16,733.09
+Tanzania,China,2696.19,273.09
+Tanzania,United Arab Emirates,1359.51,1051.73
+Tanzania,India,1209.52,1008.69
+Tanzania,South Africa,432.34,916.67
+Tanzania,Kenya,410.88,397.22
+Tanzania,Saudi Arabia,674.12,7.25
+Tanzania,Switzerland,77.05,526.94
+Tanzania,Japan,469.01,67.47
+Tanzania,Uganda,109.66,314.02
+Tanzania,United States,261.36,39.08
+Tanzania,Germany,243.84,39.91
+Tanzania,Rwanda,2.2,277.8
+Tanzania,Turkey,237.48,22.02
+Tanzania,Indonesia,220.01,18.72
+Tanzania,Oman,221.09,9.34
+Tanzania,Singapore,82.23,139.22
+Tanzania,"Congo, Dem. Rep.",2.59,207.23
+Tanzania,Netherlands,94.38,78.86
+Tanzania,Belgium,65.9,101.4
+Tanzania,Burundi,0.62,163.26
+Tanzania,Russian Federation,150.55,7.13
+Tanzania,United Kingdom,133.7,19.46
+Tanzania,"Korea, Rep.",137.32,10.18
+Tanzania,Italy,105.17,33.99
+Tanzania,Zambia,70.42,68.61
+Tanzania,Vietnam,35.95,102.02
+Tanzania,Malaysia,111.7,7.84
+Tanzania,"Hong Kong, China",53.06,61.3
+Tanzania,Thailand,110.53,3.43
+Tanzania,Pakistan,31.48,62.17
+Tanzania,Australia,87.84,3.93
+Tanzania,Malawi,22.47,64.05
+Tanzania,France,63.59,18.82
+Tanzania,Spain,62.7,16.86
+Tanzania,Finland,69.2,8.47
+Tanzania,Qatar,40.82,25.31
+Tanzania,Ukraine,60.74,4.0
+Tanzania,Sweden,57.46,2.4
+Tanzania,"Egypt, Arab Rep.",47.94,3.52
+Tanzania,Canada,45.41,3.65
+Tanzania,Eswatini,39.58,0.15
+Tanzania,Poland,26.72,9.51
+Tanzania,"Other Asia, nes",28.91,1.65
+Tanzania,Brazil,27.64,0.03
+Tanzania,Ireland,26.86,0.23
+Tanzania,Argentina,26.52,0.14
+Tanzania,Denmark,21.18,3.85
+Tanzania,Zimbabwe,9.91,14.86
+Tanzania,Mauritius,20.28,0.18
+Tanzania,Mozambique,4.59,15.48
+Thailand,China,66426.55,36577.25
+Thailand,Japan,35572.36,24558.18
+Thailand,United States,14575.6,41225.33
+Thailand,Malaysia,12050.78,11875.49
+Thailand,Vietnam,6947.49,12276.4
+Thailand,Australia,6420.73,10696.36
+Thailand,Indonesia,8219.54,8774.7
+Thailand,Singapore,7342.44,8863.83
+Thailand,"Korea, Rep.",9895.42,5799.93
+Thailand,"Other Asia, nes",10486.37,4574.0
+Thailand,India,6412.22,8420.8
+Thailand,"Hong Kong, China",2836.13,11412.04
+Thailand,United Arab Emirates,9849.99,2740.73
+Thailand,Germany,6198.96,4847.16
+Thailand,Philippines,3832.87,6964.25
+Thailand,Cambodia,879.7,6961.2
+Thailand,Saudi Arabia,5819.9,1607.79
+Thailand,Lao PDR,3245.29,3919.42
+Thailand,Myanmar,2805.78,4248.09
+Thailand,Switzerland,5071.96,1462.95
+Thailand,Netherlands,1018.29,5212.55
+Thailand,United Kingdom,2043.13,3418.84
+Thailand,Brazil,3394.89,1884.04
+Thailand,France,2469.01,1867.79
+Thailand,Italy,2469.09,1811.53
+Thailand,South Africa,779.72,2951.98
+Thailand,Qatar,3370.78,324.72
+Thailand,Mexico,800.66,2806.08
+Thailand,Belgium,1067.64,1940.14
+Thailand,Russian Federation,1762.93,1015.08
+Thailand,Canada,872.15,1819.42
+Thailand,New Zealand,826.08,1854.65
+Thailand,Oman,1319.79,503.07
+Thailand,Argentina,436.55,1359.78
+Thailand,Pakistan,203.27,1586.83
+Thailand,Angola,1607.76,148.75
+Thailand,Spain,761.9,902.16
+Thailand,Turkey,291.84,1309.13
+Thailand,Nigeria,1094.45,272.3
+Thailand,Libya,1152.07,188.02
+Thailand,Bangladesh,53.9,1213.12
+Thailand,Israel,450.76,807.67
+Thailand,"Egypt, Arab Rep.",54.45,1157.64
+Thailand,Sweden,739.38,446.23
+Thailand,Chile,551.82,598.45
+Thailand,Czech Republic,312.29,768.5
+Thailand,Poland,483.73,545.76
+Thailand,Kuwait,685.57,297.4
+Thailand,Denmark,491.23,387.03
+Thailand,Norway,627.88,205.37
+Turkey,Germany,21726.3,19311.02
+Turkey,China,32238.05,3662.75
+Turkey,Russian Federation,28959.36,5774.39
+Turkey,United States,13147.63,14721.82
+Turkey,Italy,11562.69,11473.02
+Turkey,United Kingdom,5558.19,13703.69
+Turkey,France,7931.54,9123.3
+Turkey,Spain,6311.61,9619.64
+Turkey,Iraq,1664.1,11125.65
+Turkey,Netherlands,4508.59,6764.79
+Turkey,Belgium,5628.39,4899.3
+Turkey,India,7936.15,1304.82
+Turkey,Romania,3434.43,5175.02
+Turkey,"Korea, Rep.",7597.02,996.23
+Turkey,Israel,2047.08,6355.78
+Turkey,Poland,3635.83,4673.82
+Turkey,United Arab Emirates,2442.66,5493.36
+Turkey,Ukraine,4524.67,2900.54
+Turkey,"Egypt, Arab Rep.",2211.76,4513.69
+Turkey,Bulgaria,2545.47,3953.44
+Turkey,"Iran, Islamic Rep.",2823.68,2770.74
+Turkey,Greece,2162.13,3118.9
+Turkey,Japan,4389.29,521.77
+Turkey,Brazil,3827.07,1025.37
+Turkey,Czech Republic,2713.6,1649.03
+Turkey,Switzerland,3057.85,1257.5
+Turkey,Morocco,922.44,2976.89
+Turkey,Saudi Arabia,3456.31,265.4
+Turkey,Sweden,1984.44,1688.59
+Turkey,Uzbekistan,1800.04,1841.62
+Turkey,Libya,821.8,2771.26
+Turkey,Malaysia,3098.06,445.17
+Turkey,Austria,1829.58,1520.15
+Turkey,Azerbaijan,751.29,2342.79
+Turkey,Hungary,1645.22,1399.02
+Turkey,Algeria,1194.88,1698.26
+Turkey,Kazakhstan,1595.31,1288.14
+Turkey,Canada,1079.77,1687.17
+Turkey,Portugal,1121.06,1496.77
+Turkey,"Serbia, FR(Serbia/Montenegro)",471.0,2038.68
+Turkey,Denmark,1086.77,1301.1
+Turkey,Syrian Arab Republic,187.1,2108.34
+Turkey,Slovenia,453.14,1797.08
+Turkey,Georgia,470.85,1703.75
+Turkey,Indonesia,1847.39,313.04
+Turkey,Colombia,1691.47,420.66
+Turkey,Australia,1123.18,971.0
+Turkey,"Other Asia, nes",1837.22,253.58
+Turkey,South Africa,1192.74,861.26
+Turkey,Ireland,984.79,958.67
+United Arab Emirates,Unspecified,77563.81,208396.42
+United Arab Emirates,China,51795.57,9068.78
+United Arab Emirates,India,20876.19,23978.57
+United Arab Emirates,Saudi Arabia,7378.27,26564.03
+United Arab Emirates,United States,16876.6,7674.5
+United Arab Emirates,Iraq,2699.04,14252.43
+United Arab Emirates,Switzerland,5350.07,8716.94
+United Arab Emirates,Turkey,9580.88,3915.43
+United Arab Emirates,Japan,10859.51,2536.02
+United Arab Emirates,Oman,2587.0,10109.05
+United Arab Emirates,"Hong Kong, China",1274.04,10732.83
+United Arab Emirates,Italy,7979.26,2637.3
+United Arab Emirates,Kuwait,1332.28,9236.24
+United Arab Emirates,Germany,8299.27,1380.66
+United Arab Emirates,Vietnam,7601.25,1264.89
+United Arab Emirates,United Kingdom,5368.77,2597.0
+United Arab Emirates,"Egypt, Arab Rep.",1688.35,5880.26
+United Arab Emirates,Mali,7327.22,217.43
+United Arab Emirates,"Iran, Islamic Rep.",361.82,6581.19
+United Arab Emirates,France,6090.13,823.05
+United Arab Emirates,Belgium,3095.75,3726.59
+United Arab Emirates,Bahrain,2756.84,3717.25
+United Arab Emirates,South Africa,4454.75,1456.8
+United Arab Emirates,Pakistan,1124.21,4245.18
+United Arab Emirates,Russian Federation,3709.69,1450.65
+United Arab Emirates,Thailand,3861.01,1222.29
+United Arab Emirates,"Korea, Rep.",3596.89,1106.86
+United Arab Emirates,Malaysia,2661.37,1713.2
+United Arab Emirates,Netherlands,1656.32,2709.14
+United Arab Emirates,Sudan,2900.92,1366.56
+United Arab Emirates,Singapore,1751.84,2357.66
+United Arab Emirates,Qatar,1290.89,2523.41
+United Arab Emirates,Australia,2486.38,1060.29
+United Arab Emirates,Canada,2781.19,663.57
+United Arab Emirates,Indonesia,2480.95,634.84
+United Arab Emirates,Brazil,2687.53,368.72
+United Arab Emirates,Jordan,309.78,2726.72
+United Arab Emirates,Guinea,2580.78,242.39
+United Arab Emirates,Niger,2677.86,129.44
+United Arab Emirates,Libya,956.16,1706.52
+United Arab Emirates,Spain,2052.81,526.85
+United Arab Emirates,Ghana,1734.44,825.63
+United Arab Emirates,Lebanon,771.46,1711.72
+United Arab Emirates,Botswana,2091.32,384.73
+United Arab Emirates,"Other Asia, nes",1708.21,719.84
+United Arab Emirates,Zimbabwe,2099.16,209.07
+United Arab Emirates,Uganda,1998.04,296.68
+United Arab Emirates,Tanzania,1329.87,936.37
+United Arab Emirates,Kenya,391.61,1833.77
+United Arab Emirates,Angola,1685.7,391.99
+Uganda,United Arab Emirates,495.87,1844.84
+Uganda,China,1351.95,39.61
+Uganda,Kenya,773.23,465.55
+Uganda,India,959.11,56.98
+Uganda,Tanzania,743.68,95.13
+Uganda,South Sudan,86.72,357.34
+Uganda,Japan,342.87,5.18
+Uganda,Netherlands,200.48,78.12
+Uganda,Saudi Arabia,274.52,3.59
+Uganda,"Congo, Dem. Rep.",10.44,267.19
+Uganda,Germany,142.16,93.81
+Uganda,South Africa,220.87,11.41
+Uganda,Indonesia,191.16,39.05
+Uganda,United States,147.58,58.39
+Uganda,Zimbabwe,203.86,0.53
+Uganda,Italy,63.62,138.05
+Uganda,Malaysia,134.33,23.86
+Uganda,Namibia,154.75,0.31
+Uganda,Zambia,143.08,5.96
+Uganda,Burkina Faso,131.13,0.19
+Uganda,Belgium,52.75,72.53
+Uganda,"Egypt, Arab Rep.",101.09,9.89
+Uganda,Burundi,33.88,58.53
+Uganda,Sudan,0.09,89.93
+Uganda,United Kingdom,76.41,11.76
+Uganda,Russian Federation,78.67,8.23
+Uganda,Turkey,51.14,19.78
+Uganda,Spain,17.18,47.68
+Uganda,"Korea, Rep.",57.24,3.72
+Uganda,France,51.19,8.98
+Uganda,Vietnam,49.42,9.34
+Uganda,Oman,52.09,1.64
+Uganda,Thailand,47.86,3.01
+Uganda,"Hong Kong, China",12.18,36.73
+Uganda,Pakistan,34.84,13.66
+Uganda,Argentina,44.69,0.01
+Uganda,Singapore,36.55,8.14
+Uganda,Switzerland,24.71,9.66
+Uganda,Sweden,27.23,7.01
+Uganda,Ireland,33.24,0.07
+Uganda,Canada,27.26,3.51
+Uganda,Eswatini,27.4,0.03
+Uganda,Ukraine,24.49,1.61
+Uganda,Poland,20.26,5.3
+Uganda,"Other Asia, nes",22.91,0.95
+Uganda,Denmark,21.52,0.98
+Uganda,Morocco,2.61,17.94
+Uganda,Qatar,15.09,5.41
+Uganda,Portugal,9.02,10.61
+Uganda,Brazil,18.36,0.0
+United Kingdom,United States,59691.07,59891.12
+United Kingdom,Germany,75512.97,40956.68
+United Kingdom,China,91162.19,20890.21
+United Kingdom,Netherlands,41621.02,37015.92
+United Kingdom,France,30653.13,26360.47
+United Kingdom,Belgium,31064.02,19964.97
+United Kingdom,Switzerland,10930.95,39648.13
+United Kingdom,Ireland,19445.44,29135.17
+United Kingdom,Norway,35965.98,4181.24
+United Kingdom,Italy,25906.74,12170.8
+United Kingdom,Spain,20452.47,11205.43
+United Kingdom,Unspecified,6820.43,23015.49
+United Kingdom,Russian Federation,24851.44,3819.57
+United Kingdom,Turkey,15087.44,6274.17
+United Kingdom,Canada,14213.11,7021.06
+United Kingdom,Poland,13987.57,5533.64
+United Kingdom,India,11326.32,6077.97
+United Kingdom,Japan,9593.65,7568.32
+United Kingdom,"Hong Kong, China",6090.54,9839.95
+United Kingdom,Sweden,8844.15,6079.96
+United Kingdom,"Korea, Rep.",6252.88,6463.45
+United Kingdom,South Africa,10510.17,1986.44
+United Kingdom,United Arab Emirates,2233.53,7883.75
+United Kingdom,Denmark,6548.98,3360.56
+United Kingdom,Australia,3579.07,5805.46
+United Kingdom,Singapore,1913.31,7166.17
+United Kingdom,Czech Republic,6059.65,2441.65
+United Kingdom,Austria,4945.34,2421.46
+United Kingdom,Vietnam,6282.69,764.14
+United Kingdom,"Other Asia, nes",4794.18,1858.09
+United Kingdom,Brazil,3394.12,2518.01
+United Kingdom,Thailand,3560.63,1809.66
+United Kingdom,Saudi Arabia,1206.71,4141.93
+United Kingdom,Portugal,3628.3,1659.81
+United Kingdom,Malaysia,3197.98,2060.04
+United Kingdom,Mexico,3794.69,1421.15
+United Kingdom,Hungary,3223.05,1675.06
+United Kingdom,Qatar,2291.11,2307.31
+United Kingdom,Kazakhstan,4063.26,331.72
+United Kingdom,Slovak Republic,3068.48,1288.36
+United Kingdom,Finland,2856.81,1343.89
+United Kingdom,Israel,2135.66,1859.39
+United Kingdom,Bangladesh,3298.64,560.13
+United Kingdom,Romania,2568.03,1255.91
+United Kingdom,"Egypt, Arab Rep.",1220.26,1883.52
+United Kingdom,Indonesia,2047.59,943.17
+United Kingdom,Pakistan,2083.22,892.41
+United Kingdom,Nigeria,1302.55,1636.66
+United Kingdom,North Macedonia,202.34,2048.56
+United Kingdom,Greece,1187.84,983.91
+Ukraine,China,10637.83,7992.49
+Ukraine,Poland,4894.82,4979.13
+Ukraine,Russian Federation,5850.09,3349.12
+Ukraine,Germany,6068.11,2789.96
+Ukraine,Turkey,3153.88,3999.62
+Ukraine,Belarus,4706.53,1462.73
+Ukraine,Italy,2617.81,3240.26
+Ukraine,United States,3410.06,1549.89
+Ukraine,India,934.54,2513.8
+Ukraine,Hungary,1517.76,1583.36
+Ukraine,Netherlands,962.96,2128.42
+Ukraine,Czech Republic,1457.09,1378.79
+Ukraine,Spain,950.39,1639.83
+Ukraine,France,1729.92,850.25
+Ukraine,Romania,796.06,1500.27
+Ukraine,United Kingdom,1078.05,1045.97
+Ukraine,"Egypt, Arab Rep.",144.92,1909.98
+Ukraine,Slovak Republic,927.18,948.56
+Ukraine,Switzerland,1619.16,212.25
+Ukraine,Lithuania,1226.2,553.37
+Ukraine,Austria,828.92,904.65
+Ukraine,Japan,1213.48,341.49
+Ukraine,Belgium,724.74,650.16
+Ukraine,Bulgaria,514.73,781.77
+Ukraine,Kazakhstan,806.18,424.54
+Ukraine,Indonesia,414.61,734.95
+Ukraine,Azerbaijan,651.71,389.53
+Ukraine,Saudi Arabia,176.73,779.55
+Ukraine,Moldova,108.33,841.64
+Ukraine,"Korea, Rep.",676.39,267.28
+Ukraine,Israel,211.52,711.7
+Ukraine,Vietnam,565.2,278.63
+Ukraine,Sweden,717.16,106.08
+Ukraine,Iraq,0.13,686.67
+Ukraine,"Iran, Islamic Rep.",94.8,590.28
+Ukraine,Greece,448.32,221.45
+Ukraine,Pakistan,91.97,572.62
+Ukraine,Uzbekistan,260.8,402.82
+Ukraine,Morocco,125.6,520.87
+Ukraine,Georgia,199.36,430.52
+Ukraine,United Arab Emirates,81.73,516.97
+Ukraine,Denmark,295.48,279.84
+Ukraine,Libya,147.07,425.01
+Ukraine,Brazil,371.31,189.41
+Ukraine,Thailand,252.1,262.99
+Ukraine,Mexico,299.68,188.57
+Ukraine,Latvia,203.9,282.46
+Ukraine,Algeria,44.78,410.23
+Ukraine,Tunisia,41.87,386.05
+Ukraine,Malaysia,276.46,136.39
+United States,China,541531.35,151065.18
+United States,Canada,363904.69,306926.75
+United States,Mexico,388357.52,276458.85
+United States,Japan,139389.68,74960.7
+United States,Germany,138194.63,64806.42
+United States,"Korea, Rep.",98808.17,65769.49
+United States,Vietnam,108195.52,10947.24
+United States,United Kingdom,56949.19,61430.61
+United States,"Other Asia, nes",80736.68,36943.32
+United States,India,77019.39,40130.03
+United States,Netherlands,36249.61,53573.85
+United States,Ireland,74048.24,13553.77
+United States,Switzerland,63530.37,23968.9
+United States,Italy,63045.55,21711.41
+United States,France,51688.76,30678.29
+United States,Brazil,32843.01,46882.04
+United States,Malaysia,57840.99,15171.35
+United States,Singapore,29835.43,35746.44
+United States,Thailand,50428.52,12697.14
+United States,Belgium,21538.6,33652.84
+United States,Indonesia,28953.07,9478.65
+United States,Australia,11865.97,26427.48
+United States,Russian Federation,30762.27,6388.25
+United States,Spain,19451.51,16061.64
+United States,"Hong Kong, China",4232.86,29803.71
+United States,Chile,15960.4,17339.99
+United States,Israel,18996.14,12820.36
+United States,Colombia,13730.71,16451.44
+United States,Turkey,17061.29,11894.64
+United States,Saudi Arabia,13930.63,11138.01
+United States,Philippines,14575.5,9268.86
+United States,United Arab Emirates,6217.12,17078.89
+United States,South Africa,15819.26,5501.25
+United States,Sweden,15497.35,5139.61
+United States,Austria,15241.95,3931.73
+United States,Peru,7335.93,10242.46
+United States,Dominican Republic,6545.79,10444.4
+United States,Poland,10161.04,5895.39
+United States,Denmark,12353.67,3615.91
+United States,Costa Rica,6843.2,7311.57
+United States,Ecuador,8647.54,5019.48
+United States,Argentina,5392.18,7739.47
+United States,Guatemala,5074.87,7996.92
+United States,Honduras,5448.72,6512.26
+United States,Bangladesh,8795.89,2337.37
+United States,Norway,6997.9,3777.79
+United States,Czech Republic,6615.33,3657.43
+United States,Hungary,7215.07,2909.69
+United States,Cambodia,9371.24,413.67
+United States,"Egypt, Arab Rep.",3505.74,5786.37
+Vietnam,China,109850.67,55922.82
+Vietnam,United States,15179.12,96327.54
+Vietnam,"Korea, Rep.",56112.23,21934.46
+Vietnam,Japan,22601.56,20117.89
+Vietnam,"Other Asia, nes",20758.4,4585.68
+Vietnam,Thailand,12552.84,6066.1
+Vietnam,"Hong Kong, China",1631.66,11985.2
+Vietnam,India,6947.56,6258.02
+Vietnam,Malaysia,8132.59,4383.04
+Vietnam,Australia,7948.4,4454.67
+Vietnam,Indonesia,7608.43,3915.6
+Vietnam,Germany,3936.59,7287.76
+Vietnam,Cambodia,4711.2,4830.37
+Vietnam,Unspecified,4149.43,4663.81
+Vietnam,Netherlands,686.58,7682.04
+Vietnam,Singapore,4276.73,3967.5
+Vietnam,Philippines,2405.97,4579.18
+Vietnam,United Kingdom,847.35,5765.72
+Vietnam,Brazil,4093.54,2266.96
+Vietnam,Canada,760.41,5268.41
+Vietnam,Italy,1723.44,3842.47
+Vietnam,Russian Federation,2303.86,3203.48
+Vietnam,United Arab Emirates,572.94,4692.46
+Vietnam,Mexico,499.03,4562.57
+Vietnam,Kuwait,4720.2,60.21
+Vietnam,Ireland,4431.65,343.85
+Vietnam,France,1589.88,3181.32
+Vietnam,Argentina,3649.05,832.11
+Vietnam,Belgium,685.85,3604.25
+Vietnam,Austria,332.21,3022.16
+Vietnam,Spain,578.48,2545.89
+Vietnam,Poland,509.44,2066.9
+Vietnam,Saudi Arabia,1635.79,371.08
+Vietnam,Chile,321.32,1656.26
+Vietnam,Israel,1105.21,780.49
+Vietnam,Turkey,384.7,1228.0
+Vietnam,Sweden,321.33,1198.98
+Vietnam,Lao PDR,772.94,594.83
+Vietnam,Bangladesh,83.03,1273.05
+Vietnam,New Zealand,635.66,701.97
+Vietnam,Slovak Republic,68.27,1235.72
+Vietnam,South Africa,430.66,847.0
+Vietnam,Cote d'Ivoire,983.22,266.2
+Vietnam,Hungary,529.04,570.2
+Vietnam,Switzerland,657.31,241.61
+Vietnam,Pakistan,196.3,598.01
+Vietnam,Myanmar,383.09,408.28
+Vietnam,Ghana,294.78,480.64
+Vietnam,Czech Republic,152.59,582.83
+Vietnam,Ukraine,375.66,344.71
+Zambia,Switzerland,16.19,4249.44
+Zambia,China,810.82,1911.1
+Zambia,South Africa,2015.21,262.42
+Zambia,Singapore,26.9,1367.12
+Zambia,"Congo, Dem. Rep.",297.74,981.69
+Zambia,India,402.96,95.48
+Zambia,United Arab Emirates,363.9,30.85
+Zambia,Seychelles,274.28,0.08
+Zambia,Zimbabwe,71.41,180.69
+Zambia,United States,195.3,35.39
+Zambia,Japan,227.8,1.93
+Zambia,Luxembourg,1.31,223.93
+Zambia,Namibia,118.03,76.0
+Zambia,United Kingdom,179.93,10.64
+Zambia,Malawi,16.43,115.88
+Zambia,"Hong Kong, China",38.05,93.82
+Zambia,Tanzania,51.35,79.26
+Zambia,Mauritius,100.95,20.8
+Zambia,Germany,85.74,19.1
+Zambia,Kenya,53.32,47.56
+Zambia,Ireland,92.87,0.0
+Zambia,Malaysia,81.15,0.75
+Zambia,Italy,31.3,48.45
+Zambia,Mozambique,53.38,24.84
+Zambia,Netherlands,58.35,18.18
+Zambia,Botswana,17.91,48.67
+Zambia,Belgium,44.81,15.78
+Zambia,Australia,56.13,0.59
+Zambia,"Korea, Rep.",50.48,0.01
+Zambia,Finland,42.91,0.83
+Zambia,Saudi Arabia,41.27,0.17
+Zambia,Spain,29.29,11.96
+Zambia,France,37.87,1.12
+Zambia,Qatar,36.67,0.02
+Zambia,Sweden,33.75,1.32
+Zambia,Chile,31.68,1.62
+Zambia,Turkey,28.82,1.13
+Zambia,Burundi,0.11,26.41
+Zambia,Vietnam,13.91,11.16
+Zambia,Indonesia,24.12,0.54
+Zambia,Uganda,8.01,16.33
+Zambia,Eswatini,21.32,1.72
+Zambia,Pakistan,8.49,14.54
+Zambia,Oman,22.58,0.0
+Zambia,Denmark,20.34,0.6
+Zambia,Russian Federation,18.02,2.83
+Zambia,Thailand,18.91,0.45
+Zambia,Brazil,16.46,0.02
+Zambia,Israel,15.28,0.44
+Zambia,"Egypt, Arab Rep.",12.89,1.7
+Zimbabwe,South Africa,3240.04,2923.05
+Zimbabwe,United Arab Emirates,165.61,1725.32
+Zimbabwe,China,919.74,256.07
+Zimbabwe,Singapore,1044.34,3.2
+Zimbabwe,Mozambique,254.56,508.64
+Zimbabwe,Unspecified,102.59,214.17
+Zimbabwe,Zambia,204.51,60.11
+Zimbabwe,Mauritius,218.21,0.02
+Zimbabwe,"Hong Kong, China",193.02,2.71
+Zimbabwe,India,158.97,4.52
+Zimbabwe,Belgium,26.41,134.11
+Zimbabwe,United Kingdom,122.65,1.2
+Zimbabwe,Botswana,42.14,36.08
+Zimbabwe,Russian Federation,54.35,5.66
+Zimbabwe,United States,49.63,9.27
+Zimbabwe,Japan,45.13,0.1
+Zimbabwe,Denmark,43.14,0.0
+Zimbabwe,Pakistan,40.94,0.0
+Zimbabwe,France,28.36,10.94
+Zimbabwe,Malawi,34.09,4.16
+Zimbabwe,Germany,31.01,6.8
+Zimbabwe,Netherlands,31.04,6.44
+Zimbabwe,"Egypt, Arab Rep.",26.25,6.93
+Zimbabwe,Switzerland,24.01,5.61
+Zimbabwe,Thailand,27.55,0.0
+Zimbabwe,Belarus,23.42,2.52
+Zimbabwe,Lithuania,21.12,4.46
+Zimbabwe,Australia,24.27,0.14
+Zimbabwe,Namibia,20.32,3.96
+Zimbabwe,Kenya,18.28,4.93
+Zimbabwe,Tanzania,14.64,7.7
+Zimbabwe,Seychelles,21.49,0.05
+Zimbabwe,Ireland,20.02,0.02
+Zimbabwe,Malaysia,19.81,0.0
+Zimbabwe,Turkey,11.97,7.62
+Zimbabwe,Ukraine,3.1,16.06
+Zimbabwe,Italy,16.89,0.82
+Zimbabwe,"Korea, Rep.",15.1,1.54
+Zimbabwe,Eswatini,15.14,0.01
+Zimbabwe,Canada,13.47,1.48
+Zimbabwe,Indonesia,1.71,10.11
+Zimbabwe,Vietnam,0.3,10.86
+Zimbabwe,Spain,9.75,0.17
+Zimbabwe,Morocco,9.65,0.0
+Zimbabwe,Brazil,7.77,0.02
+Zimbabwe,Lebanon,7.67,0.03
+Zimbabwe,"Other Asia, nes",5.3,2.32
+Zimbabwe,Poland,7.55,0.06
+Zimbabwe,Moldova,6.12,0.13
+Zimbabwe,Sudan,0.01,6.08

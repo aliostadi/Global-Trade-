@@ -1,0 +1,338 @@
+Source,Target,Import,Export
+Algeria,Italy,3755.0,5629.48
+Algeria,China,8317.84,691.61
+Algeria,France,4297.51,4431.26
+Algeria,Spain,3130.6,4103.37
+Algeria,United States,1841.54,3467.91
+Argentina,Brazil,12391.98,11766.92
+Argentina,China,13525.04,6155.98
+Argentina,United States,5922.12,4995.2
+Argentina,India,1393.78,4293.27
+Argentina,Chile,695.69,4204.88
+Australia,China,72858.76,116817.97
+Australia,Japan,15778.72,30319.47
+Australia,United States,26614.56,11021.95
+Australia,"Korea, Rep.",9475.16,22592.87
+Austria,Germany,69544.61,58563.81
+Austria,Italy,13646.78,13155.82
+Austria,Switzerland,11969.96,10081.03
+Austria,China,15489.57,5700.38
+Austria,United States,6722.49,12746.47
+Bahrain,Saudi Arabia,966.39,2460.69
+Bahrain,United Arab Emirates,1045.2,1623.38
+Bahrain,Brazil,1997.2,197.36
+Bahrain,China,1840.78,341.13
+Bahrain,United States,738.84,1335.72
+Belarus,Russian Federation,11948.93,13972.22
+Belarus,China,3403.42,556.1
+Belarus,Ukraine,1439.0,1214.66
+Belarus,Poland,1063.59,1584.42
+Belgium,Netherlands,83001.12,47637.74
+Belgium,Germany,63246.18,65823.7
+Belgium,France,40560.5,53115.66
+Belgium,United States,19271.28,26690.62
+Belgium,United Kingdom,11158.76,23950.13
+Botswana,South Africa,4638.67,681.28
+Botswana,Belgium,1203.72,1754.51
+Botswana,United Arab Emirates,405.88,1914.33
+Botswana,India,403.88,1290.51
+Brazil,China,53464.02,87907.89
+Brazil,United States,41502.93,31337.52
+Brazil,Argentina,12412.75,11878.46
+Brazil,Germany,11921.3,5042.73
+Brazil,India,7233.95,4799.02
+Bulgaria,Germany,5674.96,6127.79
+Bulgaria,Romania,3497.74,4150.87
+Bulgaria,Turkey,3635.17,2543.84
+Bulgaria,Italy,3059.16,3100.8
+Bulgaria,Greece,2545.24,2868.59
+Canada,United States,239020.89,377983.78
+Canada,China,68559.62,22404.74
+Canada,Mexico,26994.86,6541.05
+Canada,Japan,12324.0,11569.59
+Canada,Germany,15139.53,5250.26
+Chile,China,27515.17,36523.64
+Chile,United States,16027.01,14932.95
+Chile,Brazil,7735.61,4582.09
+Chile,Japan,2140.25,7238.28
+Chile,"Korea, Rep.",1877.7,4826.18
+China,United States,180971.93,577125.5
+China,Japan,205523.71,165822.96
+China,"Korea, Rep.",213445.08,148847.03
+China,"Hong Kong, China",9700.21,349442.32
+Colombia,United States,14191.68,11624.29
+Colombia,China,14795.95,3660.97
+Colombia,Brazil,3502.32,2049.08
+Colombia,Mexico,3800.48,1202.67
+Colombia,India,1378.4,2238.8
+"Congo, Rep.",China,460.29,1081.06
+"Congo, Rep.",France,293.0,40.14
+"Congo, Rep.",Belgium,211.33,44.44
+Costa Rica,United States,6957.32,6269.77
+Costa Rica,China,2937.92,308.63
+Costa Rica,Mexico,1183.22,355.29
+Costa Rica,Netherlands,113.34,1036.72
+Cyprus,Greece,2455.72,307.73
+Cyprus,Italy,1045.21,51.0
+Cyprus,Germany,637.5,120.32
+Cyprus,United Kingdom,377.43,250.35
+Cyprus,Netherlands,527.15,64.88
+Czech Republic,Germany,46932.18,73620.76
+Czech Republic,China,35084.74,2997.8
+Czech Republic,Poland,17308.25,15288.85
+Czech Republic,Slovak Republic,9430.85,18298.0
+Czech Republic,Italy,8969.6,8767.25
+Denmark,Germany,25133.19,16167.69
+Denmark,Sweden,15384.76,11630.39
+Denmark,Netherlands,10029.83,5873.94
+Denmark,China,9802.67,4366.83
+"Egypt, Arab Rep.",China,10009.61,1288.01
+"Egypt, Arab Rep.",Saudi Arabia,6251.34,1999.11
+"Egypt, Arab Rep.",United States,5105.39,2159.15
+"Egypt, Arab Rep.",Turkey,3131.22,2647.32
+Estonia,Finland,2053.52,3090.11
+Estonia,Russian Federation,2773.26,1425.93
+Estonia,Germany,2255.87,1337.65
+Estonia,Sweden,1089.81,1972.94
+Finland,Germany,12540.3,10755.51
+Finland,Sweden,9869.99,8353.45
+Finland,Russian Federation,10051.97,4361.44
+Finland,China,7794.66,4234.89
+Finland,Netherlands,3856.89,4968.81
+France,Germany,119891.0,81694.5
+France,Belgium,76280.9,44709.3
+France,Italy,59444.24,46408.99
+France,Spain,55979.33,43452.93
+France,Netherlands,63547.98,23637.5
+Germany,China,170640.08,123585.27
+Germany,United States,86799.0,144604.03
+Germany,Netherlands,106763.47,108856.28
+Germany,France,73091.4,121000.35
+Germany,Poland,81518.31,92311.11
+Greece,Germany,16232.67,6767.88
+Greece,Italy,12174.89,9294.33
+Greece,China,11849.32,1692.36
+Greece,Turkey,5905.59,4869.22
+Greece,Russian Federation,10177.28,488.73
+"Hong Kong, China",China,315903.02,401691.81
+"Hong Kong, China",United States,29944.58,39950.19
+"Hong Kong, China",Singapore,54187.98,10442.64
+"Hong Kong, China",Japan,37187.23,15302.77
+Hungary,Germany,33018.77,37602.91
+Hungary,Slovak Republic,8156.64,7312.64
+Hungary,Austria,8485.76,6403.97
+Hungary,Italy,6171.85,8243.0
+Hungary,Poland,7942.38,6047.03
+Iceland,Netherlands,526.29,1625.41
+Iceland,United States,645.26,463.89
+Iceland,Germany,669.45,360.44
+Iceland,United Kingdom,444.69,572.25
+Iceland,Norway,760.94,194.02
+India,United States,41386.82,71510.5
+India,China,87535.14,23036.6
+India,United Arab Emirates,43070.34,25446.64
+India,Saudi Arabia,27689.35,8245.42
+India,Switzerland,29492.0,1290.29
+Ireland,United States,21436.0,62173.54
+Ireland,United Kingdom,23070.67,21505.05
+Ireland,Germany,8630.41,21021.66
+Ireland,China,9996.88,13243.44
+Ireland,Belgium,2629.09,16001.98
+Israel,United States,8638.15,16322.52
+Israel,China,10728.05,4398.39
+Israel,Germany,6560.51,1792.35
+Israel,Switzerland,6618.13,742.76
+Italy,Germany,91042.4,79761.13
+Italy,France,46207.86,63223.82
+Italy,United States,18692.04,58372.63
+Italy,China,45626.71,18518.37
+Italy,Spain,30110.94,30989.53
+Japan,China,185664.48,163860.27
+Japan,United States,82966.49,135975.91
+Japan,"Korea, Rep.",32082.17,52567.99
+Japan,Australia,52241.21,15257.07
+Kazakhstan,Russian Federation,17605.5,7018.75
+Kazakhstan,China,8228.46,9772.51
+Kazakhstan,Italy,786.3,8889.1
+Kazakhstan,Netherlands,227.63,4384.19
+Kazakhstan,Turkey,1146.38,2964.67
+Kenya,China,4025.66,199.62
+Kenya,India,2106.72,94.93
+Kenya,United Arab Emirates,1628.4,315.21
+Kenya,United States,801.8,543.27
+Kenya,Uganda,305.16,831.92
+"Korea, Rep.",China,138627.46,162912.97
+"Korea, Rep.",United States,73659.01,96299.35
+"Korea, Rep.",Japan,54641.47,30061.77
+"Korea, Rep.",Vietnam,23965.71,56728.53
+Kuwait,China,5733.26,712.81
+Kuwait,United Arab Emirates,3789.75,804.7
+Kuwait,United States,2547.17,40.09
+Kuwait,Saudi Arabia,1696.29,727.99
+Lebanon,United Arab Emirates,766.64,1029.83
+Lebanon,Turkey,1519.11,113.18
+Lebanon,Greece,1368.58,94.79
+Lebanon,China,1269.75,17.25
+Lebanon,United States,769.17,153.97
+Malaysia,China,55269.89,46351.72
+Malaysia,Singapore,22618.59,41847.31
+Malaysia,United States,18079.87,34366.25
+Malaysia,Japan,17790.65,18166.72
+Mexico,United States,221311.74,386086.72
+Mexico,China,101020.78,9078.87
+Mexico,Germany,17214.36,7427.42
+Mexico,Canada,11224.33,12895.26
+Morocco,Spain,9229.66,7866.41
+Morocco,France,6190.09,7517.4
+Morocco,China,6871.7,362.53
+Morocco,United States,3746.28,1103.46
+Morocco,Italy,2972.4,1560.07
+Mozambique,South Africa,2252.49,855.24
+Mozambique,India,739.75,803.16
+Mozambique,China,946.36,489.43
+Mozambique,United Arab Emirates,716.75,73.18
+Mozambique,Singapore,532.43,150.54
+Nepal,India,9583.63,1333.73
+Nepal,China,2383.29,8.41
+Nepal,Argentina,451.69,0.02
+Nepal,United States,297.84,132.61
+Nepal,United Arab Emirates,415.53,3.45
+Netherlands,Germany,108104.45,160431.58
+Netherlands,Belgium,61614.52,74138.08
+Netherlands,United States,47590.03,33382.28
+Netherlands,China,63542.65,16690.57
+Netherlands,France,22031.37,56096.61
+New Zealand,China,11774.05,13932.47
+New Zealand,Australia,5544.21,5558.26
+New Zealand,United States,4257.55,4717.26
+New Zealand,Japan,3122.59,2499.37
+New Zealand,"Korea, Rep.",2168.31,1394.39
+Norway,Germany,10975.63,35548.04
+Norway,United Kingdom,4596.13,37878.59
+Norway,Sweden,11114.97,12600.42
+Norway,China,13121.71,9652.12
+Norway,Netherlands,3571.68,12844.24
+Oman,United Arab Emirates,11022.88,3843.46
+Oman,India,2034.14,1326.42
+Oman,Saudi Arabia,1459.93,1728.64
+Oman,China,2164.59,1022.94
+Oman,Qatar,1989.45,993.35
+Panama,United States,3395.26,151.33
+Panama,China,1578.19,1199.25
+Panama,Japan,237.62,497.32
+Panama,Mexico,649.68,35.31
+Peru,China,14611.64,17994.76
+Peru,United States,9562.26,7192.89
+Peru,Brazil,3430.91,1068.31
+Peru,Japan,1024.39,2780.24
+Peru,"Korea, Rep.",971.92,2799.18
+Poland,Germany,70635.85,91052.4
+Poland,China,49662.97,3320.1
+Poland,Italy,16740.65,14089.02
+Poland,Czech Republic,10725.39,19029.9
+Poland,France,11240.22,18108.96
+Portugal,Spain,32288.59,20125.65
+Portugal,Germany,12210.78,8292.67
+Portugal,France,6593.86,9867.97
+Portugal,Italy,5063.56,3408.38
+Portugal,Netherlands,5245.02,2942.08
+Qatar,China,4550.06,13472.96
+Qatar,India,1777.13,11196.94
+Qatar,Japan,909.52,11843.72
+Qatar,"Korea, Rep.",397.06,11191.93
+Qatar,Singapore,523.78,5346.41
+Romania,Germany,23473.83,18153.09
+Romania,Italy,10345.4,9233.13
+Romania,Hungary,7991.18,5011.87
+Romania,Poland,7270.51,3522.32
+Romania,France,4901.95,5647.36
+Russian Federation,China,72693.02,68679.25
+Russian Federation,Germany,27350.55,29645.65
+Russian Federation,Netherlands,4284.26,42145.03
+Russian Federation,Belarus,15635.53,23130.38
+Russian Federation,United States,17265.49,17747.76
+Saudi Arabia,China,30234.8,10957.81
+Saudi Arabia,United Arab Emirates,12471.46,14750.08
+Saudi Arabia,United States,16216.55,4954.29
+Saudi Arabia,India,8073.8,9133.48
+Singapore,China,54610.68,67746.76
+Singapore,Malaysia,53729.37,42130.41
+Singapore,United States,40573.14,39316.82
+Singapore,"Hong Kong, China",3248.62,60147.38
+Slovak Republic,Germany,20073.86,22734.0
+Slovak Republic,Czech Republic,10267.7,12128.23
+Slovak Republic,Poland,5837.45,8702.18
+Slovak Republic,Hungary,3790.64,7582.9
+Slovak Republic,France,3711.55,6740.38
+South Africa,China,19226.8,13571.17
+South Africa,United States,6576.14,12974.21
+South Africa,Germany,7544.99,9374.09
+South Africa,Japan,2600.4,8227.26
+South Africa,United Kingdom,1871.16,8177.22
+Spain,France,40390.84,59692.08
+Spain,Germany,45267.77,38320.46
+Spain,Italy,26751.95,31421.64
+Spain,China,41200.35,10243.47
+Spain,Portugal,16084.65,29415.99
+Sweden,Germany,31739.72,19422.65
+Sweden,Norway,19043.84,20254.23
+Sweden,Netherlands,18835.28,9555.51
+Sweden,Denmark,12960.3,14664.11
+Sweden,Finland,8292.62,13411.32
+Switzerland,Germany,62360.16,55240.47
+Switzerland,United States,24292.92,62673.98
+Switzerland,China,19791.19,33066.49
+Switzerland,United Kingdom,36389.87,14027.38
+Switzerland,Italy,24049.74,20196.86
+Tanzania,China,2696.19,273.09
+Tanzania,United Arab Emirates,1359.51,1051.73
+Tanzania,India,1209.52,1008.69
+Tanzania,South Africa,432.34,916.67
+Tanzania,Kenya,410.88,397.22
+Thailand,China,66426.55,36577.25
+Thailand,Japan,35572.36,24558.18
+Thailand,United States,14575.6,41225.33
+Thailand,Malaysia,12050.78,11875.49
+Thailand,Vietnam,6947.49,12276.4
+Turkey,Germany,21726.3,19311.02
+Turkey,China,32238.05,3662.75
+Turkey,Russian Federation,28959.36,5774.39
+Turkey,United States,13147.63,14721.82
+Turkey,Italy,11562.69,11473.02
+United Arab Emirates,China,51795.57,9068.78
+United Arab Emirates,India,20876.19,23978.57
+United Arab Emirates,Saudi Arabia,7378.27,26564.03
+United Arab Emirates,United States,16876.6,7674.5
+Uganda,United Arab Emirates,495.87,1844.84
+Uganda,China,1351.95,39.61
+Uganda,Kenya,773.23,465.55
+Uganda,India,959.11,56.98
+Uganda,Tanzania,743.68,95.13
+United Kingdom,United States,59691.07,59891.12
+United Kingdom,Germany,75512.97,40956.68
+United Kingdom,China,91162.19,20890.21
+United Kingdom,Netherlands,41621.02,37015.92
+United Kingdom,France,30653.13,26360.47
+Ukraine,China,10637.83,7992.49
+Ukraine,Poland,4894.82,4979.13
+Ukraine,Russian Federation,5850.09,3349.12
+Ukraine,Germany,6068.11,2789.96
+Ukraine,Turkey,3153.88,3999.62
+United States,China,541531.35,151065.18
+United States,Canada,363904.69,306926.75
+United States,Mexico,388357.52,276458.85
+United States,Japan,139389.68,74960.7
+United States,Germany,138194.63,64806.42
+Vietnam,China,109850.67,55922.82
+Vietnam,United States,15179.12,96327.54
+Vietnam,"Korea, Rep.",56112.23,21934.46
+Vietnam,Japan,22601.56,20117.89
+Zambia,Switzerland,16.19,4249.44
+Zambia,China,810.82,1911.1
+Zambia,South Africa,2015.21,262.42
+Zambia,Singapore,26.9,1367.12
+Zimbabwe,South Africa,3240.04,2923.05
+Zimbabwe,United Arab Emirates,165.61,1725.32
+Zimbabwe,China,919.74,256.07
+Zimbabwe,Singapore,1044.34,3.2
+Zimbabwe,Mozambique,254.56,508.64

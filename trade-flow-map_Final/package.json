@@ -1,0 +1,23 @@
+{
+  "name": "trade-flow-map",
+  "version": "1.0.0",
+  "description": "A web-based visualization of trade flows between countries using D3.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .", 
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "URL_TO_YOUR_GIT_REPOSITORY"
+  },
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.9.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "serve": "^13.0.2" 
+  }
+}

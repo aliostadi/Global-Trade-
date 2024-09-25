@@ -1,0 +1,43 @@
+/* Main stylesheet for the Trade Flow Map project */
+
+/* General body styling to ensure a clean and centered presentation */
+body {
+    font-family: 'Arial', sans-serif; /* Ensures text is readable and clean */
+    background-color: #f4f4f4; /* Neutral light gray background for less strain on eyes */
+    color: #333; /* Dark gray text color for good contrast */
+    margin: 0; /* Remove default margin to allow full use of the screen */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Flexbox for easier centering of content */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Full viewport height to center the SVG vertically */
+    overflow: hidden; /* Hide scrollbars if not necessary */
+}
+
+/* Styling for the SVG element where the map and data visualization are displayed */
+svg {
+    width: 100%; /* Use 100% if you want it to be responsive or set a max-width */
+    max-width: 2100px; /* Maximum width to ensure it doesn't exceed the view */
+    height: auto; /* Maintain aspect ratio based on the width */
+    border: 1px solid #ccc; /* Subtle border to define the bounds of the SVG */
+    box-shadow: 0px 0px 8px #aaa; /* Soft shadow for a slight 3D effect */
+    display: block; /* Ensures SVG centers in its container horizontally */
+    margin: auto; /* Auto margins for horizontal centering */
+}
+
+/* Tooltip styling for displaying data on hover */
+#tooltip {
+    font-size: 0.9em; /* Smaller text size for tooltips */
+    border-radius: 5px; /* Rounded corners for the tooltip box */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* Shadow for 3D effect */
+    z-index: 10; /* Ensure tooltip is above all other content */
+}
+
+/* Additional styles if needed */
+/* Add any additional classes or IDs for specific styling needs of elements created or manipulated by D3.js */
+#controls {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}

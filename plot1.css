@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+
+}
+
+
+#chartContainer {
+    width: 1500px;  /* Set the width of the container */
+    height: 700px; /* Set the height of the container */
+    border: 1px solid #ccc; /* Optional: add a border to the container */
+    overflow: auto; /* Ensures anything outside the box doesn't show */
+    position: relative; /* Keeps the container in place */
+}
+svg {
+    display: block;
+    margin: auto;
+    width: 100vw;  /* Set the width to 80% of the viewport width */
+    height: 100vh;
+    color: #c1ff0880
+  ;
+}
+
+#myText {
+    position: absolute; /* or 'relative', depending on your needs */
+    top: 500px; /* Adjust as needed */
+    left:10px; /* Adjust as needed */
+}
+
+#myText1{
+    position: absolute; /* or 'relative', depending on your needs */
+    top: 520px; /* Adjust as needed */
+    left:10px; /* Adjust as needed */
+}
+
+#myText2{
+    position: absolute; /* or 'relative', depending on your needs */
+    top: 540px; /* Adjust as needed */
+    left:10px; /* Adjust as needed */
+}

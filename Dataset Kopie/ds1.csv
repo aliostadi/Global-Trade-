@@ -1,0 +1,950 @@
+﻿Source;Continent;Target;Continent 2;Export;Import
+Belgium;Europe;Afghanistan;Asia;86,58092;0,50392
+Belgium;Europe;Angola;Africa;252,42795;615,02413
+Belgium;Europe;Anguila;Africa;0,01405;0,0021
+Belgium;Europe;Albania;Europe;58,20818;4,38394
+Belgium;Europe;United Arab Emirates;Asia;3829,23749;1636,6152
+Belgium;Europe;Argentina;America;511,76008;208,0149
+Belgium;Europe;Armenia;Europe;43,45548;29,54832
+Belgium;Europe;American Samoa;America;0,08152;0,00758
+Belgium;Europe;Antarctica;Antarctica;0,35091;0,00599
+Belgium;Europe;Antigua and Barbuda;America;1,63494;2,03789
+Belgium;Europe;Austria;Europe;3377,33658;2877,41071
+Belgium;Europe;Azerbaijan;Asia;55,77923;6,08087
+Belgium;Europe;Burundi;Africa;36,12197;2,20563
+Belgium;Europe;Benin;Africa;96,52369;5,38652
+Belgium;Europe;Burkina Faso;Africa;99,43712;2,32839
+Belgium;Europe;Bangladesh;Asia;162,96156;548,9883
+Belgium;Europe;Bulgaria;Europe;828,98601;1246,63421
+Belgium;Europe;Bahrain;Asia;80,49026;117,64135
+Belgium;Europe;Bahamas, The;America;7,54256;0,1569
+Belgium;Europe;Bosnia and Herzegovina;Europe;93,10891;26,31942
+Belgium;Europe;Belarus;Europe;175,11842;175,54468
+Belgium;Europe;Belize;America;3,85186;0,5099
+Belgium;Europe;Bermuda;America;0,31505;0,00441
+Belgium;Europe;Bolivia;America;28,17998;42,67766
+Belgium;Europe;Brazil;America;2491,21422;1751,52456
+Belgium;Europe;Barbados;America;2,29615;0,07133
+Belgium;Europe;Brunei;Asia;12,26319;0,08481
+Belgium;Europe;Bhutan;Asia;1,29782;0,00314
+Belgium;Europe;Botswana;Africa;569,11684;1267,83642
+Belgium;Europe;Central African Republic;Africa;18,30386;5,66238
+Belgium;Europe;Canada;America;3730,82003;3147,44155
+Belgium;Europe;Switzerland;Europe;5034,76372;8344,17745
+Belgium;Europe;Chile;America;536,08889;228,91217
+Belgium;Europe;China;Asia;7124,45482;12492,74393
+Belgium;Europe;Cameroon;Africa;230,90198;94,19322
+Belgium;Europe;Congo, Rep.;Africa;101,58861;17,17534
+Belgium;Europe;Cook Islands;Oceania;0,39436;0,00048
+Belgium;Europe;Colombia;Africa;432,15578;123,21205
+Belgium;Europe;Cape Verde;Africa;16,67372;0,05194
+Belgium;Europe;Costa Rica;America;71,99208;509,17395
+Belgium;Europe;Cuba;America;35,26899;58,73332
+Belgium;Europe;Curaçao;America;7,44131;0,01526
+Belgium;Europe;Cyprus;Europe;172,67938;37,28693
+Belgium;Europe;Czech Republic;Europe;3490,18046;4311,98957
+Belgium;Europe;Germany;Europe;65823,69577;63246,18068
+Belgium;Europe;Djibouti;Africa;17,4176;0,07636
+Belgium;Europe;Dominica;America;0,4019;0,0043
+Belgium;Europe;Denmark;Europe;2845,99372;1676,12563
+Belgium;Europe;Dominican Republic;America;91,71528;59,76235
+Belgium;Europe;Algeria;Africa;541,52351;579,55431
+Belgium;Europe;Ecuador;Oceania;129,37333;71,81906
+Belgium;Europe;Egypt, Arab Rep.;Africa;1864,13609;176,84326
+Belgium;Europe;Eritrea;Africa;1,94985;0,03525
+Belgium;Europe;Spain;Europe;10227,51661;8333,33998
+Belgium;Europe;Estonia;Europe;394,26468;238,4048
+Belgium;Europe;Ethiopia(excludes Eritrea);Africa;205,78651;21,37939
+Belgium;Europe;Finland;Europe;1839,25522;1280,3391
+Belgium;Europe;Fiji;Oceania;4,43458;0,01567
+Belgium;Europe;Falkland Island;America;0,7024;0,19739
+Belgium;Europe;France;Europe;53115,65545;40560,503
+Belgium;Europe;Gabon;Africa;70,74699;79,22725
+Belgium;Europe;United Kingdom;Europe;23950,12955;11158,76198
+Belgium;Europe;Georgia;Asia;69,07456;46,1503
+Belgium;Europe;Ghana;Africa;384,10565;114,20868
+Belgium;Europe;Gibraltar;Europe;146,49933;8,64288
+Belgium;Europe;Guinea;Oceania;181,71627;10,08234
+Belgium;Europe;Gambia, The;Africa;25,53091;0,29808
+Belgium;Europe;Guinea-Bissau;Africa;7,84026;0,00034
+Belgium;Europe;Equatorial Guinea;Africa;11,18074;0,65404
+Belgium;Europe;Greece;Europe;1476,04685;283,45175
+Belgium;Europe;Grenada;America;0,78439;0,00389
+Belgium;Europe;Guatemala;America;78,10278;42,70749
+Belgium;Europe;Guam;Oceania;0,42148;0,00248
+Belgium;Europe;Guyana;America;11,21134;12,62828
+Belgium;Europe;Hong Kong, China;Asia;1409,10266;377,7229
+Belgium;Europe;Honduras;America;25,26522;80,05483
+Belgium;Europe;Croatia;Europe;649,38865;188,34429
+Belgium;Europe;Haiti;America;20,73982;4,08751
+Belgium;Europe;Hungary;Europe;2224,23238;2526,79922
+Belgium;Europe;Indonesia;Asia;649,9944;719,60203
+Belgium;Europe;India;Asia;6897,87789;4773,37385
+Belgium;Europe;Ireland;Europe;2684,78878;21998,10318
+Belgium;Europe;Iran, Islamic Rep.;Asia;190,53534;21,88806
+Belgium;Europe;Iraq;Asia;349,95964;4,05756
+Belgium;Europe;Iceland;Europe;132,50121;61,40695
+Belgium;Europe;Israel;Asia;2572,6029;832,67796
+Belgium;Europe;Italy;Europe;15589,00649;17202,06886
+Belgium;Europe;Jamaica;Africa;52,36802;2,6691
+Belgium;Europe;Jordan;Asia;232,24814;39,27183
+Belgium;Europe;Japan;Asia;8260,0274;8856,04445
+Belgium;Europe;Kazakhstan;Asia;357,35657;177,54017
+Belgium;Europe;Kenya;Africa;245,47431;24,90859
+Belgium;Europe;Kyrgyz Republic;Asia;13,53398;0,26897
+Belgium;Europe;Cambodia;Asia;64,65052;58,81267
+Belgium;Europe;Kiribati;Oceania;0,05262;0,00028
+Belgium;Europe;St. Kitts and Nevis;America;0,25675;0,24089
+Belgium;Europe;Korea, Rep.;Asia;3096,31042;2676,71551
+Belgium;Europe;Kuwait;Asia;267,44808;172,70475
+Belgium;Europe;Lao PDR;Asia;101,75976;24,37581
+Belgium;Europe;Lebanon;Asia;200,02782;39,129
+Belgium;Europe;Liberia;Africa;48,6209;27,01793
+Belgium;Europe;Libya;Africa;356,37408;22,50962
+Belgium;Europe;St. Lucia;America;2,13709;0,01064
+Belgium;Europe;Sri Lanka;Asia;136,76785;204,21845
+Belgium;Europe;Lesotho;Africa;6,06297;252,10155
+Belgium;Europe;Lithuania;Europe;844,08343;660,93969
+Belgium;Europe;Luxembourg;Europe;7153,78804;1926,7101
+Belgium;Europe;Latvia;Europe;373,73732;200,87428
+Belgium;Europe;Morocco;Africa;965,65444;500,75839
+Belgium;Europe;Moldova;Europe;57,43128;12,59715
+Belgium;Europe;Madagascar;Africa;48,01295;15,95105
+Belgium;Europe;Maldives;Asia;6,75835;0,38309
+Belgium;Europe;Mexico;America;1334,75819;3686,63011
+Belgium;Europe;Marshall Islands;Oceania;0,29979;19,84673
+Belgium;Europe;North Macedonia;Europe;91,29529;59,14275
+Belgium;Europe;Mali;Africa;122,38146;4,64454
+Belgium;Europe;Malta;Europe;123,72635;52,7277
+Belgium;Europe;Myanmar;Asia;35,48177;126,84007
+Belgium;Europe;Mongolia;Asia;25,48361;6,79507
+Belgium;Europe;Montenegro;Europe;16,83036;0,61719
+Belgium;Europe;Mozambique;Africa;99,22451;3,88619
+Belgium;Europe;Mauritania;Africa;108,39253;0,34868
+Belgium;Europe;Mauritius;Africa;112,63475;21,22932
+Belgium;Europe;Malawi;Africa;23,37204;19,99501
+Belgium;Europe;Malaysia;Asia;1060,39687;1250,96385
+Belgium;Europe;Namibia;Africa;11,03502;564,17512
+Belgium;Europe;New Caledonia;Oceania;19,72237;11,30466
+Belgium;Europe;Niger;Africa;47,20347;0,05611
+Belgium;Europe;Nigeria;Africa;2302,90027;295,7711
+Belgium;Europe;Nicaragua;America;9,55436;26,24636
+Belgium;Europe;Netherlands;Europe;47637,74118;83001,11546
+Belgium;Europe;Norway;Europe;2319,12143;7585,17917
+Belgium;Europe;Nepal;Asia;49,57481;3,14152
+Belgium;Europe;Nauru;Oceania;0,00469;0,0017
+Belgium;Europe;New Zealand;Oceania;432,04151;362,54973
+Belgium;Europe;Oman;Asia;186,52196;23,0772
+Belgium;Europe;Pakistan;Asia;731,94343;272,39074
+Belgium;Europe;Panama;America;134,13558;24,33763
+Belgium;Europe;Pitcairn;Oceania;0,03714;0,00067
+Belgium;Europe;Peru;America;230,77439;170,87905
+Belgium;Europe;Philippines;Asia;690,26681;176,90228
+Belgium;Europe;Palau;Oceania;0,00466;0,00008
+Belgium;Europe;Papua New Guinea;Oceania;13,20458;17,85723
+Belgium;Europe;Poland;Europe;9434,41574;6436,07975
+Belgium;Europe;Portugal;Europe;1990,19015;1340,47985
+Belgium;Europe;Paraguay;Europe;48,43001;48,11432
+Belgium;Europe;French Polynesia;Oceania;13,63311;0,72038
+Belgium;Europe;Qatar;Asia;337,36196;1243,02052
+Belgium;Europe;Romania;Europe;2156,70518;1380,36034
+Belgium;Europe;Russian Federation;Asia;3778,3204;7488,30467
+Belgium;Europe;Rwanda;Africa;79,08878;4,53298
+Belgium;Europe;Saudi Arabia;Asia;1931,44296;1184,05125
+Belgium;Europe;Senegal;Africa;662,46543;8,10485
+Belgium;Europe;Serbia, FR(Serbia/Montenegro);Europe;463,21868;258,64362
+Belgium;Europe;Singapore;Asia;1604,41943;3134,6389
+Belgium;Europe;Solomon Islands;Oceania;0,6441;0,10788
+Belgium;Europe;Sierra Leone;Africa;82,42251;161,135
+Belgium;Europe;El Salvador;America;14,50123;5,44704
+Belgium;Europe;Somalia;Africa;2,75978;0,07011
+Belgium;Europe;Sudan;Africa;67,28157;13,73425
+Belgium;Europe;Suriname;America;16,22166;68,55298
+Belgium;Europe;Slovak Republic;Europe;1132,75483;1453,11057
+Belgium;Europe;Slovenia;Europe;593,30639;353,40991
+Belgium;Europe;Sweden;Europe;6153,25046;6297,58912
+Belgium;Europe;Eswatini;Europe;5,32263;1,02468
+Belgium;Europe;Seychelles;Africa;4,30884;0,50261
+Belgium;Europe;Syrian Arab Republic;Asia;39,4412;1,30838
+Belgium;Europe;Turks and Caicos Isl.;America;0,4307;0,20639
+Belgium;Europe;Chad;Africa;22,39033;0,02278
+Belgium;Europe;Togo;Africa;136,03671;20,04245
+Belgium;Europe;Thailand;Asia;968,74362;1103,42034
+Belgium;Europe;Tajikistan;Asia;7,05909;38,68624
+Belgium;Europe;Turkmenistan;Asia;17,30327;1,00975
+Belgium;Europe;East Timor;Asia;0,36734;0,0002
+Belgium;Europe;Tonga;Africa;0,23332;0,0019
+Belgium;Europe;Trinidad and Tobago;Africa;40,64584;338,55271
+Belgium;Europe;Tunisia;Africa;366,44087;205,95565
+Belgium;Europe;Turkey;Asia;5196,20645;3458,40005
+Belgium;Europe;Tuvalu;Oceania;0,00387;0,00077
+Belgium;Europe;Tanzania;Africa;86,10909;23,44899
+Belgium;Europe;Uganda;Africa;146,00447;14,93984
+Belgium;Europe;Ukraine;Europe;686,8478;615,7442
+Belgium;Europe;Uruguay;America;113,28375;23,80879
+Belgium;Europe;United States;America;26690,62472;19271,28492
+Belgium;Europe;Uzbekistan;Asia;49,26637;5,17373
+Belgium;Europe;St. Vincent and the Grenadines;America;0,38542;0,02842
+Belgium;Europe;Venezuela;America;24,6388;37,64656
+Belgium;Europe;British Virgin Islands;Europe;0,20761;0,35355
+Belgium;Europe;Vietnam;Asia;900,30178;837,11013
+Belgium;Europe;Vanuatu;Oceania;0,28192;0,00188
+Belgium;Europe;Wallis and Futura Isl.;Oceania;1,0157;0,00244
+Belgium;Europe;Samoa;America;0,00277;0,0272
+Belgium;Europe;Yemen;Asia;115,52129;4,33917
+Belgium;Europe;South Africa;Africa;1398,25757;2832,53989
+Belgium;Europe;Congo, Dem. Rep.;Africa;318,37289;83,14107
+Belgium;Europe;Zambia;Africa;41,43441;17,55933
+Belgium;Europe;Zimbabwe;Africa;22,45665;77,72504
+Canada;America;Afghanistan;Asia;1,58532;7,15991
+Canada;America;Angola;Africa;51,91395;0,31655
+Canada;America;Anguila;Africa;1,56477;0,14592
+Canada;America;Albania;Europe;59,16677;10,20839
+Canada;America;United Arab Emirates;Asia;1568,51744;438,33191
+Canada;America;Argentina;America;283,78996;772,2052
+Canada;America;Armenia;Europe;8,74021;8,94087
+Canada;America;American Samoa;America;1,93588;0,53632
+Canada;America;Antarctica;Antarctica;3,18191;0,10384
+Canada;America;Antigua and Barbuda;America;23,9361;0,3255
+Canada;America;Austria;Europe;271,97231;1842,95044
+Canada;America;Azerbaijan;Asia;4,19952;301,80439
+Canada;America;Burundi;Africa;1,24035;0,41501
+Canada;America;Belgium;Europe;3156,61779;3881,27483
+Canada;America;Benin;Africa;28,3658;0,51798
+Canada;America;Burkina Faso;Africa;40,30161;2,14908
+Canada;America;Bangladesh;Asia;792,92065;1504,68467
+Canada;America;Bulgaria;Europe;146,11026;155,51519
+Canada;America;Bahrain;Asia;173,47698;46,05876
+Canada;America;Bahamas, The;America;284,27549;8,80508
+Canada;America;Bosnia and Herzegovina;Europe;3,31621;24,11413
+Canada;America;Belarus;Europe;12,53233;26,28033
+Canada;America;Belize;America;5,34324;2,37072
+Canada;America;Bermuda;America;69,75198;0,45242
+Canada;America;Bolivia;America;10,37283;291,92276
+Canada;America;Brazil;America;1816,5614;5963,58139
+Canada;America;Barbados;America;38,87229;15,06326
+Canada;America;Brunei;Asia;6,20324;0,77267
+Canada;America;Bhutan;Asia;0,13687;0,02274
+Canada;America;Botswana;Africa;214,18935;5,69569
+Canada;America;Central African Republic;Africa;0,99243;0,19054
+Canada;America;Switzerland;Europe;2422,97692;4541,06391
+Canada;America;Chile;America;974,18403;1438,68846
+Canada;America;China;Asia;22404,7385;68559,61955
+Canada;America;Cameroon;Africa;69,42579;9,44265
+Canada;America;Congo, Rep.;Africa;16,7003;2,62578
+Canada;America;Cook Islands;Oceania;0,02126;0,04825
+Canada;America;Colombia;Africa;802,50179;1038,7531
+Canada;America;Cape Verde;Africa;0,79955;0,32878
+Canada;America;Costa Rica;America;148,96712;474,58531
+Canada;America;Cuba;America;226,68211;558,45979
+Canada;America;Curaçao;America;63,56221;0,0494
+Canada;America;Cyprus;Europe;8,35159;5,16717
+Canada;America;Czech Republic;Europe;182,05112;679,72387
+Canada;America;Germany;Europe;5250,25785;15139,53165
+Canada;America;Djibouti;Africa;3,92566;0,32529
+Canada;America;Dominica;America;4,73235;0,48937
+Canada;America;Denmark;Europe;197,84869;1195,43137
+Canada;America;Dominican Republic;America;229,42006;202,22077
+Canada;America;Algeria;Africa;862,8953;46,01065
+Canada;America;Ecuador;Oceania;457,25362;302,8433
+Canada;America;Egypt, Arab Rep.;Africa;501,66068;1021,80381
+Canada;America;Eritrea;Africa;1,60936;0,01566
+Canada;America;Spain;Europe;1857,50839;3039,37315
+Canada;America;Estonia;Europe;18,59385;145,88962
+Canada;America;Ethiopia(excludes Eritrea);Africa;66,90042;41,1157
+Canada;America;Finland;Europe;551,43652;1103,61047
+Canada;America;Fiji;Oceania;2,66835;5,92345
+Canada;America;Falkland Island;America;0,51977;0,03216
+Canada;America;France;Europe;3231,28152;5666,43105
+Canada;America;Gabon;Africa;13,56293;1,64615
+Canada;America;United Kingdom;Europe;13155,17316;6267,85943
+Canada;America;Georgia;Asia;31,18351;21,12719
+Canada;America;Ghana;Africa;297,86502;81,81946
+Canada;America;Gibraltar;Europe;0,20898;0,01894
+Canada;America;Guinea;Oceania;27,66148;62,7264
+Canada;America;Gambia, The;Africa;4,04414;0,41356
+Canada;America;Guinea-Bissau;Africa;0,19894;0,01038
+Canada;America;Equatorial Guinea;Africa;8,84204;13,55215
+Canada;America;Greece;Europe;114,79029;271,56195
+Canada;America;Grenada;America;7,97039;1,90502
+Canada;America;Guatemala;America;172,81876;517,19782
+Canada;America;Guam;Oceania;1,29341;0,05409
+Canada;America;Guyana;America;30,75187;159,18173
+Canada;America;Hong Kong, China;Asia;2822,63922;340,41472
+Canada;America;Honduras;America;44,10891;350,36537
+Canada;America;Croatia;Europe;26,31926;73,73912
+Canada;America;Haiti;America;64,94823;57,5809
+Canada;America;Hungary;Europe;85,58354;667,93964
+Canada;America;Indonesia;Asia;1790,58852;1577,82502
+Canada;America;India;Asia;2387,69781;4811,33881
+Canada;America;Ireland;Europe;621,07504;2293,8705
+Canada;America;Iran, Islamic Rep.;Asia;322,26728;27,85296
+Canada;America;Iraq;Asia;108,35751;0,88351
+Canada;America;Iceland;Europe;72,61419;90,70989
+Canada;America;Israel;Asia;383,672;1048,90605
+Canada;America;Italy;Europe;2130,59647;8348,69928
+Canada;America;Jamaica;Africa;110,24329;55,83891
+Canada;America;Jordan;Asia;47,51919;96,8324
+Canada;America;Japan;Asia;11569,58935;12323,9992
+Canada;America;Kazakhstan;Asia;70,08768;727,24533
+Canada;America;Kenya;Africa;74,96911;35,79063
+Canada;America;Kyrgyz Republic;Asia;6,82729;0,63914
+Canada;America;Cambodia;Asia;30,67056;1423,1485
+Canada;America;Kiribati;Oceania;0,02422;0,47238
+Canada;America;St. Kitts and Nevis;America;4,16726;2,35024
+Canada;America;Korea, Rep.;Asia;5041,29131;8302,07992
+Canada;America;Kuwait;Asia;89,68048;12,13532
+Canada;America;Lao PDR;Asia;6,65525;27,07958
+Canada;America;Lebanon;Asia;93,86493;34,15878
+Canada;America;Liberia;Africa;19,54889;22,61454
+Canada;America;Libya;Africa;58,40674;0,17721
+Canada;America;St. Lucia;America;14,8352;0,74352
+Canada;America;Sri Lanka;Asia;103,94112;374,32231
+Canada;America;Lesotho;Africa;0,48251;8,25442
+Canada;America;Lithuania;Europe;117,79255;266,33425
+Canada;America;Luxembourg;Europe;114,33797;168,68655
+Canada;America;Latvia;Europe;285,49079;83,97726
+Canada;America;Morocco;Africa;399,90947;510,19785
+Canada;America;Moldova;Europe;2,64892;16,27102
+Canada;America;Madagascar;Africa;8,84883;154,29214
+Canada;America;Maldives;Asia;26,86326;1,05797
+Canada;America;Mexico;America;6541,05495;26994,85503
+Canada;America;North Macedonia;Europe;3,25269;10,42139
+Canada;America;Mali;Africa;40,04655;4,03334
+Canada;America;Malta;Europe;526,41286;30,11947
+Canada;America;Myanmar;Asia;28,16144;110,01037
+Canada;America;Mongolia;Asia;11,51385;1,52272
+Canada;America;Montenegro;Europe;3,79019;9,37167
+Canada;America;Mozambique;Africa;31,83666;32,37647
+Canada;America;Mauritania;Africa;19,19938;337,08048
+Canada;America;Mauritius;Africa;6,70076;12,77766
+Canada;America;Malawi;Africa;3,83023;0,81643
+Canada;America;Malaysia;Asia;815,57209;3032,24697
+Canada;America;Namibia;Africa;7,47951;38,89388
+Canada;America;New Caledonia;Oceania;20,48094;0,63964
+Canada;America;Niger;Africa;5,95195;59,25265
+Canada;America;Norfolk Island;Oceania;0,01583;0,11398
+Canada;America;Nigeria;Africa;483,08136;1647,05003
+Canada;America;Nicaragua;America;43,20652;104,54374
+Canada;America;Niue;Oceania;0,09005;0,09966
+Canada;America;Netherlands;Europe;3835,85422;3121,58452
+Canada;America;Norway;Europe;2497,66841;781,47605
+Canada;America;Nepal;Asia;49,63091;9,97754
+Canada;America;Nauru;Oceania;0,14775;0,18761
+Canada;America;New Zealand;Oceania;348,29029;613,55494
+Canada;America;Oman;Asia;54,76841;56,46807
+Canada;America;Pakistan;Asia;526,75145;433,82219
+Canada;America;Panama;America;164,30031;15,38341
+Canada;America;Pitcairn;Oceania;0,54277;0,05542
+Canada;America;Peru;America;869,80244;3170,6189
+Canada;America;Philippines;Asia;1097,22901;1119,26836
+Canada;America;Papua New Guinea;Oceania;4,19837;2,55541
+Canada;America;Poland;Europe;666,95071;1788,26744
+Canada;America;Portugal;Europe;232,23589;597,55744
+Canada;America;Paraguay;Europe;17,39055;10,41907
+Canada;America;French Polynesia;Oceania;10,10698;1,13465
+Canada;America;Qatar;Asia;108,00438;100,19833
+Canada;America;Romania;Europe;121,89637;527,95836
+Canada;America;Russian Federation;Asia;523,79275;1707,98558
+Canada;America;Rwanda;Africa;9,31186;1,39828
+Canada;America;Saudi Arabia;Asia;1745,35691;1902,97389
+Canada;America;Senegal;Africa;143,25297;3,94043
+Canada;America;Serbia, FR(Serbia/Montenegro);Europe;23,10428;89,46662
+Canada;America;Singapore;Asia;965,14155;822,26293
+Canada;America;Solomon Islands;Oceania;0,17549;0,12844
+Canada;America;Sierra Leone;Africa;8,81105;2,58039
+Canada;America;El Salvador;America;80,92843;63,17288
+Canada;America;Somalia;Africa;2,61849;0,3379
+Canada;America;South Sudan;Africa;1,77051;0,01014
+Canada;America;Sudan;Africa;35,80131;0,32113
+Canada;America;Suriname;America;18,90791;7,73324
+Canada;America;Slovak Republic;Europe;36,02542;626,67527
+Canada;America;Slovenia;Europe;56,79762;175,97486
+Canada;America;Sweden;Europe;350,15302;1933,55308
+Canada;America;Eswatini;Europe;1,33789;1,53504
+Canada;America;Seychelles;Africa;0,80655;1,72403
+Canada;America;Syrian Arab Republic;Asia;9,19239;2,37107
+Canada;America;Turks and Caicos Isl.;America;4,71886;0,13936
+Canada;America;Chad;Africa;1,08252;0,07878
+Canada;America;Togo;Africa;41,00626;10,99515
+Canada;America;Thailand;Asia;696,476;3286,01668
+Canada;America;Tajikistan;Asia;0,7519;0,23619
+Canada;America;Turkmenistan;Asia;4,15438;0,6528
+Canada;America;East Timor;Asia;0,39873;5,71467
+Canada;America;Tonga;Africa;0,56216;0,10363
+Canada;America;Trinidad and Tobago;Africa;248,30028;283,89874
+Canada;America;Tunisia;Africa;87,25238;136,9646
+Canada;America;Turkey;Asia;918,3812;2222,97019
+Canada;America;Tanzania;Africa;154,79119;18,97922
+Canada;America;Uganda;Africa;26,80871;14,26636
+Canada;America;Ukraine;Europe;175,01926;181,71442
+Canada;America;Uruguay;America;71,80826;65,20219
+Canada;America;United States;America;377983,7797;239020,8907
+Canada;America;Uzbekistan;Asia;5,34532;202,31921
+Canada;America;St. Vincent and the Grenadines;America;18,30197;0,0601
+Canada;America;Venezuela;America;134,50079;11,6038
+Canada;America;British Virgin Islands;Europe;2,68763;0,2308
+Canada;America;Vietnam;Asia;526,72753;7844,78923
+Canada;America;Vanuatu;Oceania;0,17316;0,0538
+Canada;America;Wallis and Futura Isl.;Oceania;0,97269;0,00906
+Canada;America;Samoa;America;0,01953;0,0996
+Canada;America;Yemen;Asia;5,53616;0,39132
+Canada;America;South Africa;Africa;307,3944;1336,27562
+Canada;America;Congo, Dem. Rep.;Africa;14,54107;204,54521
+Canada;America;Zambia;Africa;13,57057;109,41268
+Canada;America;Zimbabwe;Africa;7,16672;7,7664
+China;Asia;Afghanistan;Asia;474,45127;49,52722
+China;Asia;Angola;Africa;2491,54568;20908,23132
+China;Asia;Albania;Europe;591,55669;164,15198
+China;Asia;United Arab Emirates;Asia;43818,20517;28567,88895
+China;Asia;Argentina;America;10689,78073;7132,13671
+China;Asia;Armenia;Europe;331,01991;1083,85536
+China;Asia;Antigua and Barbuda;America;110,25502;2,68928
+China;Asia;Austria;Europe;5349,52484;8418,8923
+China;Asia;Azerbaijan;Asia;994,8813;205,027
+China;Asia;Burundi;Africa;126,90239;8,60561
+China;Asia;Belgium;Europe;30381,73104;8572,1664
+China;Asia;Benin;Africa;1227,52146;231,56879
+China;Asia;Burkina Faso;Africa;442,68979;188,4526
+China;Asia;Bangladesh;Asia;24094,59298;1046,91066
+China;Asia;Bulgaria;Europe;2312,18219;1797,75926
+China;Asia;Bahrain;Asia;1380,82171;399,51421
+China;Asia;Bahamas, The;America;474,26957;17,25719
+China;Asia;Bosnia and Herzegovina;Europe;136,95007;137,81212
+China;Asia;Belarus;Europe;2729,41195;1090,69329
+China;Asia;Belize;America;175,79892;0,04517
+China;Asia;Bermuda;America;79,12402;0,02003
+China;Asia;Bolivia;America;992,3908;647,68991
+China;Asia;Brazil;America;53612,22439;109877,8763
+China;Asia;Barbados;America;238,73892;15,24622
+China;Asia;Brunei;Asia;639,05585;2221,83902
+China;Asia;Bhutan;Asia;108,76212;0,01096
+China;Asia;Botswana;Africa;255,50181;172,61625
+China;Asia;Central African Republic;Africa;45,53092;36,06642
+China;Asia;Canada;America;51510,53219;30450,11253
+China;Asia;Switzerland;Europe;6304,56582;38068,59567
+China;Asia;Chile;America;26292,79678;39458,6339
+China;Asia;Cameroon;Africa;2714,02207;1636,69076
+China;Asia;Congo, Rep.;Africa;680,34702;4673,95431
+China;Asia;Cook Islands;Oceania;4,01455;2,05364
+China;Asia;Colombia;Africa;14354,66129;5614,10938
+China;Asia;Cape Verde;Africa;84,53774;1,14692
+China;Asia;Costa Rica;America;2255,32583;815,49125
+China;Asia;Cuba;America;575,87293;446,93052
+China;Asia;Curaçao;America;55,17543;0,01262
+China;Asia;Cyprus;Europe;866,74338;28,86932
+China;Asia;Czech Republic;Europe;15108,15342;6053,56205
+China;Asia;Germany;Europe;115181,9225;119920,0722
+China;Asia;Djibouti;Africa;2572,27455;55,80574
+China;Asia;Dominica;America;34,58683;1,43154
+China;Asia;Denmark;Europe;10871,7069;6976,10031
+China;Asia;Dominican Republic;America;4002,49199;347,49974
+China;Asia;Algeria;Africa;6349,67965;1080,77129
+China;Asia;Ecuador;Oceania;5483,43206;5459,57365
+China;Asia;Egypt, Arab Rep.;Africa;18264,73281;1704,40793
+China;Asia;Eritrea;Africa;69,95715;389,73192
+China;Asia;Western Sahara;Africa;1,10001;0,00012
+China;Asia;Spain;Europe;36127,9261;12290,11382
+China;Asia;Estonia;Europe;1009,97551;281,56211
+China;Asia;Ethiopia(excludes Eritrea);Africa;2290,95094;366,00693
+China;Asia;Finland;Europe;3802,99486;5327,6775
+China;Asia;Fiji;Oceania;397,39524;55,50588
+China;Asia;France;Europe;46388,19984;39126,64275
+China;Asia;Micronesia, Fed. Sts.;Oceania;20,12267;17,4343
+China;Asia;Gabon;Africa;436,24059;2584,61336
+China;Asia;United Kingdom;Europe;87029,77677;25652,93751
+China;Asia;Georgia;Asia;1028,87259;174,46821
+China;Asia;Ghana;Africa;8104,17831;1466,77676
+China;Asia;Gibraltar;Europe;6,02942;0,00919
+China;Asia;Guinea;Oceania;2158,47154;2792,44618
+China;Asia;Gambia, The;Africa;543,95313;44,60129
+China;Asia;Guinea-Bissau;Africa;88,87891;0,00111
+China;Asia;Equatorial Guinea;Africa;123,98409;1215,14247
+China;Asia;Greece;Europe;11180,07415;973,04014
+China;Asia;Grenada;America;20,44647;0,0242
+China;Asia;Guatemala;America;3904,45147;448,72561
+China;Asia;Guyana;America;390,25491;319,90784
+China;Asia;Hong Kong, China;Asia;349442,3247;9700,2087
+China;Asia;Honduras;America;1584,84445;34,13143
+China;Asia;Croatia;Europe;1977,0352;339,90268
+China;Asia;Haiti;America;795,41974;4,32931
+China;Asia;Hungary;Europe;10141,75484;5566,04097
+China;Asia;Indonesia;Asia;60649,44044;63886,54658
+China;Asia;India;Asia;97510,6563;28137,33609
+China;Asia;Ireland;Europe;5321,33153;17626,34329
+China;Asia;Iran, Islamic Rep.;Asia;8277,85281;6500,36683
+China;Asia;Iraq;Asia;10689,81283;26647,2331
+China;Asia;Iceland;Europe;207,01568;151,81648
+China;Asia;Israel;Asia;15298,21724;7535,17673
+China;Asia;Italy;Europe;43630,0192;30322,5532
+China;Asia;Jamaica;Africa;809,86325;6,12647
+China;Asia;Jordan;Asia;3991,36669;424,70013
+China;Asia;Japan;Asia;165822,9646;205523,7145
+China;Asia;Kazakhstan;Asia;13960,38279;11391,71452
+China;Asia;Kenya;Africa;6732,05177;226,53664
+China;Asia;Kyrgyz Republic;Asia;7473,73549;79,7317
+China;Asia;Cambodia;Asia;11566,14863;2100,4363
+China;Asia;Kiribati;Oceania;39,08159;0,00477
+China;Asia;St. Kitts and Nevis;America;13,23756;0,67106
+China;Asia;Korea, Rep.;Asia;148847,0268;213445,0799
+China;Asia;Kuwait;Asia;4368,46802;17755,28105
+China;Asia;Lao PDR;Asia;1666,65199;2673,96069
+China;Asia;Lebanon;Asia;1508,68646;47,90545
+China;Asia;Liberia;Africa;5687,51746;23,73267
+China;Asia;Libya;Africa;2129,03043;3271,54833
+China;Asia;St. Lucia;America;25,50901;0,13312
+China;Asia;Sri Lanka;Asia;5252,22191;650,4575
+China;Asia;Lesotho;Africa;84,44494;23,66091
+China;Asia;Lithuania;Europe;2195,78216;433,49335
+China;Asia;Luxembourg;Europe;1441,89783;410,94945
+China;Asia;Latvia;Europe;1146,48281;239,06771
+China;Asia;Morocco;Africa;5689,73071;824,65054
+China;Asia;Moldova;Europe;178,80976;104,68572
+China;Asia;Madagascar;Africa;1283,17922;331,89971
+China;Asia;Maldives;Asia;406,88604;4,3578
+China;Asia;Mexico;America;67440,74371;19142,58575
+China;Asia;Marshall Islands;Oceania;3187,5923;2,74954
+China;Asia;North Macedonia;Europe;224,27616;371,13063
+China;Asia;Mali;Africa;594,88521;127,55296
+China;Asia;Malta;Europe;2201,4373;553,50436
+China;Asia;Myanmar;Asia;10527,47739;8381,01768
+China;Asia;Mongolia;Asia;2233,05725;6897,31692
+China;Asia;Montenegro;Europe;96,12628;11,33189
+China;Asia;Mozambique;Africa;2895,60544;1141,12693
+China;Asia;Mauritania;Africa;909,96226;1793,73043
+China;Asia;Mauritius;Africa;877,78436;35,73736
+China;Asia;Malawi;Africa;280,52682;9,8121
+China;Asia;Malaysia;Asia;78697,72962;98192,53698
+China;Asia;Namibia;Africa;401,67178;734,59846
+China;Asia;New Caledonia;Oceania;151,79462;1111,41707
+China;Asia;Niger;Africa;391,58735;369,3789
+China;Asia;Norfolk Island;Oceania;0,95575;0,00003
+China;Asia;Nigeria;Africa;22636,15837;3034,65477
+China;Asia;Nicaragua;America;794,25913;25,06408
+China;Asia;Netherlands;Europe;102433,4093;14005,02279
+China;Asia;Norway;Europe;4404,09172;10761,96745
+China;Asia;Nepal;Asia;1950,3331;26,50806
+China;Asia;Nauru;Oceania;11,27723;0,1074
+China;Asia;New Zealand;Oceania;8560,938;16155,33952
+China;Asia;Oman;Asia;3565,15877;28587,51407
+China;Asia;Pakistan;Asia;24240,96859;3584,86588
+China;Asia;Panama;America;10179,46626;1167,18228
+China;Asia;Peru;America;13302,11608;24184,65572
+China;Asia;Philippines;Asia;57308,1819;24759,91665
+China;Asia;Palau;Oceania;36,57014;0,08549
+China;Asia;Papua New Guinea;Oceania;1050,19326;2988,26833
+China;Asia;Poland;Europe;36578,28995;5541,76779
+China;Asia;Portugal;Europe;5354,23808;3453,79038
+China;Asia;Paraguay;Europe;1780,72328;54,33177
+China;Asia;French Polynesia;Oceania;132,89484;4,33754
+China;Asia;Qatar;Asia;3960,76749;13210,13239
+China;Asia;Romania;Europe;6708,52778;3507,14063
+China;Asia;Russian Federation;Asia;67550,05471;78970,61101
+China;Asia;Rwanda;Africa;335,13717;28,7234
+China;Asia;Saudi Arabia;Asia;30321,53466;56961,58476
+China;Asia;Senegal;Africa;3353,68831;439,51946
+China;Asia;Serbia, FR(Serbia/Montenegro);Europe;2242,2684;984,89026
+China;Asia;Singapore;Asia;55215,26763;38803,06006
+China;Asia;Solomon Islands;Oceania;167,10582;320,64485
+China;Asia;Sierra Leone;Africa;489,11899;403,41953
+China;Asia;El Salvador;America;1511,19856;218,85345
+China;Asia;Somalia;Africa;999,6994;10,79821
+China;Asia;South Sudan;Africa;139,81693;299,41288
+China;Asia;Sudan;Africa;1816,38967;779,80444
+China;Asia;Suriname;America;276,74021;41,86025
+China;Asia;Slovak Republic;Europe;4545,30798;7547,22602
+China;Asia;Slovenia;Europe;5363,25466;632,02431
+China;Asia;Sweden;Europe;11034,89409;9871,90642
+China;Asia;Eswatini;Europe;51,48862;1,29237
+China;Asia;Seychelles;Africa;68,65488;0,01308
+China;Asia;Syrian Arab Republic;Asia;482,35202;1,283
+China;Asia;Turks and Caicos Isl.;America;4,97159;0,02481
+China;Asia;Chad;Africa;365,27104;196,79807
+China;Asia;Togo;Africa;2952,72392;532,87755
+China;Asia;Thailand;Asia;69355,42769;61818,24298
+China;Asia;Tajikistan;Asia;1682,96399;175,46946
+China;Asia;Turkmenistan;Asia;513,40391;5529,35494
+China;Asia;East Timor;Asia;260,43328;113,15129
+China;Asia;Tonga;Africa;53,6516;0,04144
+China;Asia;Trinidad and Tobago;Africa;424,6045;635,53639
+China;Asia;Tunisia;Africa;1865,63473;282,72375
+China;Asia;Turkey;Asia;29153,86914;5049,49339
+China;Asia;Tuvalu;Oceania;46,4251;0,03807
+China;Asia;Tanzania;Africa;6137,1173;604,69359
+China;Asia;Uganda;Africa;1022,95143;43,89733
+China;Asia;Ukraine;Europe;9404,59376;9841,41048
+China;Asia;Uruguay;America;2858,0281;3623,47075
+China;Asia;United States;America;577125,4999;180971,9322
+China;Asia;Uzbekistan;Asia;5882,07527;1540,98788
+China;Asia;St. Vincent and the Grenadines;America;32,8859;0,00216
+China;Asia;Venezuela;America;2185,88454;997,79314
+China;Asia;British Virgin Islands;Europe;19,78335;0,1276
+China;Asia;Vietnam;Asia;137904,8704;92315,96696
+China;Asia;Vanuatu;Oceania;87,64325;11,82978
+China;Asia;Wallis and Futura Isl.;Oceania;2,42803;0,01475
+China;Asia;Samoa;America;102,27077;0,64326
+China;Asia;Yemen;Asia;2570,11413;470,81256
+China;Asia;South Africa;Africa;21115,29729;32973,9698
+China;Asia;Congo, Dem. Rep.;Africa;2756,85996;11671,19952
+China;Asia;Zambia;Africa;780,85413;4385,25143
+China;Asia;Zimbabwe;Africa;920,0064;960,12058
+Cyprus;Europe;Afghanistan;Asia;0,53819;0,00066
+Cyprus;Europe;Angola;Africa;0,68662;0,00082
+Cyprus;Europe;Albania;Europe;2,44484;1,63598
+Cyprus;Europe;United Arab Emirates;Asia;24,32809;68,57842
+Cyprus;Europe;Argentina;America;0,98613;50,78804
+Cyprus;Europe;Armenia;Europe;0,86363;0,02632
+Cyprus;Europe;American Samoa;America;0,01428;0,00828
+Cyprus;Europe;Antigua and Barbuda;America;7,16284;0,03809
+Cyprus;Europe;Austria;Europe;22,21079;62,67965
+Cyprus;Europe;Azerbaijan;Asia;10,66575;11,33835
+Cyprus;Europe;Burundi;Africa;0,25878;0,00008
+Cyprus;Europe;Belgium;Europe;13,20887;308,20223
+Cyprus;Europe;Benin;Africa;0,38896;0,02641
+Cyprus;Europe;Burkina Faso;Africa;0,01336;0,00006
+Cyprus;Europe;Bangladesh;Asia;20,21158;16,72066
+Cyprus;Europe;Bulgaria;Europe;27,8167;126,46483
+Cyprus;Europe;Bahrain;Asia;5,17234;0,53452
+Cyprus;Europe;Bahamas, The;America;0,05441;7,10425
+Cyprus;Europe;Bosnia and Herzegovina;Europe;0,32658;1,27735
+Cyprus;Europe;Belarus;Europe;0,11546;0,20673
+Cyprus;Europe;Belize;America;2,23954;7,44607
+Cyprus;Europe;Bermuda;America;38,42945;1,87434
+Cyprus;Europe;Bolivia;America;0,0191;0,00007
+Cyprus;Europe;Brazil;America;1,56361;9,43538
+Cyprus;Europe;Barbados;America;0,66495;0,00001
+Cyprus;Europe;Botswana;Africa;2,44566;0,0017
+Cyprus;Europe;Central African Republic;Africa;0,23892;0,00003
+Cyprus;Europe;Canada;America;4,17293;15,68359
+Cyprus;Europe;Switzerland;Europe;15,90333;67,54739
+Cyprus;Europe;Chile;America;1,7965;3,93438
+Cyprus;Europe;China;Asia;61,15349;509,86605
+Cyprus;Europe;Cote d'Ivoire;;4,16004;24,52042
+Cyprus;Europe;Cameroon;Africa;0,47249;0,46992
+Cyprus;Europe;Congo, Rep.;Africa;0,04571;0,00039
+Cyprus;Europe;Colombia;Africa;0,41309;0,14137
+Cyprus;Europe;Cape Verde;Africa;0,00042;0,012
+Cyprus;Europe;Costa Rica;America;0,06403;0,07391
+Cyprus;Europe;Cuba;America;0,01818;25,207
+Cyprus;Europe;Curaçao;America;0,34087;0,00916
+Cyprus;Europe;Cayman Islands;;0,03895;180,77985
+Cyprus;Europe;Czech Republic;Europe;29,70486;53,60808
+Cyprus;Europe;Germany;Europe;120,32204;637,49998
+Cyprus;Europe;Djibouti;Africa;0,01756;0,00005
+Cyprus;Europe;Dominica;America;0,14198;0,01072
+Cyprus;Europe;Denmark;Europe;18,59846;47,24153
+Cyprus;Europe;Dominican Republic;America;0,10645;0,58881
+Cyprus;Europe;Algeria;Africa;5,38361;3,6153
+Cyprus;Europe;Ecuador;Oceania;2,22927;4,17827
+Cyprus;Europe;Egypt, Arab Rep.;Africa;26,98343;45,81145
+Cyprus;Europe;Spain;Europe;19,7609;351,42856
+Cyprus;Europe;Estonia;Europe;10,62838;4,45802
+Cyprus;Europe;Ethiopia(excludes Eritrea);Africa;9,21759;0,03342
+Cyprus;Europe;Finland;Europe;7,2;21,43257
+Cyprus;Europe;Fiji;Oceania;0,05229;0,08469
+Cyprus;Europe;France;Europe;50,70387;172,90123
+Cyprus;Europe;Gabon;Africa;0,08801;0,38755
+Cyprus;Europe;United Kingdom;Europe;250,3541;377,43303
+Cyprus;Europe;Georgia;Asia;0,97279;3,9868
+Cyprus;Europe;Ghana;Africa;10,63935;0,15695
+Cyprus;Europe;Gibraltar;Europe;0,02696;0,00077
+Cyprus;Europe;Guinea;Oceania;0,74918;0,08155
+Cyprus;Europe;Gambia, The;Africa;0,33215;0,00045
+Cyprus;Europe;Greece;Europe;307,73222;2455,72063
+Cyprus;Europe;Guatemala;America;0,05291;0,01295
+Cyprus;Europe;Guam;Oceania;0,00068;0,00588
+Cyprus;Europe;Hong Kong, China;Asia;59,54555;49,60233
+Cyprus;Europe;Honduras;America;0,09073;0,14788
+Cyprus;Europe;Croatia;Europe;6,2702;35,71916
+Cyprus;Europe;Haiti;America;0,05867;0,00064
+Cyprus;Europe;Hungary;Europe;3,60592;49,9709
+Cyprus;Europe;Indonesia;Asia;3,84987;11,63297
+Cyprus;Europe;India;Asia;21,97545;98,13664
+Cyprus;Europe;Ireland;Europe;15,03261;121,43945
+Cyprus;Europe;Iran, Islamic Rep.;Asia;10,58199;0,46219
+Cyprus;Europe;Iraq;Asia;11,6661;0,02481
+Cyprus;Europe;Iceland;Europe;0,89523;0,15558
+Cyprus;Europe;Israel;Asia;105,82079;476,43786
+Cyprus;Europe;Italy;Europe;50,9999;1045,21151
+Cyprus;Europe;Jamaica;Africa;0,16603;0,02782
+Cyprus;Europe;Jordan;Asia;9,32114;1,30441
+Cyprus;Europe;Japan;Asia;1,57277;110,53662
+Cyprus;Europe;Kazakhstan;Asia;0,68625;6,52833
+Cyprus;Europe;Kenya;Africa;78,67875;3,47836
+Cyprus;Europe;Kyrgyz Republic;Asia;0,00983;0,00178
+Cyprus;Europe;Cambodia;Asia;1,18524;1,77942
+Cyprus;Europe;Korea, Rep.;Asia;8,27671;223,60081
+Cyprus;Europe;Kuwait;Asia;5,85317;1,58371
+Cyprus;Europe;Lao PDR;Asia;0,00625;0,0037
+Cyprus;Europe;Lebanon;Asia;337,65869;27,42178
+Cyprus;Europe;Liberia;Africa;191,44936;76,93811
+Cyprus;Europe;Libya;Africa;213,72221;3,82842
+Cyprus;Europe;Sri Lanka;Asia;2,26686;3,32999
+Cyprus;Europe;Lithuania;Europe;8,42177;13,63538
+Cyprus;Europe;Luxembourg;Europe;0,00274;13,56049
+Cyprus;Europe;Latvia;Europe;4,04079;7,04838
+Cyprus;Europe;Macao;;0,16005;0,0245
+Cyprus;Europe;Morocco;Africa;2,52352;3,25794
+Cyprus;Europe;Moldova;Europe;0,85003;17,23316
+Cyprus;Europe;Madagascar;Africa;0,05416;0,07343
+Cyprus;Europe;Maldives;Asia;0,93258;0,19978
+Cyprus;Europe;Mexico;America;13,40236;6,73047
+Cyprus;Europe;Marshall Islands;Oceania;297,14383;53,25291
+Cyprus;Europe;North Macedonia;Europe;1,29439;1,62873
+Cyprus;Europe;Mali;Africa;0,03983;0,00001
+Cyprus;Europe;Malta;Europe;39,12645;111,29366
+Cyprus;Europe;Myanmar;Asia;1,0475;0,63714
+Cyprus;Europe;Mongolia;Asia;0,31603;0,00088
+Cyprus;Europe;Montenegro;Europe;0,97821;5,80693
+Cyprus;Europe;Mozambique;Africa;0,32714;0,01099
+Cyprus;Europe;Mauritania;Africa;0,0522;0,25588
+Cyprus;Europe;Mauritius;Africa;1,39343;0,12092
+Cyprus;Europe;Malawi;Africa;0,19356;0,00179
+Cyprus;Europe;Malaysia;Asia;7,66972;13,93608
+Cyprus;Europe;Namibia;Africa;0,12408;2,04323
+Cyprus;Europe;Nigeria;Africa;3,48315;0,82145
+Cyprus;Europe;Nicaragua;America;0,07694;0,4488
+Cyprus;Europe;Netherlands;Europe;64,87876;527,14674
+Cyprus;Europe;Norway;Europe;114,25167;10,80716
+Cyprus;Europe;Nepal;Asia;0,22414;0,0258
+Cyprus;Europe;New Zealand;Oceania;2,61081;14,45905
+Cyprus;Europe;Other Asia, nes;;2,95397;21,98781
+Cyprus;Europe;Oman;Asia;4,57755;0,93068
+Cyprus;Europe;Pakistan;Asia;6,69511;7,02529
+Cyprus;Europe;Panama;America;8,69854;18,69941
+Cyprus;Europe;Peru;America;0,16404;0,98335
+Cyprus;Europe;Philippines;Asia;15,58994;4,33741
+Cyprus;Europe;Papua New Guinea;Oceania;0,68312;0
+Cyprus;Europe;Poland;Europe;22,42385;154,83041
+Cyprus;Europe;Portugal;Europe;4,92348;34,20692
+Cyprus;Europe;Paraguay;Europe;0,01695;0,3314
+Cyprus;Europe;Qatar;Asia;6,84743;0,81729
+Cyprus;Europe;Romania;Europe;27,92879;160,96944
+Cyprus;Europe;Russian Federation;Asia;90,61428;102,08984
+Cyprus;Europe;Rwanda;Africa;0,0474;0,00008
+Cyprus;Europe;Saudi Arabia;Asia;25,55803;48,15097
+Cyprus;Europe;Senegal;Africa;0,30736;1,89396
+Cyprus;Europe;Serbia, FR(Serbia/Montenegro);Europe;9,2717;28,29091
+Cyprus;Europe;Singapore;Asia;45,88444;40,91615
+Cyprus;Europe;Solomon Islands;Oceania;0,05867;0,01586
+Cyprus;Europe;Sierra Leone;Africa;0,19078;0,01873
+Cyprus;Europe;El Salvador;America;0,31932;0,00058
+Cyprus;Europe;Sudan;Africa;3,93277;0,18977
+Cyprus;Europe;Suriname;America;0,00133;0,13514
+Cyprus;Europe;Slovak Republic;Europe;13,78317;25,9514
+Cyprus;Europe;Slovenia;Europe;24,77096;23,23757
+Cyprus;Europe;Sweden;Europe;85,76712;49,04607
+Cyprus;Europe;Eswatini;Europe;0,00088;0,00165
+Cyprus;Europe;Seychelles;Africa;0,79436;0,47684
+Cyprus;Europe;Syrian Arab Republic;Asia;1,68535;1,00194
+Cyprus;Europe;Turks and Caicos Isl.;America;0,25229;0,00011
+Cyprus;Europe;Chad;Africa;0,08023;0,01167
+Cyprus;Europe;Togo;Africa;0,15031;0,00013
+Cyprus;Europe;Thailand;Asia;18,94267;30,3216
+Cyprus;Europe;Trinidad and Tobago;Africa;0,57187;0,04782
+Cyprus;Europe;Tunisia;Africa;2,59689;5,18249
+Cyprus;Europe;Turkey;Asia;3,63992;131,41298
+Cyprus;Europe;Tanzania;Africa;2,83596;0,00388
+Cyprus;Europe;Uganda;Africa;2,11913;0,06459
+Cyprus;Europe;Ukraine;Europe;12,48026;24,90082
+Cyprus;Europe;Unspecified;;39,89753;122,05703
+Cyprus;Europe;Uruguay;America;1,26018;0,77366
+Cyprus;Europe;United States;America;89,3993;139,15359
+Cyprus;Europe;Uzbekistan;Asia;0,37444;0,00155
+Cyprus;Europe;Venezuela;America;0,54984;0,05432
+Cyprus;Europe;British Virgin Islands;Europe;238,35924;44,24798
+Cyprus;Europe;Vietnam;Asia;21,88569;43,19289
+Cyprus;Europe;Vanuatu;Oceania;0,06968;16,19992
+Cyprus;Europe;Yemen;Asia;3,21604;0,00011
+Cyprus;Europe;South Africa;Africa;3,40306;9,96371
+Cyprus;Europe;Congo, Dem. Rep.;Africa;1,83974;0,03773
+Cyprus;Europe;Zambia;Africa;0,57542;0,00522
+Cyprus;Europe;Zimbabwe;Africa;1,53025;0,00755
+Finland;Europe;Afghanistan;Asia;676,9;0,90701
+Finland;Europe;Angola;Africa;1855,67;0,21664
+Finland;Europe;Anguila;Africa;378,86;0,0003
+Finland;Europe;Albania;Europe;3636,53;3,44569
+Finland;Europe;United Arab Emirates;Asia;202337,41;17,70794
+Finland;Europe;Argentina;America;110421,97;17,15125
+Finland;Europe;Armenia;Europe;16354,03;0,23866
+Finland;Europe;Antarctica;Antarctica;185,03;0,0009
+Finland;Europe;Antigua and Barbuda;America;2750;0,00697
+Finland;Europe;Austria;Europe;583283,52;921,34889
+Finland;Europe;Azerbaijan;Asia;15312,52;0,72046
+Finland;Europe;Burundi;Africa;416,1;1,56022
+Finland;Europe;Belgium;Europe;2563842,7;1713,17818
+Finland;Europe;Benin;Africa;1712,39;0,02071
+Finland;Europe;Burkina Faso;Africa;1488,57;0,40172
+Finland;Europe;Bangladesh;Asia;42358,97;225,45631
+Finland;Europe;Bulgaria;Europe;119435,8;105,43707
+Finland;Europe;Bahrain;Asia;9037,1;3,72005
+Finland;Europe;Bahamas, The;America;31836,83;0,34542
+Finland;Europe;Bosnia and Herzegovina;Europe;5861,89;13,40242
+Finland;Europe;Belarus;Europe;99677,49;27,78675
+Finland;Europe;Belize;America;812,41;0,00087
+Finland;Europe;Bermuda;America;389,7;0,00795
+Finland;Europe;Bolivia;America;6819,88;0,43416
+Finland;Europe;Brazil;America;601385,81;502,54665
+Finland;Europe;Barbados;America;270,76;0,8438
+Finland;Europe;Brunei;Asia;198,54;0,00087
+Finland;Europe;Bhutan;Asia;21,02;0,00011
+Finland;Europe;Botswana;Africa;595,68;0,00029
+Finland;Europe;Central African Republic;Africa;303,38;0,02766
+Finland;Europe;Canada;America;955707,04;592,10007
+Finland;Europe;Switzerland;Europe;1428002,24;722,92657
+Finland;Europe;Chile;America;252852,86;352,62916
+Finland;Europe;China;Asia;4234887,72;7794,65606
+Finland;Europe;Cameroon;Africa;9025,14;0,18261
+Finland;Europe;Congo, Rep.;Africa;10201,24;2,75317
+Finland;Europe;Colombia;Africa;137981,64;52,3703
+Finland;Europe;Cape Verde;Africa;500,8;0,00011
+Finland;Europe;Costa Rica;America;10809,46;54,17374
+Finland;Europe;Cuba;America;2512,96;0,34876
+Finland;Europe;Curaçao;America;759,5;0,00047
+Finland;Europe;Cyprus;Europe;23425,74;16,29473
+Finland;Europe;Czech Republic;Europe;508081,04;1194,40825
+Finland;Europe;Germany;Europe;10755513,84;12540,2951
+Finland;Europe;Djibouti;Africa;893,84;0,00101
+Finland;Europe;Dominica;America;2,78;0,19568
+Finland;Europe;Denmark;Europe;1451929,32;2028,22038
+Finland;Europe;Dominican Republic;America;20761,51;7,42295
+Finland;Europe;Algeria;Africa;143397,81;6,31547
+Finland;Europe;Ecuador;Oceania;66132,74;241,09947
+Finland;Europe;Egypt, Arab Rep.;Africa;476193,58;46,35384
+Finland;Europe;Eritrea;Africa;199,91;0,00216
+Finland;Europe;Spain;Europe;1188281,47;1843,61355
+Finland;Europe;Estonia;Europe;2821929,59;2738,22724
+Finland;Europe;Ethiopia(excludes Eritrea);Africa;2184,84;7,07703
+Finland;Europe;Fiji;Oceania;86,29;0,01205
+Finland;Europe;Falkland Island;America;1,57;0,01373
+Finland;Europe;France;Europe;2436673,18;2091,62604
+Finland;Europe;Gabon;Africa;1473;0,16762
+Finland;Europe;United Kingdom;Europe;2978468,89;1632,93202
+Finland;Europe;Georgia;Asia;19109,51;2,74583
+Finland;Europe;Ghana;Africa;51874,16;1,18701
+Finland;Europe;Gibraltar;Europe;62551,07;0,01119
+Finland;Europe;Guinea;Oceania;350,75;0,00083
+Finland;Europe;Gambia, The;Africa;1744,86;0,00404
+Finland;Europe;Guinea-Bissau;Africa;0,06;0,00035
+Finland;Europe;Equatorial Guinea;Africa;7,99;0,00375
+Finland;Europe;Greece;Europe;205297,75;126,36658
+Finland;Europe;Grenada;America;4778,15;0,00289
+Finland;Europe;Guatemala;America;21785,14;10,89999
+Finland;Europe;Guam;Oceania;553,54;0,00139
+Finland;Europe;Guyana;America;3178,44;0,44771
+Finland;Europe;Hong Kong, China;Asia;157872,46;73,10031
+Finland;Europe;Honduras;America;3015,6;28,42959
+Finland;Europe;Croatia;Europe;47796,06;51,65511
+Finland;Europe;Haiti;America;340;0,14338
+Finland;Europe;Hungary;Europe;261845,74;527,5505
+Finland;Europe;Indonesia;Asia;271892,58;225,38393
+Finland;Europe;India;Asia;637353,95;489,53178
+Finland;Europe;Ireland;Europe;830160,88;798,54489
+Finland;Europe;Iran, Islamic Rep.;Asia;2553,65;3,09577
+Finland;Europe;Iraq;Asia;6969,94;0,02937
+Finland;Europe;Iceland;Europe;58197,1;23,23426
+Finland;Europe;Israel;Asia;226909,11;77,05895
+Finland;Europe;Italy;Europe;3458515,78;2382,08955
+Finland;Europe;Jamaica;Africa;2390;1,81329
+Finland;Europe;Jordan;Asia;38311,35;2,86393
+Finland;Europe;Japan;Asia;1434008,99;924,24702
+Finland;Europe;Kazakhstan;Asia;120675,03;9,57711
+Finland;Europe;Kenya;Africa;64277,1;22,10165
+Finland;Europe;Kyrgyz Republic;Asia;3743,08;0,09516
+Finland;Europe;Cambodia;Asia;118098,11;55,38515
+Finland;Europe;Kiribati;Oceania;26,73;0,00087
+Finland;Europe;St. Kitts and Nevis;America;5120,69;0,00102
+Finland;Europe;Korea, Rep.;Asia;793976,04;808,73778
+Finland;Europe;Kuwait;Asia;18763,67;0,20544
+Finland;Europe;Lao PDR;Asia;1246,39;2,22438
+Finland;Europe;Lebanon;Asia;12224,4;1,11587
+Finland;Europe;Libya;Africa;1731,06;0,00008
+Finland;Europe;St. Lucia;America;9,98;0,00491
+Finland;Europe;Sri Lanka;Asia;11172,1;33,41101
+Finland;Europe;Lithuania;Europe;918998,18;654,89672
+Finland;Europe;Luxembourg;Europe;42183,31;106,31376
+Finland;Europe;Latvia;Europe;772561,44;362,56782
+Finland;Europe;Morocco;Africa;130022,94;46,07787
+Finland;Europe;Moldova;Europe;10473,15;4,29792
+Finland;Europe;Madagascar;Africa;2492,61;4,66658
+Finland;Europe;Maldives;Asia;1907,77;0,17106
+Finland;Europe;Mexico;America;385187,3;407,20075
+Finland;Europe;Marshall Islands;Oceania;1364,57;0,00015
+Finland;Europe;North Macedonia;Europe;2792,17;35,22968
+Finland;Europe;Mali;Africa;7301,83;0,92462
+Finland;Europe;Malta;Europe;33992,08;11,78542
+Finland;Europe;Myanmar;Asia;2701,53;36,81785
+Finland;Europe;Mongolia;Asia;22580,21;0,03964
+Finland;Europe;Northern Mariana Islands;Oceania;0,2;0,0001
+Finland;Europe;Montenegro;Europe;2441,77;0,11848
+Finland;Europe;Mozambique;Africa;6996,42;10,70722
+Finland;Europe;Mauritania;Africa;7882,06;0,01171
+Finland;Europe;Mauritius;Africa;1231,04;12,12763
+Finland;Europe;Malawi;Africa;1803,93;0,56037
+Finland;Europe;Malaysia;Asia;151336,08;573,83633
+Finland;Europe;Namibia;Africa;49689,82;0,5398
+Finland;Europe;New Caledonia;Oceania;4125,66;0,00151
+Finland;Europe;Niger;Africa;439,81;0,34675
+Finland;Europe;Nigeria;Africa;28553,96;0,72877
+Finland;Europe;Nicaragua;America;1172,34;5,20969
+Finland;Europe;Netherlands;Europe;4968810,7;3856,88834
+Finland;Europe;Norway;Europe;2045329,55;1964,07206
+Finland;Europe;Nepal;Asia;1115,3;0,64442
+Finland;Europe;New Zealand;Oceania;88756,84;36,92571
+Finland;Europe;Oman;Asia;19179,68;0,34911
+Finland;Europe;Pakistan;Asia;125842,68;72,20409
+Finland;Europe;Panama;America;11563,54;28,57824
+Finland;Europe;Peru;America;80660,12;162,21802
+Finland;Europe;Philippines;Asia;211961,28;188,97973
+Finland;Europe;Palau;Oceania;35,97;0,00013
+Finland;Europe;Papua New Guinea;Oceania;1264,01;25,95137
+Finland;Europe;Poland;Europe;2355141,01;2624,48416
+Finland;Europe;Portugal;Europe;227828,09;560,96349
+Finland;Europe;Paraguay;Europe;4183,32;0,31663
+Finland;Europe;French Polynesia;Oceania;1528,54;0,00012
+Finland;Europe;Qatar;Asia;28399,37;28,91201
+Finland;Europe;Romania;Europe;195657,12;363,80629
+Finland;Europe;Russian Federation;Asia;4361438,96;10051,97119
+Finland;Europe;Rwanda;Africa;840,17;3,38535
+Finland;Europe;Saudi Arabia;Asia;350572,26;35,37491
+Finland;Europe;Senegal;Africa;24794,75;0,30304
+Finland;Europe;Serbia, FR(Serbia/Montenegro);Europe;86932,69;61,85595
+Finland;Europe;Singapore;Asia;212676,54;294,07321
+Finland;Europe;Solomon Islands;Oceania;89,27;0,0008
+Finland;Europe;Sierra Leone;Africa;2101,97;1,14279
+Finland;Europe;El Salvador;America;12692,36;1,76177
+Finland;Europe;Somalia;Africa;59,41;0,00024
+Finland;Europe;South Sudan;Africa;6,46;0,00111
+Finland;Europe;Sudan;Africa;3914,82;0,00132
+Finland;Europe;Suriname;America;888,79;0,11425
+Finland;Europe;Slovak Republic;Europe;195636,32;394,02788
+Finland;Europe;Slovenia;Europe;89950,96;180,93011
+Finland;Europe;Sweden;Europe;8353450,27;9869,99099
+Finland;Europe;Eswatini;Europe;406,65;0,08014
+Finland;Europe;Seychelles;Africa;3118,28;2,35886
+Finland;Europe;Syrian Arab Republic;Asia;3659,2;0,03253
+Finland;Europe;Chad;Africa;4402,94;0,00323
+Finland;Europe;Togo;Africa;3841,67;0,01156
+Finland;Europe;Thailand;Asia;271424,88;371,47775
+Finland;Europe;Tajikistan;Asia;926,71;0,0033
+Finland;Europe;Turkmenistan;Asia;1367,54;0,00004
+Finland;Europe;Trinidad and Tobago;Africa;1161,49;0,15932
+Finland;Europe;Tunisia;Africa;64811,92;15,64035
+Finland;Europe;Turkey;Asia;1114689,36;860,05581
+Finland;Europe;Tuvalu;Oceania;26,73;0,00006
+Finland;Europe;Tanzania;Africa;31787,69;39,1046
+Finland;Europe;Uganda;Africa;4513,41;5,44244
+Finland;Europe;Ukraine;Europe;279895,37;115,62204
+Finland;Europe;Uruguay;America;334869,19;22,41866
+Finland;Europe;United States;America;5408125,64;2743,90175
+Finland;Europe;Uzbekistan;Asia;60289,19;3,52244
+Finland;Europe;St. Vincent and the Grenadines;America;6067,82;0,00322
+Finland;Europe;Venezuela;America;1461,19;0,05185
+Finland;Europe;British Virgin Islands;Europe;102805,9;0,00391
+Finland;Europe;Vietnam;Asia;258279,28;643,33322
+Finland;Europe;Samoa;America;0,17;0,09136
+Finland;Europe;Yemen;Asia;3225,69;0,0079
+Finland;Europe;South Africa;Africa;430787,82;223,57429
+Finland;Europe;Congo, Dem. Rep.;Africa;16125,45;0,27666
+Finland;Europe;Zambia;Africa;12941,11;1,7968
+Finland;Europe;Zimbabwe;Africa;11431,2;6,53208

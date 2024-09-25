@@ -1,0 +1,664 @@
+Source,Target,Total,Continent
+Algeria,Italy,9.384,Africa
+Algeria,China,9.01,Africa
+Algeria,France,8.729,Africa
+Algeria,Spain,7.234,Africa
+Algeria,United States of America,5.31,Africa
+Algeria,Turkey,3.845,Africa
+Algeria,Brazil,3.502,Africa
+Algeria,Germany,3.237,Africa
+Algeria,Netherlands,2.606,Africa
+Algeria,Republic of Korea,2.582,Africa
+Argentina,Brazil,24.159,South America
+Argentina,China,19.681,South America
+Argentina,United States of America,10.917,South America
+Argentina,India,5.687,South America
+Argentina,Chile,4.901,South America
+Argentina,Vietnam,4.406,South America
+Argentina,Netherlands,3.712,South America
+Argentina,Germany,3.338,South America
+Argentina,Spain,2.932,South America
+Australia,China,189.677,Oceania
+Australia,Japan,46.098,Oceania
+Australia,United States of America,37.637,Oceania
+Australia,Republic of Korea,32.068,Oceania
+Australia,India,19.993,Oceania
+Australia,Singapore,16.348,Oceania
+Australia,Thailand,15.796,Oceania
+Australia,Malaysia,14.518,Oceania
+Austria,Germany,128.109,Europe
+Austria,Italy,26.803,Europe
+Austria,Switzerland,22.051,Europe
+Austria,China,21.19,Europe
+Austria,United States of America,19.468,Europe
+Austria,Czech Republic,16.137,Europe
+Austria,Poland,14.51,Europe
+Austria,Hungary,12.711,Europe
+Austria,France,12.695,Europe
+Austria,Netherlands,9.319,Europe
+Bahrain,Saudi Arabia,3.427,Asia
+Bahrain,United Arab Emirates,2.668,Asia
+Bahrain,Brazil,2.194,Asia
+Bahrain,China,2.182,Asia
+Bahrain,United States of America,2.075,Asia
+Bahrain,India,1.129,Asia
+Bahrain,Australia,1.124,Asia
+Bahrain,Egypt,0.817,Asia
+Bahrain,Italy,0.731,Asia
+Bahrain,Oman,0.672,Asia
+Belarus,Russian Federation,25.921,Europe
+Belarus,China,3.959,Europe
+Belarus,Ukraine,2.654,Europe
+Belarus,Poland,2.648,Europe
+Belarus,Germany,2.294,Europe
+Belarus,Italy,0.849,Europe
+Belarus,Kazakhstan,0.842,Europe
+Belarus,Turkey,0.786,Europe
+Belgium,Netherlands,130.639,Europe
+Belgium,Germany,129.07,Europe
+Belgium,France,93.677,Europe
+Belgium,United States of America,45.962,Europe
+Belgium,United Kingdom,35.109,Europe
+Belgium,Italy,32.791,Europe
+Belgium,Ireland,24.683,Europe
+Belgium,China,19.617,Europe
+Belgium,Spain,18.561,Europe
+Belgium,Japan,17.116,Europe
+Botswana,South Africa,5.32,Africa
+Botswana,Belgium,2.959,Africa
+Botswana,United Arab Emirates,2.32,Africa
+Botswana,India,1.695,Africa
+Botswana,Israel,0.491,Africa
+Botswana,Singapore,0.437,Africa
+Botswana,"Hong Kong, China",0.395,Africa
+Botswana,China,0.293,Africa
+Botswana,Canada,0.229,Africa
+Brazil,China,141.372,South America
+Brazil,United States of America,72.841,South America
+Brazil,Argentina,24.291,South America
+Brazil,Germany,16.964,South America
+Brazil,India,12.033,South America
+Brazil,Chile,11.571,South America
+Brazil,Netherlands,11.534,South America
+Brazil,Republic of Korea,11.13,South America
+Brazil,Japan,10.967,South America
+Brazil,Mexico,10.331,South America
+Bulgaria,Germany,11.803,Europe
+Bulgaria,Romania,7.649,Europe
+Bulgaria,Turkey,6.179,Europe
+Bulgaria,Italy,6.16,Europe
+Bulgaria,Greece,5.414,Europe
+Bulgaria,Russian Federation,4.04,Europe
+Bulgaria,China,3.837,Europe
+Bulgaria,Netherlands,2.997,Europe
+Bulgaria,France,2.718,Europe
+Bulgaria,Poland,2.694,Europe
+Canada,United States of America,617.005,North America
+Canada,China,90.965,North America
+Canada,Mexico,33.536,North America
+Canada,Japan,23.894,North America
+Canada,Germany,20.39,North America
+Canada,United Kingdom,19.423,North America
+Canada,Republic of Korea,13.343,North America
+Canada,Italy,10.48,North America
+Canada,France,8.897,North America
+Canada,Vietnam,8.372,North America
+Chile,China,64.039,South America
+Chile,United States of America,30.96,South America
+Chile,Brazil,12.318,South America
+Chile,Japan,9.378,South America
+Chile,Republic of Korea,6.704,South America
+Chile,Argentina,5.701,South America
+Chile,Germany,4.023,South America
+Chile,Mexico,3.922,South America
+Chile,Spain,3.682,South America
+Chile,Peru,3.458,South America
+China,United States of America,758.097,Asia
+China,Japan,371.347,Asia
+China,Republic of Korea,362.292,Asia
+China,"Hong Kong, China",359.142,Asia
+China,Germany,235.102,Asia
+China,Vietnam,230.221,Asia
+China,Australia,230.114,Asia
+China,Malaysia,176.891,Asia
+China,Brazil,163.49,Asia
+Colombia,United States of America,25.816,South America
+Colombia,China,18.457,South America
+Colombia,Brazil,5.551,South America
+Colombia,Mexico,5.003,South America
+Colombia,India,3.617,South America
+Colombia,Germany,2.788,South America
+Colombia,Panama,2.426,South America
+Colombia,Spain,1.999,South America
+Colombia,Peru,1.937,South America
+"Congo, Rep.",China,1.541,Africa
+"Congo, Rep.",France,0.333,Africa
+"Congo, Rep.",Belgium,0.255,Africa
+"Congo, Rep.",India,0.151,Africa
+"Congo, Rep.",United Arab Emirates,0.141,Africa
+"Congo, Rep.",United States of America,0.113,Africa
+Costa Rica,United States of America,13.227,North America
+Costa Rica,China,3.247,North America
+Costa Rica,Mexico,1.538,North America
+Costa Rica,Netherlands,1.15,North America
+Costa Rica,Belgium,0.867,North America
+Costa Rica,Panama,0.804,North America
+Costa Rica,Japan,0.627,North America
+Cyprus,Greece,2.764,Asia
+Cyprus,Italy,1.096,Asia
+Cyprus,Germany,0.757,Asia
+Cyprus,United Kingdom,0.627,Asia
+Cyprus,Netherlands,0.592,Asia
+Cyprus,Israel,0.582,Asia
+Cyprus,China,0.571,Asia
+Cyprus,Spain,0.371,Asia
+Cyprus,Lebanon,0.365,Asia
+Czech Republic,Germany,120.553,Europe
+Czech Republic,China,38.083,Europe
+Czech Republic,Poland,32.597,Europe
+Czech Republic,Slovak Republic,27.729,Europe
+Czech Republic,Italy,17.737,Europe
+Czech Republic,France,16.534,Europe
+Czech Republic,Austria,16.07,Europe
+Czech Republic,Netherlands,13.821,Europe
+Czech Republic,Hungary,12.883,Europe
+Czech Republic,United Kingdom,11.987,Europe
+Denmark,Germany,41.301,Europe
+Denmark,Sweden,27.015,Europe
+Denmark,Netherlands,15.904,Europe
+Denmark,China,14.17,Europe
+Denmark,Norway,11.833,Europe
+Denmark,United States of America,10.333,Europe
+Denmark,Poland,9.538,Europe
+Denmark,United Kingdom,8.961,Europe
+Denmark,France,7.348,Europe
+Egypt,China,11.298,Africa
+Egypt,Saudi Arabia,8.25,Africa
+Egypt,United States of America,7.264,Africa
+Egypt,Turkey,5.778,Africa
+Egypt,Italy,4.961,Africa
+Egypt,India,4.797,Africa
+Egypt,Germany,4.119,Africa
+Egypt,United Arab Emirates,3.132,Africa
+Egypt,Spain,3.094,Africa
+Estonia,Finland,5.144,Europe
+Estonia,Russian Federation,4.199,Europe
+Estonia,Germany,3.594,Europe
+Estonia,Sweden,3.063,Europe
+Estonia,United States of America,2.459,Europe
+Estonia,China,2.34,Europe
+Estonia,Netherlands,1.918,Europe
+Finland,Germany,23.296,Europe
+Finland,Sweden,18.223,Europe
+Finland,Russian Federation,14.413,Europe
+Finland,China,12.03,Europe
+Finland,Netherlands,8.826,Europe
+Finland,United States of America,8.152,Europe
+Finland,Italy,5.841,Europe
+Finland,Estonia,5.56,Europe
+Finland,Poland,4.979,Europe
+France,Germany,201.586,Europe
+France,Belgium,120.99,Europe
+France,Italy,105.853,Europe
+France,Spain,99.432,Europe
+France,Netherlands,87.186,Europe
+France,China,76.533,Europe
+France,United States of America,72.335,Europe
+France,United Kingdom,56.69,Europe
+France,Switzerland,39.019,Europe
+France,Poland,31.527,Europe
+Germany,China,294.225,Europe
+Germany,United States of America,231.403,Europe
+Germany,Netherlands,215.619,Europe
+Germany,France,194.091,Europe
+Germany,Poland,173.829,Europe
+Germany,Italy,165.97,Europe
+Germany,Austria,134.453,Europe
+Germany,Switzerland,134.381,Europe
+Germany,Belgium,118.24,Europe
+Germany,United Kingdom,115.486,Europe
+Greece,Germany,23.001,Europe
+Greece,Italy,21.469,Europe
+Greece,China,13.541,Europe
+Greece,Turkey,10.775,Europe
+Greece,Russian Federation,10.666,Europe
+Greece,France,10.498,Europe
+Greece,Netherlands,10.396,Europe
+Greece,Bulgaria,9.069,Europe
+Greece,Spain,8.032,Europe
+"Hong Kong, China",China,717.595,Asia
+"Hong Kong, China",United States of America,69.895,Asia
+"Hong Kong, China",Singapore,64.631,Asia
+"Hong Kong, China",Japan,52.49,Asia
+"Hong Kong, China",Republic of Korea,52.1,Asia
+"Hong Kong, China",Vietnam,28.539,Asia
+"Hong Kong, China",India,27.961,Asia
+"Hong Kong, China",Malaysia,26.563,Asia
+"Hong Kong, China",Thailand,23.436,Asia
+Hungary,Germany,70.622,Europe
+Hungary,Slovak Republic,15.47,Europe
+Hungary,Austria,14.89,Europe
+Hungary,Italy,14.415,Europe
+Hungary,Poland,13.989,Europe
+Hungary,Czech Republic,12.575,Europe
+Hungary,China,12.301,Europe
+Hungary,Netherlands,11.592,Europe
+Hungary,Romania,11.399,Europe
+Hungary,France,10.285,Europe
+Iceland,Netherlands,2.151,Europe
+Iceland,United States of America,1.109,Europe
+Iceland,Germany,1.029,Europe
+Iceland,United Kingdom,1.017,Europe
+Iceland,Norway,0.955,Europe
+Iceland,Spain,0.858,Europe
+Iceland,China,0.825,Europe
+Iceland,Denmark,0.742,Europe
+Iceland,France,0.664,Europe
+Iceland,Brazil,0.398,Europe
+India,United States of America,112.897,Asia
+India,China,110.572,Asia
+India,United Arab Emirates,68.517,Asia
+India,Saudi Arabia,35.934,Asia
+India,Switzerland,30.782,Asia
+India,"Hong Kong, China",29.492,Asia
+India,Singapore,28.852,Asia
+India,Republic of Korea,24.179,Asia
+Ireland,United States of America,83.61,Europe
+Ireland,United Kingdom,44.576,Europe
+Ireland,Germany,29.652,Europe
+Ireland,China,23.24,Europe
+Ireland,Belgium,18.631,Europe
+Ireland,France,18.525,Europe
+Ireland,Netherlands,16.423,Europe
+Ireland,Switzerland,9.41,Europe
+Ireland,Italy,7.756,Europe
+Ireland,Japan,4.903,Europe
+Israel,United States of America,24.961,Asia
+Israel,China,15.126,Asia
+Israel,Germany,8.353,Asia
+Israel,Switzerland,7.361,Asia
+Israel,Turkey,6.683,Asia
+Israel,Belgium,6.596,Asia
+Israel,Netherlands,5.945,Asia
+Israel,India,5.365,Asia
+Israel,United Kingdom,5.048,Asia
+Italy,Germany,170.803,Europe
+Italy,France,109.432,Europe
+Italy,United States of America,77.065,Europe
+Italy,China,64.145,Europe
+Italy,Spain,61.101,Europe
+Italy,Netherlands,51.17,Europe
+Italy,Belgium,46.216,Europe
+Italy,Switzerland,45.451,Europe
+Italy,United Kingdom,37.24,Europe
+Italy,Poland,34.251,Europe
+Japan,China,349.524,Asia
+Japan,United States of America,218.942,Asia
+Japan,Republic of Korea,84.65,Asia
+Japan,Australia,67.498,Asia
+Japan,Thailand,59.377,Asia
+Japan,Germany,44.413,Asia
+Japan,Vietnam,42.107,Asia
+Japan,"Hong Kong, China",36.541,Asia
+Japan,Malaysia,35.336,Asia
+Kazakhstan,Russian Federation,24.624,Asia
+Kazakhstan,China,18.001,Asia
+Kazakhstan,Italy,9.675,Asia
+Kazakhstan,Netherlands,4.612,Asia
+Kazakhstan,Turkey,4.111,Asia
+Kazakhstan,France,3.06,Asia
+Kazakhstan,Republic of Korea,2.643,Asia
+Kazakhstan,United States of America,2.234,Asia
+Kazakhstan,Germany,2.214,Asia
+Kenya,China,4.226,Africa
+Kenya,India,2.202,Africa
+Kenya,United Arab Emirates,1.943,Africa
+Kenya,United States of America,1.345,Africa
+Kenya,Uganda,1.137,Africa
+Kenya,Saudi Arabia,1.116,Africa
+Kenya,Netherlands,0.989,Africa
+Kenya,Japan,0.953,Africa
+Kenya,Tanzania,0.9,Africa
+Kenya,Malaysia,0.872,Africa
+Republic of Korea,China,301.54,Asia
+Republic of Korea,United States of America,169.958,Asia
+Republic of Korea,Japan,84.703,Asia
+Republic of Korea,Vietnam,80.695,Asia
+Republic of Korea,Australia,42.666,Asia
+Republic of Korea,"Hong Kong, China",39.71,Asia
+Republic of Korea,Germany,33.1,Asia
+Republic of Korea,Saudi Arabia,27.596,Asia
+Republic of Korea,Russian Federation,27.335,Asia
+Kuwait,China,6.446,Asia
+Kuwait,United Arab Emirates,4.595,Asia
+Kuwait,United States of America,2.587,Asia
+Kuwait,Saudi Arabia,2.424,Asia
+Kuwait,India,2.375,Asia
+Kuwait,Japan,1.838,Asia
+Kuwait,Germany,1.413,Asia
+Kuwait,Italy,1.235,Asia
+Kuwait,Turkey,0.819,Asia
+Lebanon,United Arab Emirates,1.797,Asia
+Lebanon,Turkey,1.632,Asia
+Lebanon,Greece,1.464,Asia
+Lebanon,China,1.287,Asia
+Lebanon,United States of America,0.923,Asia
+Lebanon,Switzerland,0.757,Asia
+Lebanon,Italy,0.697,Asia
+Lebanon,Germany,0.659,Asia
+Lebanon,Russian Federation,0.621,Asia
+Lebanon,Egypt,0.539,Asia
+Malaysia,China,101.622,Asia
+Malaysia,Singapore,64.466,Asia
+Malaysia,United States of America,52.446,Asia
+Malaysia,Japan,35.958,Asia
+Malaysia,Thailand,23.646,Asia
+Malaysia,"Hong Kong, China",22.748,Asia
+Malaysia,Republic of Korea,21.161,Asia
+Malaysia,India,16.825,Asia
+Mexico,United States of America,607.399,North America
+Mexico,China,110.1,North America
+Mexico,Germany,24.641,North America
+Mexico,Canada,24.119,North America
+Mexico,Republic of Korea,22.271,North America
+Mexico,Japan,21.056,North America
+Mexico,Malaysia,12.624,North America
+Mexico,Brazil,12.191,North America
+Morocco,Spain,17.096,Africa
+Morocco,France,13.707,Africa
+Morocco,China,7.235,Africa
+Morocco,United States of America,4.849,Africa
+Morocco,Italy,4.532,Africa
+Morocco,Turkey,4.182,Africa
+Morocco,Germany,3.65,Africa
+Morocco,Brazil,2.879,Africa
+Morocco,India,2.877,Africa
+Morocco,Russian Federation,2.205,Africa
+Mozambique,South Africa,3.107,Africa
+Mozambique,India,1.543,Africa
+Mozambique,China,1.435,Africa
+Mozambique,United Arab Emirates,0.79,Africa
+Mozambique,Singapore,0.683,Africa
+Mozambique,Netherlands,0.617,Africa
+Mozambique,United Kingdom,0.519,Africa
+Mozambique,United States of America,0.343,Africa
+Mozambique,Portugal,0.33,Africa
+Mozambique,Japan,0.322,Africa
+Nepal,India,10.918,Asia
+Nepal,China,2.391,Asia
+Nepal,Argentina,0.452,Asia
+Nepal,United States of America,0.431,Asia
+Nepal,United Arab Emirates,0.419,Asia
+Nepal,Australia,0.237,Asia
+Nepal,Ukraine,0.198,Asia
+Nepal,Malaysia,0.139,Asia
+Nepal,Republic of Korea,0.136,Asia
+Netherlands,Germany,268.536,Europe
+Netherlands,Belgium,135.753,Europe
+Netherlands,United States of America,80.972,Europe
+Netherlands,China,80.234,Europe
+Netherlands,France,78.128,Europe
+Netherlands,United Kingdom,76.419,Europe
+Netherlands,Italy,47.388,Europe
+Netherlands,Poland,34.721,Europe
+Netherlands,Spain,34.462,Europe
+Netherlands,Russian Federation,29.73,Europe
+New Zealand,China,25.706,Oceania
+New Zealand,Australia,11.102,Oceania
+New Zealand,United States of America,8.975,Oceania
+New Zealand,Japan,5.622,Oceania
+New Zealand,Republic of Korea,3.562,Oceania
+New Zealand,Thailand,3.01,Oceania
+New Zealand,Germany,2.983,Oceania
+New Zealand,United Arab Emirates,2.421,Oceania
+New Zealand,United Kingdom,2.14,Oceania
+New Zealand,Malaysia,2.015,Oceania
+Norway,Germany,46.524,Europe
+Norway,United Kingdom,42.475,Europe
+Norway,Sweden,23.715,Europe
+Norway,China,22.774,Europe
+Norway,Netherlands,16.416,Europe
+Norway,France,16,Europe
+Norway,Belgium,12.617,Europe
+Norway,United States of America,10.704,Europe
+Norway,Denmark,9.327,Europe
+Norway,Poland,6.748,Europe
+Oman,United Arab Emirates,14.866,Asia
+Oman,India,3.36,Asia
+Oman,Saudi Arabia,3.189,Asia
+Oman,China,3.188,Asia
+Oman,Qatar,2.982,Asia
+Oman,United States of America,2.418,Asia
+Oman,Brazil,1.803,Asia
+Oman,Japan,1.268,Asia
+Oman,Bahrain,0.841,Asia
+Panama,United States of America,3.546,North America
+Panama,China,2.777,North America
+Panama,Japan,0.735,North America
+Panama,Mexico,0.685,North America
+Panama,Spain,0.603,North America
+Panama,Costa Rica,0.578,North America
+Panama,Republic of Korea,0.543,North America
+Panama,Colombia,0.443,North America
+Panama,Germany,0.398,North America
+Peru,China,32.607,South America
+Peru,United States of America,16.755,South America
+Peru,Brazil,4.499,South America
+Peru,Japan,3.804,South America
+Peru,Republic of Korea,3.771,South America
+Peru,Canada,3.721,South America
+Peru,India,3.62,South America
+Peru,Chile,3.029,South America
+Peru,Argentina,2.477,South America
+Peru,Mexico,2.446,South America
+Poland,Germany,161.688,Europe
+Poland,China,52.983,Europe
+Poland,Italy,30.83,Europe
+Poland,Czech Republic,29.755,Europe
+Poland,France,29.349,Europe
+Poland,Russian Federation,28.903,Europe
+Poland,Netherlands,27.515,Europe
+Poland,United Kingdom,21.539,Europe
+Poland,United States of America,19.055,Europe
+Poland,Belgium,15.052,Europe
+Portugal,Spain,52.415,Europe
+Portugal,Germany,20.504,Europe
+Portugal,France,16.462,Europe
+Portugal,Italy,8.472,Europe
+Portugal,Netherlands,8.187,Europe
+Portugal,United States of America,6.563,Europe
+Portugal,China,5.473,Europe
+Portugal,United Kingdom,5.084,Europe
+Portugal,Belgium,4.942,Europe
+Portugal,Brazil,3.851,Europe
+Qatar,China,18.023,Asia
+Qatar,India,12.974,Asia
+Qatar,Japan,12.754,Asia
+Qatar,Republic of Korea,11.589,Asia
+Qatar,Singapore,5.87,Asia
+Qatar,United States of America,5.002,Asia
+Qatar,United Kingdom,4.504,Asia
+Qatar,Italy,3.857,Asia
+Qatar,United Arab Emirates,3.536,Asia
+Qatar,Thailand,3.068,Asia
+Romania,Germany,41.627,Europe
+Romania,Italy,19.578,Europe
+Romania,Hungary,13.003,Europe
+Romania,Poland,10.793,Europe
+Romania,France,10.549,Europe
+Romania,Turkey,8.858,Europe
+Romania,Bulgaria,8.411,Europe
+Romania,China,7.72,Europe
+Romania,Netherlands,7.651,Europe
+Romania,Russian Federation,6.834,Europe
+Russian Federation,China,141.372,Europe
+Russian Federation,Germany,56.997,Europe
+Russian Federation,Netherlands,46.429,Europe
+Russian Federation,Belarus,38.766,Europe
+Russian Federation,United States of America,35.013,Europe
+Russian Federation,Turkey,32.941,Europe
+Russian Federation,Italy,31.318,Europe
+Russian Federation,Republic of Korea,29.882,Europe
+Russian Federation,United Kingdom,26.742,Europe
+Russian Federation,Kazakhstan,25.626,Europe
+Saudi Arabia,China,41.193,Asia
+Saudi Arabia,United Arab Emirates,27.221,Asia
+Saudi Arabia,United States of America,21.171,Asia
+Saudi Arabia,India,17.207,Asia
+Saudi Arabia,Egypt,11.991,Asia
+Saudi Arabia,Japan,8.139,Asia
+Saudi Arabia,Germany,7.92,Asia
+Saudi Arabia,Republic of Korea,6.818,Asia
+Saudi Arabia,France,6.776,Asia
+Singapore,China,122.358,Asia
+Singapore,Malaysia,95.859,Asia
+Singapore,United States of America,79.89,Asia
+Singapore,"Hong Kong, China",63.396,Asia
+Singapore,Republic of Korea,41.895,Asia
+Singapore,Japan,40.159,Asia
+Singapore,Thailand,25.427,Asia
+Singapore,Australia,20.278,Asia
+Slovak Republic,Germany,42.808,Europe
+Slovak Republic,Czech Republic,22.396,Europe
+Slovak Republic,Poland,14.539,Europe
+Slovak Republic,Hungary,11.374,Europe
+Slovak Republic,France,10.452,Europe
+Slovak Republic,China,10.321,Europe
+Slovak Republic,Austria,8.566,Europe
+Slovak Republic,Italy,8.458,Europe
+Slovak Republic,Russian Federation,8.17,Europe
+South Africa,China,32.798,Africa
+South Africa,United States of America,19.55,Africa
+South Africa,Germany,16.919,Africa
+South Africa,Japan,10.827,Africa
+South Africa,United Kingdom,10.048,Africa
+South Africa,India,9.504,Africa
+South Africa,Netherlands,5.77,Africa
+South Africa,Mozambique,5.111,Africa
+South Africa,Botswana,4.933,Africa
+Spain,France,100.083,Europe
+Spain,Germany,83.588,Europe
+Spain,Italy,58.174,Europe
+Spain,China,51.443,Europe
+Spain,Portugal,45.501,Europe
+Spain,United States of America,37.682,Europe
+Spain,Netherlands,33.287,Europe
+Spain,United Kingdom,31.912,Europe
+Spain,Belgium,28.034,Europe
+Sweden,Germany,51.163,Europe
+Sweden,Norway,39.298,Europe
+Sweden,Netherlands,28.391,Europe
+Sweden,Denmark,27.624,Europe
+Sweden,Finland,21.704,Europe
+Sweden,China,20.74,Europe
+Sweden,United States of America,20.575,Europe
+Sweden,United Kingdom,16.172,Europe
+Sweden,Poland,16.057,Europe
+Sweden,Belgium,15.106,Europe
+Switzerland,Germany,117.6,Europe
+Switzerland,United States of America,86.967,Europe
+Switzerland,China,52.857,Europe
+Switzerland,United Kingdom,50.417,Europe
+Switzerland,Italy,44.247,Europe
+Switzerland,France,38.095,Europe
+Switzerland,India,33.743,Europe
+Switzerland,Spain,22.88,Europe
+Switzerland,Austria,20.396,Europe
+Switzerland,"Hong Kong, China",14.839,Europe
+Tanzania,China,2.969,Africa
+Tanzania,United Arab Emirates,2.412,Africa
+Tanzania,India,2.219,Africa
+Tanzania,South Africa,1.349,Africa
+Tanzania,Kenya,0.808,Africa
+Tanzania,Saudi Arabia,0.681,Africa
+Tanzania,Switzerland,0.604,Africa
+Tanzania,Japan,0.536,Africa
+Tanzania,Uganda,0.424,Africa
+Tanzania,United States of America,0.3,Africa
+Thailand,China,103.004,Asia
+Thailand,Japan,60.13,Asia
+Thailand,United States of America,55.801,Asia
+Thailand,Malaysia,23.926,Asia
+Thailand,Vietnam,19.223,Asia
+Thailand,Australia,17.117,Asia
+Thailand,Singapore,16.206,Asia
+Thailand,Republic of Korea,15.695,Asia
+Turkey,Germany,41.037,Europe
+Turkey,China,35.901,Europe
+Turkey,Russian Federation,34.733,Europe
+Turkey,United States of America,27.87,Europe
+Turkey,Italy,23.036,Europe
+Turkey,United Kingdom,19.262,Europe
+Turkey,France,17.055,Europe
+Turkey,Spain,15.932,Europe
+Turkey,Netherlands,11.274,Europe
+United Arab Emirates,China,60.865,Asia
+United Arab Emirates,India,44.855,Asia
+United Arab Emirates,Saudi Arabia,33.942,Asia
+United Arab Emirates,United States of America,24.551,Asia
+United Arab Emirates,Switzerland,14.067,Asia
+United Arab Emirates,Turkey,13.496,Asia
+United Arab Emirates,Japan,13.396,Asia
+United Arab Emirates,Oman,12.696,Asia
+Uganda,United Arab Emirates,2.341,Africa
+Uganda,China,1.392,Africa
+Uganda,Kenya,1.239,Africa
+Uganda,India,1.016,Africa
+Uganda,Tanzania,0.839,Africa
+Uganda,Japan,0.348,Africa
+Uganda,Netherlands,0.278,Africa
+Uganda,Saudi Arabia,0.279,Africa
+United Kingdom,United States of America,119.582,Europe
+United Kingdom,Germany,116.47,Europe
+United Kingdom,China,112.052,Europe
+United Kingdom,Netherlands,78.637,Europe
+United Kingdom,France,57.013,Europe
+United Kingdom,Belgium,51.029,Europe
+United Kingdom,Switzerland,50.579,Europe
+United Kingdom,Ireland,48.58,Europe
+United Kingdom,Norway,40.147,Europe
+United Kingdom,Italy,38.078,Europe
+Ukraine,China,18.63,Europe
+Ukraine,Poland,9.874,Europe
+Ukraine,Russian Federation,9.199,Europe
+Ukraine,Germany,8.858,Europe
+Ukraine,Turkey,7.154,Europe
+Ukraine,Belarus,6.17,Europe
+Ukraine,Italy,5.858,Europe
+Ukraine,United States of America,4.96,Europe
+Ukraine,India,3.449,Europe
+Ukraine,Hungary,3.101,Europe
+United States of America,China,692.596,North America
+United States of America,Canada,670.832,North America
+United States of America,Mexico,664.817,North America
+United States of America,Japan,214.351,North America
+United States of America,Germany,203.001,North America
+United States of America,Republic of Korea,164.577,North America
+United States of America,Vietnam,119.143,North America
+United States of America,United Kingdom,118.38,North America
+United States of America,India,117.149,North America
+Vietnam,China,165.774,Asia
+Vietnam,United States of America,111.507,Asia
+Vietnam,Republic of Korea,78.046,Asia
+Vietnam,Japan,42.72,Asia
+Vietnam,Thailand,18.619,Asia
+Vietnam,"Hong Kong, China",13.617,Asia
+Vietnam,India,13.206,Asia
+Vietnam,Malaysia,12.516,Asia
+Vietnam,Australia,12.403,Asia
+Zambia,Switzerland,4.265,Africa
+Zambia,China,2.722,Africa
+Zambia,South Africa,2.277,Africa
+Zambia,Singapore,1.394,Africa
+Zambia,India,0.498,Africa
+Zambia,United Arab Emirates,0.395,Africa
+Zambia,Zimbabwe,0.252,Africa
+Zambia,United States of America,0.23,Africa
+Zimbabwe,South Africa,6.163,Africa
+Zimbabwe,United Arab Emirates,1.891,Africa
+Zimbabwe,China,1.176,Africa
+Zimbabwe,Singapore,1.047,Africa
+Zimbabwe,Mozambique,0.764,Africa
+Zimbabwe,Zambia,0.265,Africa
+Zimbabwe,"Hong Kong, China",0.196,Africa
+Zimbabwe,India,0.164,Africa
